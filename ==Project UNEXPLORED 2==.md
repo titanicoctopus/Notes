@@ -9,3 +9,5 @@ Notes for designing the game
 xx
 [[plans]]
 [[meetings]]
+
+[[chronicles concept]]
