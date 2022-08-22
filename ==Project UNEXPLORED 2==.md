@@ -6,6 +6,6 @@ Notes for designing the game
 [[bugs]]
 [[to do]]
 
-
+xx
 [[plans]]
 [[meetings]]
