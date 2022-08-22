@@ -4,90 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "764a342772266b3f",
+        "id": "61b2ed8494c23af5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "meetings.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c610b2b30b3b42a5",
-    "type": "split",
+    "id": "5a70a486b86873a9",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "eda8bc05a01ab7c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "acdd45f72e680c64",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "398ff5cc519592eb",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#unexplored",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "eebff2ae54ba8344",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7b26377d4a42ee62",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "8a6929e13e6001ef",
-    "type": "split",
+    "id": "d48f87a5349a8493",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5bd075f7a61ab2dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e2132f6f6ec837d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "1e26ffae9ca4a2e7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "meetings.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "764a342772266b3f",
+  "active": "61b2ed8494c23af5",
   "lastOpenFiles": [
+    "==Project UNEXPLORED 2==.md",
     "meetings.md",
     "22-08-2022 Flame Elemental.md",
-    "==Project UNEXPLORED 2==.md",
     "22-08-2022.md",
     "plans.md",
     "sun egg.md",
