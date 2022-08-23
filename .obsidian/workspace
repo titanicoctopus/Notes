@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "==Project UNEXPLORED 2==.md",
+            "file": "to do.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "==Project UNEXPLORED 2==.md",
+            "file": "to do.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -82,8 +82,8 @@
   },
   "active": "764a342772266b3f",
   "lastOpenFiles": [
-    "chronicles concept.md",
     "==Project UNEXPLORED 2==.md",
+    "chronicles concept.md",
     "plans.md",
     "meetings.md",
     "22-08-2022 Flame Elemental.md",
