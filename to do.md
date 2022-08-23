@@ -3,11 +3,13 @@
 [[==Project UNEXPLORED 2==]]
 
 23-08-2022
-
+di
+- [x] Steam forum
+- [x] Discord
 
 wo
 - [ ] Voorstel Chronicles
-	- [ ] 3 concepten
+	- [x] 3 concepten
 	- [ ] slide deck
 vr
 - [ ] Facturen Mei 2021 + Xbox
@@ -22,6 +24,7 @@ vr
 	- [ ] Location
 	- [ ] Hints / lore
 	- [ ] specs
+		- [x] weapon spec sheet
 - [ ] Review lord of the flies scenario's
 	- [ ] Lord of the flies >> lore
 - [ ] Review new wight encounter.
