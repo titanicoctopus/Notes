@@ -4,30 +4,29 @@
 
 23-08-2022
 
-this week
 
-- [ ] Flow of info
-	- [ ] legends
-	- [ ] where is the glaive
-		hints
-
-Flame Elemental
-	Dialogue
-	Boons
-
-Glaive
-	Location
-	Hints / lore
-	specs
-
-Review lord of the flies scenario's
-	Lord of the flies >> lore
-
-Review new wight encounter.
-
-Review Winter wolf
-
-Review Spike boar + encounter
+wo
+- [ ] Voorstel Chronicles
+	- [ ] 3 concepten
+	- [ ] slide deck
+vr
+- [ ] Facturen Mei 2021 + Xbox
+- [ ] Flame Elemental
+	- [ ] Dialogue
+	- [ ] Boons
+		- [ ] Flow of info
+			- [ ] legends
+			- [ ] where is the glaive
+			- [ ] hints
+- [ ] Glaive
+	- [ ] Location
+	- [ ] Hints / lore
+	- [ ] specs
+- [ ] Review lord of the flies scenario's
+	- [ ] Lord of the flies >> lore
+- [ ] Review new wight encounter.
+- [ ] Review Winter wolf
+- [ ] Review Spike boar + encounter
 
 
 
