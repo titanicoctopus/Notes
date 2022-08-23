@@ -9,23 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "to do.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "be101865f11d29c0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "22-08-2022 Flame Elemental.md",
-=======
             "file": "==Project UNEXPLORED 2==.md",
->>>>>>> 191dda7 (synced with android on Tue Aug 23 22:37:05 CEST 2022)
             "mode": "source",
             "source": false
           }
@@ -69,27 +53,6 @@
     "type": "mobile-drawer",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "5bd075f7a61ab2dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e2132f6f6ec837d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "to do.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-=======
         "id": "506db918ae488f5d",
         "type": "leaf",
         "state": {
@@ -103,8 +66,15 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
->>>>>>> 191dda7 (synced with android on Tue Aug 23 22:37:05 CEST 2022)
           }
+        }
+      },
+      {
+        "id": "bfb4625f2bffb850",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -112,21 +82,15 @@
   },
   "active": "764a342772266b3f",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "22-08-2022 Flame Elemental.md",
-    "to do.md",
-    "==Project UNEXPLORED 2==.md",
-    "chronicles concept.md",
-=======
     "chronicles concept.md",
     "==Project UNEXPLORED 2==.md",
     "plans.md",
->>>>>>> 191dda7 (synced with android on Tue Aug 23 22:37:05 CEST 2022)
     "meetings.md",
-    "plans.md",
+    "22-08-2022 Flame Elemental.md",
     "22-08-2022.md",
     "sun egg.md",
     "Lore.md",
-    "Game Design.md"
+    "Game Design.md",
+    "Flame Elemental Legend.md"
   ]
 }
