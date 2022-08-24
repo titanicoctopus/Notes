@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "to do.md",
+            "file": "chronicles concept.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
+                "file": "chronicles concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,10 +102,10 @@
   },
   "active": "764a342772266b3f",
   "lastOpenFiles": [
+    "==Project UNEXPLORED 2==.md",
+    "to do.md",
     "22-08-2022 Flame Elemental.md",
     "conflict-files-obsidian-git.md",
-    "to do.md",
-    "==Project UNEXPLORED 2==.md",
     "chronicles concept.md",
     "meetings.md",
     "plans.md",
