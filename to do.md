@@ -8,11 +8,11 @@ di
 - [x] Discord
 
 wo
-- [ ] Voorstel Chronicles
+- [x] Voorstel Chronicles
 	- [x] 3 concepten
-	- [ ] slide deck
+	- [x] slide deck
 vr
-- [ ] Facturen Mei 2021 + Xbox
+- [x] Facturen Mei 2021 + Xbox
 - [ ] Flame Elemental
 	- [ ] Dialogue
 	- [ ] Boons

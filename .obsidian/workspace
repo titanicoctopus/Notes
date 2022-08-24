@@ -14,103 +14,84 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "be101865f11d29c0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "22-08-2022 Flame Elemental.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c610b2b30b3b42a5",
-    "type": "split",
+    "id": "ff4d07ef26553d0e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "eda8bc05a01ab7c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "acdd45f72e680c64",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "398ff5cc519592eb",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#unexplored",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "d861d17380066764",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f86a1b71e0ab136f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "8a6929e13e6001ef",
-    "type": "split",
+    "id": "d68275089a6c5656",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5bd075f7a61ab2dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e2132f6f6ec837d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "22-08-2022 Flame Elemental.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "506db918ae488f5d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "to do.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "bfb4625f2bffb850",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "be101865f11d29c0",
   "lastOpenFiles": [
-    "to do.md",
     "22-08-2022 Flame Elemental.md",
     "==Project UNEXPLORED 2==.md",
     "chronicles concept.md",
-    "meetings.md",
     "plans.md",
+    "meetings.md",
+    "22-08-2022 Flame Elemental.md",
     "22-08-2022.md",
     "sun egg.md",
     "Lore.md",
-    "Game Design.md"
+    "Game Design.md",
+    "Flame Elemental Legend.md"
   ]
 }
