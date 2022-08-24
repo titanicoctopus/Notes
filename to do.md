@@ -11,6 +11,9 @@ wo
 - [x] Voorstel Chronicles
 	- [x] 3 concepten
 	- [x] slide deck
+- [ ] Steam Forum
+- [ ] Discord
+
 vr
 - [x] Facturen Mei 2021 + Xbox
 - [ ] Flame Elemental
