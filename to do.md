@@ -11,18 +11,22 @@ wo
 - [x] Voorstel Chronicles
 	- [x] 3 concepten
 	- [x] slide deck
+- [x] Steam Forum
+- [x] Discord
+- [x] Meeting Chronicles
+
 vr
 - [x] Facturen Mei 2021 + Xbox
 - [ ] Flame Elemental
 	- [ ] Dialogue
-	- [ ] Boons
+	- [x] Boons
 		- [ ] Flow of info
-			- [ ] legends
-			- [ ] where is the glaive
+			- [x] legends
+			- [x] where is the glaive
 			- [ ] hints
 - [ ] Glaive
-	- [ ] Location
-	- [ ] Hints / lore
+	- [x] Location
+	- [x] Hints / lore
 	- [ ] specs
 		- [x] weapon spec sheet
 - [ ] Review lord of the flies scenario's
