@@ -1,8 +1,34 @@
-#unexplored 
+#Work
 
+[[WORK]]
+
+29-08-2022
+Ma
+[[==Project UNEXPLORED 2==]]
+- [ ] meeting joris chronicles
+
+[[Hku 2022-2023]]
+
+- [ ] s1 applied games content in canvas
+
+[[Hva 2022-2023]]
+ 
+
+Di
 [[==Project UNEXPLORED 2==]]
 
+Wo
+[[==Project UNEXPLORED 2==]]
+
+Do
+
+
+Vr
+
+
 23-08-2022
+
+[[==Project UNEXPLORED 2==]]
 di
 - [x] Steam forum
 - [x] Discord
@@ -16,6 +42,11 @@ wo
 - [x] Meeting Chronicles
 
 vr
+
+- [ ] nox werk bekijken
+- [ ] herkansing julius
+- [ ] beoordeling viktor
+
 - [x] Facturen Mei 2021 + Xbox
 - [ ] Flame Elemental
 	- [ ] Dialogue
