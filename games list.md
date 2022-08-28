@@ -13,7 +13,17 @@ Switch
 - [ ] Romancing Saga 3 Remaster
 - [ ] # Super Robot Wars 30 (English)
 - [ ] Harvestella (nov 2022)
+- [ ] The DioField Chronicle (sep 2022)
 - [ ] 
 
 
 PC
+- [ ] Starfield
+- [ ] Elder Scrolls 6
+- [ ] Mass Effect 4
+- [ ] Dragon Age 4
+- [ ] Homeworld 3
+- [ ] Redfall
+- [ ] The Outer Worlds 2
+- [ ] System Shock 3
+- [ ] Star Trej 
