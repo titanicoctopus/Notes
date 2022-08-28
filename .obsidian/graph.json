@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 5431518
       }
+    },
+    {
+      "query": "tag:#work",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000002,
+  "scale": 0.7617958454865049,
   "close": false
 }

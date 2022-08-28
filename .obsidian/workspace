@@ -9,98 +9,88 @@
         "state": {
           "type": "graph",
           "state": {}
+            "file": "WORK.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c610b2b30b3b42a5",
-    "type": "split",
+    "id": "ff7bae6187b43cb4",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "eda8bc05a01ab7c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "acdd45f72e680c64",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "398ff5cc519592eb",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#unexplored",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "26c9666748d26310",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "68a75365dedc2fcd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "8a6929e13e6001ef",
-    "type": "split",
+    "id": "2f9d5a08be2c7654",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5bd075f7a61ab2dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e2132f6f6ec837d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bbbd9e57583d811a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
+        "id": "8c19c1102dd84fe5",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "b0800460f099501e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "WORK.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "active": "764a342772266b3f",
   "lastOpenFiles": [
     "==Project UNEXPLORED 2==.md",
-    "chronicles concept.md",
     "to do.md",
+    "WORK.md",
+    "Hku 2022-2023.md",
+    "chronicles concept.md",
     "22-08-2022 Flame Elemental.md",
     "conflict-files-obsidian-git.md",
     "meetings.md",
     "plans.md",
-    "22-08-2022.md",
-    "sun egg.md",
-    "Lore.md"
+    "22-08-2022.md"
   ]
 }
