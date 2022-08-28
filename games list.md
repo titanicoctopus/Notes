@@ -37,4 +37,4 @@ PC
 - [ ] Soul Hackers 2
 - [ ] Lost in Play
 - [ ] Brok the Investigator
-- [ ] 
+- [ ] Legioncraft
