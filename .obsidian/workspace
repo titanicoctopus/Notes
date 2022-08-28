@@ -7,12 +7,8 @@
         "id": "764a342772266b3f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "==Project UNEXPLORED 2==.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "==Project UNEXPLORED 2==.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +92,10 @@
   },
   "active": "764a342772266b3f",
   "lastOpenFiles": [
+    "==Project UNEXPLORED 2==.md",
     "chronicles concept.md",
     "to do.md",
     "22-08-2022 Flame Elemental.md",
-    "==Project UNEXPLORED 2==.md",
     "conflict-files-obsidian-git.md",
     "meetings.md",
     "plans.md",
