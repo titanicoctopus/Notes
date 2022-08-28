@@ -14,7 +14,8 @@ Switch
 - [ ] # Super Robot Wars 30 (English)
 - [ ] Harvestella (nov 2022)
 - [ ] The DioField Chronicle (sep 2022)
-- [ ] 
+- [ ] Shin Megami Tensei 5
+- [ ] Shin Chan: Me and the Professor on S
 
 
 PC
@@ -26,4 +27,12 @@ PC
 - [ ] Redfall
 - [ ] The Outer Worlds 2
 - [ ] System Shock 3
-- [ ] Star Trej 
+- [ ] Star Trek Resurgence
+- [ ] Marvel's Spider-Man Remastered
+- [ ] Marvel's Midnight Suns
+- [ ] Forspoken
+- [ ] Star Wars Jedi Survivor
+- [ ] Black Myth: Wukong
+- [ ] Fashion Police Squad
+- [ ] Soul Hackers 2
+- [ ] 
