@@ -15,7 +15,7 @@ Switch
 - [ ] Harvestella (nov 2022)
 - [ ] The DioField Chronicle (sep 2022)
 - [ ] Shin Megami Tensei 5
-- [ ] Shin Chan: Me and the Professor on S
+- [ ] Shin Chan: Me and the Professor on Summer Vacation
 
 
 PC
@@ -35,4 +35,6 @@ PC
 - [ ] Black Myth: Wukong
 - [ ] Fashion Police Squad
 - [ ] Soul Hackers 2
+- [ ] Lost in Play
+- [ ] Brok the Investigator
 - [ ] 
