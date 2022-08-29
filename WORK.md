@@ -14,3 +14,5 @@ Projects
 [[Hku 2022-2023]]
 [[Hva 2022-2023]]
 
+Misc.
+[[games list]]
