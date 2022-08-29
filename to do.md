@@ -6,6 +6,9 @@
 Ma
 [[==Project UNEXPLORED 2==]]
 - [ ] meeting joris chronicles
+	- [ ] List of elemental boon effects for elementals
+	- [ ] concrete concepts for 'playful' elemental magic
+	- [ ] testing: no staff character
 
 [[Hku 2022-2023]]
 
