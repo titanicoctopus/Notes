@@ -10,6 +10,8 @@ Ma
 [[Hku 2022-2023]]
 
 - [ ] s1 applied games content in canvas
+- [x] Bespreking Nox
+	- [ ] 5
 
 [[Hva 2022-2023]]
  
