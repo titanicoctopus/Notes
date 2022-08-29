@@ -6,7 +6,7 @@
 Ma
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
-	- [ ] List of elemental boon effects for elementals
+	- [x] List of elemental boon effects for elementals
 		- [ ] first version display on map
 			- [ ] text
 			- [ ] Icons
@@ -24,7 +24,7 @@ Ma
 - [ ] Rooster invoeren in kalender
 - [x] Julius opdracht nakijken (endterm tool)
 	- [x] https://medewerkers.hku.nl/onderwijs-schools/toetsen-en-beoordelen-3.htm
-		- [ ] Oordeel: V
+		- [x] Oordeel: V
 		- [x] Niels contacteren
 
 [[Hva 2022-2023]]
