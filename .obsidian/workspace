@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flame Elemental Legend.md",
+            "file": "22-08-2022 Flame Elemental.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flame Elemental Legend.md",
+                "file": "22-08-2022 Flame Elemental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   "active": "89059f67e1029e10",
   "lastOpenFiles": [
     "Flame Elemental Content.md",
+    "Flame Elemental Legend.md",
     "to do.md",
     "WORK.md",
     "games list.md"
