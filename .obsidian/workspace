@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "to do.md",
+            "file": "Flame Elemental Legend.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
+                "file": "Flame Elemental Legend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,8 @@
   },
   "active": "89059f67e1029e10",
   "lastOpenFiles": [
+    "Flame Elemental Content.md",
+    "to do.md",
     "WORK.md",
     "games list.md"
   ]
