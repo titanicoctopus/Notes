@@ -23,6 +23,7 @@ Ma
 	- [ ] contact silver
 - [ ] Rooster invoeren in kalender
 - [ ] Julius opdracht nakijken (endterm tool)
+	- [ ] https://medewerkers.hku.nl/onderwijs-schools/toetsen-en-beoordelen-3.htm
 
 [[Hva 2022-2023]]
 - [ ] Rooster invoeren in kalender
