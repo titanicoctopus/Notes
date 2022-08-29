@@ -5,28 +5,37 @@
 29-08-2022
 Ma
 [[==Project UNEXPLORED 2==]]
-- [ ] meeting joris chronicles
+- [x] meeting joris chronicles
 	- [ ] List of elemental boon effects for elementals
+		- [ ] first version display on map
+			- [ ] text
+			- [ ] Icons
+			- [ ] map visualisation
 	- [ ] concrete concepts for 'playful' elemental magic
 	- [ ] testing: no staff character
+	- [ ] Testing flame elemental content (do)
 
 [[Hku 2022-2023]]
 
 - [ ] s1 applied games content in canvas
 - [x] Bespreking Nox
-	- [ ] 5
+	- [ ] result 5
+	- [ ] contact silver
+- [ ] Rooster invoeren in kalender
+- [ ] Julius opdracht nakijken (endterm tool)
 
 [[Hva 2022-2023]]
- 
+- [ ] Rooster invoeren in kalender
+
 
 Di
-[[==Project UNEXPLORED 2==]]
+
 
 Wo
 [[==Project UNEXPLORED 2==]]
 
 Do
-
+[[==Project UNEXPLORED 2==]]
 
 Vr
 
