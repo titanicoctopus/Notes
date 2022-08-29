@@ -25,7 +25,7 @@ Ma
 - [x] Julius opdracht nakijken (endterm tool)
 	- [x] https://medewerkers.hku.nl/onderwijs-schools/toetsen-en-beoordelen-3.htm
 		- [ ] Oordeel: V
-		- [ ] Niels contacteren
+		- [x] Niels contacteren
 
 [[Hva 2022-2023]]
 - [ ] Rooster invoeren in kalender
@@ -60,9 +60,9 @@ wo
 
 vr
 
-- [ ] nox werk bekijken
-- [ ] herkansing julius
-- [ ] beoordeling viktor
+- [x] nox werk bekijken
+- [x] herkansing julius
+- [x] beoordeling viktor
 
 - [x] Facturen Mei 2021 + Xbox
 - [ ] Flame Elemental
