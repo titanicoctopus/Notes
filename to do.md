@@ -15,6 +15,9 @@
 		- [ ] modeling
 		- [ ] Documenting
 	- [ ] testing: no staff character
+		- [x] no backup light
+		- [ ] no use of sprite magic
+		- [ ] no staff based lock / key
 	- [ ] Testing flame elemental content (do)
 
 [[Hku 2022-2023]]
