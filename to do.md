@@ -3,7 +3,7 @@
 [[WORK]]
 
 29-08-2022
-Ma
+
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
 	- [x] List of elemental boon effects for elementals
@@ -11,7 +11,9 @@ Ma
 			- [ ] text
 			- [ ] Icons
 			- [ ] map visualisation
-	- [ ] concrete concepts for 'playful' elemental magic
+	- [ ] concrete concepts for 'playful' elemental magic\
+		- [ ] modeling
+		- [ ] Documenting
 	- [ ] testing: no staff character
 	- [ ] Testing flame elemental content (do)
 
@@ -21,26 +23,18 @@ Ma
 - [x] Bespreking Nox
 	- [ ] result 5
 	- [ ] contact silver
-- [ ] Rooster invoeren in kalender
+- [x] Rooster invoeren in kalender
 - [x] Julius opdracht nakijken (endterm tool)
 	- [x] https://medewerkers.hku.nl/onderwijs-schools/toetsen-en-beoordelen-3.htm
 		- [x] Oordeel: V
 		- [x] Niels contacteren
 
 [[Hva 2022-2023]]
-- [ ] Rooster invoeren in kalender
+- [x] Rooster invoeren in kalender
+- [ ] UI kick off meeting (wo)
+- [ ] PGD kick off meeting (do)
 
 
-Di
-
-
-Wo
-[[==Project UNEXPLORED 2==]]
-
-Do
-[[==Project UNEXPLORED 2==]]
-
-Vr
 
 
 23-08-2022
