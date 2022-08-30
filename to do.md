@@ -19,6 +19,7 @@
 		- [ ] no use of sprite magic
 		- [ ] no staff based lock / key
 	- [ ] Testing flame elemental content (do)
+		- [x] Flame servitor test
 
 [[Hku 2022-2023]]
 
