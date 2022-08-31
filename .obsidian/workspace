@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89059f67e1029e10",
+  "active": "de9db4d530eab370",
   "lastOpenFiles": [
     "to do.md",
     "22-08-2022 Flame Elemental.md",
