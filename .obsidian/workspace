@@ -27,47 +27,41 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2c08541b1c4cec8b",
-    "type": "split",
+    "id": "cbe6c7965a3d9858",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "ea71e5fbf85905a1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cec49426cc69b65b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "f33dbf602ca0d894",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "993cf83a622831ae",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "32a0a64dbc82bca9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "a79862d8d0a32996",
-    "type": "split",
+    "id": "cd716bf87a2d9d8c",
+    "type": "mobile-drawer",
     "children": [
       {
+<<<<<<< HEAD
         "id": "70f3311acfd9ff12",
         "type": "tabs",
         "children": [
@@ -94,13 +88,34 @@
                 "unlinkedCollapsed": true
               }
             }
+=======
+        "id": "b3afe8a50140e47b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "14f1237c7cbbd1c8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "to do.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+>>>>>>> 71b3e9b (jd)
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "de9db4d530eab370",
   "lastOpenFiles": [
