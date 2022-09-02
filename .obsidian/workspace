@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "games list.md",
+            "file": "02-09-2022 UE2 Marketing 2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "games list.md",
+                "file": "02-09-2022 UE2 Marketing 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "1f897e6e5569a304",
   "lastOpenFiles": [
-    "-==WORK==-.md",
-    "==Project UNEXPLORED 2==.md",
-    "22-08-2022 Flame Elemental.md",
     "meetings UE2.md",
-    "22-08-2022 UE2 Team.md",
     "01-09-2022 UE2 Marketing 1.md",
+    "02-09-2022 UE2 Joris.md",
+    "==Project UNEXPLORED 2==.md",
+    "-==WORK==-.md",
+    "games list.md",
+    "22-08-2022 Flame Elemental.md",
+    "22-08-2022 UE2 Team.md",
     "Hva meetings 2022-2023.md",
-    "01-09-2022 PGD.md",
-    "HvA 2022-2023.md",
-    "Hva.md"
+    "01-09-2022 PGD.md"
   ]
 }
