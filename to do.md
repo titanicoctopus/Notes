@@ -1,6 +1,6 @@
 #Work
 
-[[WORK]]
+[[-==WORK==-]]
 
 29-08-2022
 
@@ -33,7 +33,7 @@
 		- [x] Oordeel: V
 		- [x] Niels contacteren
 
-[[Hva 2022-2023]]
+[[Hva]]
 - [x] Rooster invoeren in kalender
 - [ ] UI kick off meeting (wo)
 - [ ] PGD kick off meeting (do)

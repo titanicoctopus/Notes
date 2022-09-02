@@ -1,5 +1,5 @@
 #work 
-[[WORK]]
+[[-==WORK==-]]
 
 Game to get
 
@@ -16,6 +16,7 @@ Switch
 - [ ] The DioField Chronicle (sep 2022)
 - [ ] Shin Megami Tensei 5
 - [ ] Shin Chan: Me and the Professor on Summer Vacation
+- [ ] 9 shadows?
 
 
 PC
@@ -38,3 +39,4 @@ PC
 - [ ] Lost in Play
 - [ ] Brok the Investigator
 - [ ] Legioncraft
+- [x] River City Saga, Three Kingdoms

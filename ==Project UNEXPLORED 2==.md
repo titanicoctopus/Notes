@@ -1,5 +1,6 @@
 #unexplored 
 Notes for designing the game
+[[-==WORK==-]]
 
 [[Lore]]
 [[Game Design]]
@@ -8,6 +9,6 @@ Notes for designing the game
 
 xx
 [[plans]]
-[[meetings]]
+[[meetings UE2]]
 
 [[chronicles concept]]
