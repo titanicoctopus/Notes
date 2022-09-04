@@ -9,9 +9,24 @@ Guardians: Deep beat'em up
 Rohga Armor Force: Mech shooter
 - [ ] Got it
 - [ ] Played it
+Nitro Ball: Shooter Pinball game
+- [ ] Got it
+- [ ] Played it
 
 PC
 
 Sideline: PC Dos-shooter
+- [x] Got it
+- [ ] Played it
+
+MSX
+
+Space Manbow: Gradius Style Shmup
+- [x] Got it
+- [ ] Played it
+
+NES
+
+Over Horizon: Shmup
 - [ ] Got it
 - [ ] Played it
