@@ -7,48 +7,18 @@
         "id": "89059f67e1029e10",
         "type": "leaf",
         "state": {
-<<<<<<< HEAD
-          "type": "graph",
-          "state": {}
-=======
           "type": "markdown",
           "state": {
-            "file": "to do.md",
+            "file": "games to play.md",
             "mode": "source",
             "source": false
           }
->>>>>>> 431d282b87ec2412d45f4af7c9efe5af42d9c4b5
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "fb95282421c456db",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "070990cc031358ae",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "e0eb42adebdb8d45",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-=======
     "id": "2c08541b1c4cec8b",
     "type": "split",
     "children": [
@@ -78,40 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
->>>>>>> 431d282b87ec2412d45f4af7c9efe5af42d9c4b5
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "6ad8d3a52aaa8887",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "35d582b0c05254b3",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "7733a299b034fa25",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-=======
     "id": "a79862d8d0a32996",
     "type": "split",
     "children": [
@@ -133,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
+                "file": "games to play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,20 +87,21 @@
                 "unlinkedCollapsed": true
               }
             }
->>>>>>> 431d282b87ec2412d45f4af7c9efe5af42d9c4b5
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "89059f67e1029e10",
   "lastOpenFiles": [
     "WORK.md",
+    "games to buy list.md",
     "to do.md",
     "22-08-2022 Flame Elemental.md",
     "Flame Elemental Content.md",
-    "Flame Elemental Legend.md",
-    "games list.md"
+    "Flame Elemental Legend.md"
   ]
 }

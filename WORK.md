@@ -15,4 +15,7 @@ Projects
 [[Hva 2022-2023]]
 
 Misc.
-[[games list]]
+[[games to buy list]]
+[[games to play]]
+
+
