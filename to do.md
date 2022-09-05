@@ -27,6 +27,7 @@
 [[Hku 2022-2023]]
 
 - [ ] s1 applied games content in canvas
+- [x] Project Vrij III, contact gezocht met groep
 
 
 [[Hva 2022-2023]]
