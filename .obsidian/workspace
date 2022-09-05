@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "to do.md",
+            "file": "stuff to read.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
+                "file": "stuff to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +98,9 @@
   "active": "89059f67e1029e10",
   "lastOpenFiles": [
     "WORK.md",
+    "to do.md",
     "games to play.md",
     "games to buy list.md",
-    "to do.md",
     "22-08-2022 Flame Elemental.md",
     "Flame Elemental Content.md",
     "Flame Elemental Legend.md"
