@@ -14,7 +14,7 @@ Nitro Ball: Shooter Pinball game
 - [ ] Played it
 Guardian Force: shmup runngun
 - [x] Got it
-- [ ] Played it
+- [ ] Played it                                                                                                                                                                                                                                                                                                                                                                                                                           
 
 PC
 
