@@ -6,10 +6,6 @@
 [[==Project UNEXPLORED 2==]]
 - [ ] meeting joris chronicles
 
-	- [ ] first version display on map
-		- [ ] text
-		- [ ] Icons
-		- [ ] map visualisation
 	- [ ] concrete concepts for 'playful' elemental magic\
 		- [ ] modeling
 		- [ ] Documenting
@@ -17,9 +13,10 @@
 		- [x] no backup light
 		- [ ] no use of sprite magic
 		- [ ] no staff based lock / key
-	- [ ] Testing flame elemental content (do)
+	- [x] Testing flame elemental content (do)
 		- [x] Flame servitor test
-		- [ ] new challenge with turrets etc.
+		- [x] new challenge with turrets etc.
+- [ ] 
 
 [[Hku 2022-2023]]
 
