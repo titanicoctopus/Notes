@@ -1,6 +1,6 @@
 #Work
 
-[[WORK]]
+[[==WORK==]]
 
 
 [[==Project UNEXPLORED 2==]]
@@ -28,6 +28,7 @@
 
 - [ ] s1 applied games content in canvas
 - [x] Project Vrij III, contact gezocht met groep
+- [ ] Gesprek met project Vrij III groep
 
 
 [[Hva 2022-2023]]

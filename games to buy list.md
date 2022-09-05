@@ -1,5 +1,5 @@
 #work 
-[[WORK]]
+[[==WORK==]]
 
 Game to get
 
