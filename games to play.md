@@ -1,13 +1,13 @@
 Arcade
 
 Riot: Dynamic Run'n gun shooter
-- [ ] Got it
+- [x] Got it
 - [ ] Played it
 Guardians: Deep beat'em up
-- [ ] Got it
+- [x] Got it
 - [ ] Played it
 Rohga Armor Force: Mech shooter
-- [ ] Got it
+- [x] Got it
 - [ ] Played it
 Nitro Ball: Shooter Pinball game
 - [ ] Got it
@@ -28,5 +28,5 @@ Space Manbow: Gradius Style Shmup
 NES
 
 Over Horizon: Shmup
-- [ ] Got it
+- [x] Got it
 - [ ] Played it
