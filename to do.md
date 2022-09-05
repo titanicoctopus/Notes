@@ -5,8 +5,8 @@
 
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
-- [ ] Write meanwhile texts
-- [ ] Write dialog for town criers, victims etc.
+- [x] Write meanwhile texts
+- [x] Write dialog for town criers, victims etc.
 - [ ] Test current implementation for events
 	- [ ] Look for general experience
 	- [ ] Look for interesting event opportunities
