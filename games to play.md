@@ -10,7 +10,10 @@ Rohga Armor Force: Mech shooter
 - [x] Got it
 - [ ] Played it
 Nitro Ball: Shooter Pinball game
-- [ ] Got it
+- [x] Got it
+- [ ] Played it
+Guardian Force: shmup runngun
+- [x] Got it
 - [ ] Played it
 
 PC
