@@ -2,6 +2,37 @@
 
 [[WORK]]
 
+
+[[==Project UNEXPLORED 2==]]
+- [ ] meeting joris chronicles
+
+	- [ ] first version display on map
+			- [ ] text
+			- [ ] Icons
+			- [ ] map visualisation
+	- [ ] concrete concepts for 'playful' elemental magic\
+		- [ ] modeling
+		- [ ] Documenting
+	- [x] testing: no staff character
+		- [x] no backup light
+		- [ ] no use of sprite magic
+		- [ ] no staff based lock / key
+	- [ ] Testing flame elemental content (do)
+		- [x] Flame servitor test
+		- [ ] new challenge with turrets etc.
+
+[[Hku 2022-2023]]
+
+- [ ] s1 applied games content in canvas
+
+
+[[Hva 2022-2023]]
+- [ ] Prep UI
+- [ ] Prep G
+
+
+
+
 29-08-2022
 
 [[==Project UNEXPLORED 2==]]
@@ -14,7 +45,7 @@
 	- [ ] concrete concepts for 'playful' elemental magic\
 		- [ ] modeling
 		- [ ] Documenting
-	- [ ] testing: no staff character
+	- [x] testing: no staff character
 		- [x] no backup light
 		- [ ] no use of sprite magic
 		- [ ] no staff based lock / key
@@ -25,8 +56,8 @@
 
 - [ ] s1 applied games content in canvas
 - [x] Bespreking Nox
-	- [ ] result 5
-	- [ ] contact silver
+	- [x] result 5
+	- [x] contact silver
 - [x] Rooster invoeren in kalender
 - [x] Julius opdracht nakijken (endterm tool)
 	- [x] https://medewerkers.hku.nl/onderwijs-schools/toetsen-en-beoordelen-3.htm
@@ -35,8 +66,8 @@
 
 [[Hva 2022-2023]]
 - [x] Rooster invoeren in kalender
-- [ ] UI kick off meeting (wo)
-- [ ] PGD kick off meeting (do)
+- [x] UI kick off meeting (wo)
+- [x] PGD kick off meeting (do)
 
 
 
