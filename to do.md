@@ -4,7 +4,13 @@
 
 
 [[==Project UNEXPLORED 2==]]
-- [ ] meeting joris chronicles
+- [x] meeting joris chronicles
+- [ ] Write meanwhile texts
+- [ ] Write dialog for town criers, victims etc.
+- [ ] Test current implementation for events
+	- [ ] Look for general experience
+	- [ ] Look for interesting event opportunities
+	- [ ] Look out for 'gaps'
 
 	- [ ] concrete concepts for 'playful' elemental magic\
 		- [ ] modeling
