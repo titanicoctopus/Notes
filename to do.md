@@ -7,9 +7,9 @@
 - [ ] meeting joris chronicles
 
 	- [ ] first version display on map
-			- [ ] text
-			- [ ] Icons
-			- [ ] map visualisation
+		- [ ] text
+		- [ ] Icons
+		- [ ] map visualisation
 	- [ ] concrete concepts for 'playful' elemental magic\
 		- [ ] modeling
 		- [ ] Documenting
@@ -28,7 +28,14 @@
 
 [[Hva 2022-2023]]
 - [ ] Prep UI
-- [ ] Prep G
+- [ ] Prep GDP
+- [ ] Meeting GDP
+
+[[== Game Design Toolkit ==]]
+
+- [ ] Content in tool
+- [ ] Nieuw idee uitwerken
+	- [ ] De tools herschrijven om doelen te bereiken binnen het ontwerp. Kwaliteit vs. uitbreiden van systeem. Doen van probleem analyses etc.
 
 
 
