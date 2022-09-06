@@ -7,9 +7,9 @@
 - [x] meeting joris chronicles
 - [x] Write meanwhile texts
 - [x] Write dialog for town criers, victims etc.
-	- [x] clanrecentraid x5
+	- [ ] clanrecentraid x5
 	- [x] clantraderline.closed x5
-	- [x] clanfarmerline.raided x5
+	- [ ] clanfarmerline.raided x5
 	- [ ] clanGateKeeper.startSuspicious
 	- [ ] clanGateKeeper.friendlyRaided
 	- [ ] clanLeaderProxy
@@ -40,7 +40,7 @@
 [[Hva 2022-2023]]
 - [ ] Prep UI
 - [ ] Prep GDP
-- [ ] Meeting GDP
+- [x] Meeting GDP
 
 [[== Game Design Toolkit ==]]
 
