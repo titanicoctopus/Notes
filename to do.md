@@ -9,7 +9,7 @@
 - [x] Write dialog for town criers, victims etc.
 	- [x] clanrecentraid x5
 	- [x] clantraderline.closed x5
-	- [ ] clantraderline.raided x5
+	- [x] clanfarmerline.raided x5
 	- [ ] clanGateKeeper.startSuspicious
 	- [ ] clanGateKeeper.friendlyRaided
 	- [ ] clanLeaderProxy
