@@ -7,9 +7,9 @@
 - [x] meeting joris chronicles
 - [x] Write meanwhile texts
 - [x] Write dialog for town criers, victims etc.
-	- [ ] clanrecentraid x5
+	- [x] clanrecentraid x5
 	- [x] clantraderline.closed x5
-	- [ ] clanfarmerline.raided x5
+	- [x] clanfarmerline.raided x5
 	- [ ] clanGateKeeper.startSuspicious
 	- [ ] clanGateKeeper.friendlyRaided
 	- [ ] clanLeaderProxy
