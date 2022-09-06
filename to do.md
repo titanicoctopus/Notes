@@ -11,7 +11,7 @@
 	- [x] clantraderline.closed x5
 	- [x] clanfarmerline.raided x5
 	- [x] clanGateKeeper.startSuspicious
-	- [ ] clanGateKeeper.friendlyRaided
+	- [x] clanGateKeeper.friendlyRaided
 	- [ ] clanLeaderProxy
 - [ ] Test current implementation for events
 	- [ ] Look for general experience
