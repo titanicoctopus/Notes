@@ -34,7 +34,9 @@
 
 - [ ] s1 applied games content in canvas
 - [x] Project Vrij III, contact gezocht met groep
-- [ ] Gesprek met project Vrij III groep
+- [x] Gesprek met project Vrij III groep
+- [ ] Gesprek met project Vrij III groep 2 (vr)
+- [ ] Les 1 applied games (vr)
 
 
 [[Hva 2022-2023]]
