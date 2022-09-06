@@ -12,7 +12,7 @@
 	- [x] clanfarmerline.raided x5
 	- [x] clanGateKeeper.startSuspicious
 	- [x] clanGateKeeper.friendlyRaided
-	- [ ] clanLeaderProxy
+	- [x] clanLeaderProxy
 - [ ] Test current implementation for events
 	- [ ] Look for general experience
 	- [ ] Look for interesting event opportunities
