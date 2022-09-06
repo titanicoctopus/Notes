@@ -8,7 +8,7 @@
 - [x] Write meanwhile texts
 - [x] Write dialog for town criers, victims etc.
 	- [x] clanrecentraid x5
-	- [ ] clantraderline.closed x5
+	- [x] clantraderline.closed x5
 	- [ ] clantraderline.raided x5
 	- [ ] clanGateKeeper.startSuspicious
 	- [ ] clanGateKeeper.friendlyRaided
