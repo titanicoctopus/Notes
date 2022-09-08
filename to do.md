@@ -13,10 +13,10 @@
 	- [x] clanGateKeeper.startSuspicious
 	- [x] clanGateKeeper.friendlyRaided
 	- [x] clanLeaderProxy
-- [ ] Test current implementation for events
-	- [ ] Look for general experience
-	- [ ] Look for interesting event opportunities
-	- [ ] Look out for 'gaps'
+- [x] Test current implementation for events
+	- [x] Look for general experience
+	- [x] Look for interesting event opportunities
+	- [x] Look out for 'gaps'
 
 	- [ ] concrete concepts for 'playful' elemental magic\
 		- [ ] modeling
@@ -37,16 +37,20 @@
 - [x] Gesprek met project Vrij III groep
 - [ ] Gesprek met project Vrij III groep 2 (vr)
 - [ ] Les 1 applied games (vr)
+- [ ] aan karin dokrgeven dat studenten naar discord moeten
 
 
 [[Hva 2022-2023]]
-- [ ] Prep UI
+- [x] Prep UI
+- [x] ui les 1
 - [ ] Prep GDP
+- [ ] gdp (do)
 - [x] Meeting GDP
 
 [[== Game Design Toolkit ==]]
 
 - [ ] Content in tool
+- [ ] inlog en url toolkit
 - [ ] Nieuw idee uitwerken
 	- [ ] De tools herschrijven om doelen te bereiken binnen het ontwerp. Kwaliteit vs. uitbreiden van systeem. Doen van probleem analyses etc.
 
