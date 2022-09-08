@@ -5,6 +5,7 @@
 
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
+- [ ] chronicles gesprek
 - [x] Write meanwhile texts
 - [x] Write dialog for town criers, victims etc.
 	- [x] clanrecentraid x5
@@ -35,16 +36,16 @@
 - [ ] s1 applied games content in canvas
 - [x] Project Vrij III, contact gezocht met groep
 - [x] Gesprek met project Vrij III groep
-- [ ] Gesprek met project Vrij III groep 2 (vr)
+- [x] Gesprek met project Vrij III groep 2 (vr)
 - [ ] Les 1 applied games (vr)
-- [ ] aan karin dokrgeven dat studenten naar discord moeten
+- [x] aan karin dokrgeven dat studenten naar discord moeten
 
 
 [[Hva 2022-2023]]
 - [x] Prep UI
 - [x] ui les 1
-- [ ] Prep GDP
-- [ ] gdp (do)
+- [x] Prep GDP
+- [x] gdp (do)
 - [x] Meeting GDP
 
 [[== Game Design Toolkit ==]]
