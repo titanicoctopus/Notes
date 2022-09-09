@@ -19,13 +19,13 @@
 	- [x] Look for interesting event opportunities
 	- [x] Look out for 'gaps'
 
-	- [ ] concrete concepts for 'playful' elemental magic\
-		- [ ] modeling
-		- [ ] Documenting
+	- [x] concrete concepts for 'playful' elemental magic\
+		- [x] modeling
+		- [x] Documenting
 	- [x] testing: no staff character
 		- [x] no backup light
-		- [ ] no use of sprite magic
-		- [ ] no staff based lock / key
+		- [x] no use of sprite magic
+		- [x] no staff based lock / key
 	- [x] Testing flame elemental content (do)
 		- [x] Flame servitor test
 		- [x] new challenge with turrets etc.
@@ -37,7 +37,7 @@
 - [x] Project Vrij III, contact gezocht met groep
 - [x] Gesprek met project Vrij III groep
 - [x] Gesprek met project Vrij III groep 2 (vr)
-- [ ] Les 1 applied games (vr)
+- [x] Les 1 applied games (vr)
 - [x] aan karin dokrgeven dat studenten naar discord moeten
 
 
@@ -52,8 +52,8 @@
 
 - [ ] Content in tool
 - [ ] inlog en url toolkit
-- [ ] Nieuw idee uitwerken
-	- [ ] De tools herschrijven om doelen te bereiken binnen het ontwerp. Kwaliteit vs. uitbreiden van systeem. Doen van probleem analyses etc.
+- [x] Nieuw idee uitwerken
+	- [x] De tools herschrijven om doelen te bereiken binnen het ontwerp. Kwaliteit vs. uitbreiden van systeem. Doen van probleem analyses etc.
 
 
 
