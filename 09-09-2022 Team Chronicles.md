@@ -25,8 +25,11 @@ Slim aankondigings moment creeeren.
 Een maand voor launch
 1e episode >> 1e maand na moment 0 zoveel mogelijk naar outlets sturen. En sturen wanneer het 'af' is. Zo min mogelijk updates per chronicle. 
 Onder de radat tot het moment dat het is.
+Verhaal testen bij de community off the record.
 
-Wanneer klaar?
+Wanneer beginnen?
+na volgende week (va 19 september)
+
 Wat zou het tijdspad kunnen zijn?
 3 tegelijk ontwikkelen?
 Relatie met UE2?
