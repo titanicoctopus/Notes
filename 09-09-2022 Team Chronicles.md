@@ -16,10 +16,16 @@ M: UE2 wordt. Herbruiken de game om een eigen lijn van producten te ontwikkelen 
 H: Geen idee wat de impact gaat zijn.
 J: 5k verkopen a 3 euro = 15k = 7.5 netto. 1e maand. 
 
-
+AP: definieren wat dit project success laat zijn.
 
 Wanneer releasen?
 Wat is de slimste marketingstratiegie?
+voor 3 plannen is slim.
+Slim aankondigings moment creeeren.
+Een maand voor launch
+1e episode >> 1e maand na moment 0 zoveel mogelijk naar outlets sturen. En sturen wanneer het 'af' is. Zo min mogelijk updates per chronicle. 
+Onder de radat tot het moment dat het is.
+
 Wanneer klaar?
 Wat zou het tijdspad kunnen zijn?
 3 tegelijk ontwikkelen?
