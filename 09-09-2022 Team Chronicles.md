@@ -19,7 +19,7 @@ M: UE2 wordt. Herbruiken de game om een eigen lijn van producten te ontwikkelen 
 
 H: Geen idee wat de impact gaat zijn.
 
-J: 4k verkopen = 
+J: 5k verkopen a 3 euro = 15k = 7.5 netto. 1e maand. 
 
 Wanneer releasen?
 Wat is de slimste marketingstratiegie?
