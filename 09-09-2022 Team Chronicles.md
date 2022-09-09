@@ -15,6 +15,11 @@ M: max 2 maanden aan besteden is verstandig. Langer dan 2 maanden over doen moet
 
 J: een manier om relatief snel geld om te zetten. Buiten BS. met een payoff in de nabije toekomst. Die op langer termijn grotere impact kan hebben door de veervuldigheid van producten. 
 
+M: UE2 wordt. Herbruiken de game om een eigen lijn van producten te ontwikkelen om onze positie te verstevigen voor de toekomst. 
+
+H: Geen idee wat de impact gaat zijn.
+
+J: 4k verkopen = 
 
 Wanneer releasen?
 Wat is de slimste marketingstratiegie?
