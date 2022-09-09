@@ -5,7 +5,7 @@
 
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
-- [ ] chronicles gesprek
+- [x] chronicles gesprek
 - [x] Write meanwhile texts
 - [x] Write dialog for town criers, victims etc.
 	- [x] clanrecentraid x5
