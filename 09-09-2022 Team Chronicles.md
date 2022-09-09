@@ -30,7 +30,7 @@ Verhaal testen bij de community off the record.
 AP: opzetten van het verhaal / inhoud
 Document met synopsissen
 Gameplay beschrijving - sterke eenheid
-
+Voorstellen voorbereiden.
 
 Wanneer beginnen?
 na volgende week (va 19 september)
