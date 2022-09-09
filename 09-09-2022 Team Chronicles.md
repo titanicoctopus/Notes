@@ -27,6 +27,11 @@ Een maand voor launch
 Onder de radat tot het moment dat het is.
 Verhaal testen bij de community off the record.
 
+AP: opzetten van het verhaal / inhoud
+Document met synopsissen
+Gameplay beschrijving - sterke eenheid
+
+
 Wanneer beginnen?
 na volgende week (va 19 september)
 
