@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "to do.md",
+            "file": "S1 Applied games.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
+                "file": "S1 Applied games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "4705e49bcb5dbaab",
   "lastOpenFiles": [
+    "teams.md",
+    "S1 Applied games.md",
+    "Hku 2022-2023.md",
     "==WORK==.md",
+    "to do.md",
     "== Game Design Toolkit ==.md",
     "==Project UNEXPLORED 2==.md",
     "==Project PEEKABOND==.md",
     "Hva 2022-2023.md",
-    "09-09-2022 Team Chronicles.md",
-    "meetings.md",
-    "to do.md",
-    "games to play.md",
-    "stuff to read.md"
+    "09-09-2022 Team Chronicles.md"
   ]
 }
