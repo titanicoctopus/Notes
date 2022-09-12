@@ -12,6 +12,11 @@
 	- [ ] welke bestaande content zijn geschikt voor events
 		- [ ] wat gebeurt er als scrying stones aan/uit zijn.
 		- [ ] Red skeletons
+			- [ ] strife
+			- [ ] maar wat moet je doen om ze als defenders te laten gedragen?
+				- [ ] zwaard van bernhilde aan de clans
+					- [ ] NPC - waar je mee kan praten
+					- [ ] Boek ///
 	- [ ] kijken hoe het nu functioneert.
 		- [ ] testen
 
