@@ -14,6 +14,8 @@ Chronicles wereld = zelfde wereld als ue2
 
 Chronicles = een historisch 
 
+Onderdelen hebben een relatie tot elkaar
+
 
 
 
