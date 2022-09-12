@@ -19,6 +19,7 @@ Onderdelen hebben een relatie tot elkaar
 
 
 
+
 J: Single Map
 DIfferent outcomes result in impact on future adventures.
 Each story focus on specific regions
