@@ -25,6 +25,12 @@ Tijd beperking
 
 Mystery oplossen
 
+J
+Sandman anthology
+lineaire structuur
+Curse 
+Foreshadowing
+
 
 
 J: Single Map
