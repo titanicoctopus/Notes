@@ -27,11 +27,13 @@ Mystery oplossen
 
 J
 Sandman anthology
-lineaire structuur
+lineaire structuur - vooruit
 Curse 
 Foreshadowing
 
-
+K
+Related to lore
+Specifieke gameplay
 
 J: Single Map
 DIfferent outcomes result in impact on future adventures.
