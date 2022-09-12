@@ -20,9 +20,10 @@ Chronicles matthijs
 
 I
 Relaties tussen chronicles
-Verandering vam
+Verandering vam biome is interessant
 Tijd beperking
-Mystery
+
+Mystery oplossen
 
 
 
