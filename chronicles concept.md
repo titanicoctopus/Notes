@@ -38,3 +38,5 @@ Specifieke gameplay
 J: Single Map
 DIfferent outcomes result in impact on future adventures.
 Each story focus on specific regions
+
+[[marketing things]]
