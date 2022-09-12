@@ -16,7 +16,13 @@ Chronicles = een historisch
 
 Onderdelen hebben een relatie tot elkaar
 
+Chronicles matthijs
 
+I
+Relaties tussen chronicles
+Verandering vam
+Tijd beperking
+Mystery
 
 
 
