@@ -12,7 +12,7 @@ Zelfde gevoel van avontuur.
 
 Chronicles wereld = zelfde wereld als ue2
 
-
+Chronicles = een historisch 
 
 
 
