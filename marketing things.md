@@ -15,3 +15,7 @@ Moonbreaker
 Sci-fi tabletop sim [Moonbreaker](https://www.rockpapershotgun.com/games/moonbreaker) is getting two rounds of playtests on Steam in September ahead of its launch into early access, devs Unknown Worlds have revealed. These run on September 9th to 11th and again on September 16th to 18th, giving access to most of the game. You can take a look at Moonbreaker in action from its announcement at last month’s Gamescom below.
 Moonbreaker is quite a departure for Unknown Worlds, known for the Subnautica series. The game’s story has been dreamt up by author Brandon Sanderson. It puts you in the spaceboots of a team of interplanetary pirates, represented by a digital team of tabletop miniatures made up of six characters led by a captain. You’ll be able to paint these yourself using some snazzy tools, in true Warhammer 40K hobbyist fashion, before pitting your team against AI, other players, and a roguelike single-player mode.
 
+Shovelknight dig
+
+Shovel Knight Dig is more of the classic platforming you’d expect from Yacht Club’s output. However, they’ve teamed with prolific UK-based indie dev team Nitrome, of [Bomb Chicken](https://www.rockpapershotgun.com/games/bomb-chicken) renown, for it. Dig is a roguelike, with Shovel Knight and Shield Knight having to tunnel their way down through an “ever-changing chasm of mystery”. The game’s been in development for four years, so it’s had plenty of time in the oven.
+
