@@ -22,6 +22,22 @@ Sideline: PC Dos-shooter
 - [x] Got it
 - [ ] Played it
 
+Railbound, train puzzle game
+- [x] Got it
+- [ ] Played it
+
+Laguna, noir sci fi adventure game
+- [x] Got it
+- [ ] Played it
+
+Roadwarden, choos your own adventure
+- [x] Got it
+- [ ] Played it
+
+Jackmove, western sci fi jrpg
+- [x] Got it
+- [ ] Played it
+
 MSX
 
 Space Manbow: Gradius Style Shmup
