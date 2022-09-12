@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chronicles concept.md",
+            "file": "to do.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chronicles concept.md",
+                "file": "to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "4705e49bcb5dbaab",
   "lastOpenFiles": [
+    "==WORK==.md",
+    "chronicles concept.md",
     "==Project UNEXPLORED 2==.md",
     "to do.md",
-    "==WORK==.md",
     "S1 Applied games.md",
     "teams.md",
     "Hku 2022-2023.md",
     "== Game Design Toolkit ==.md",
     "==Project PEEKABOND==.md",
-    "Hva 2022-2023.md",
-    "09-09-2022 Team Chronicles.md"
+    "Hva 2022-2023.md"
   ]
 }
