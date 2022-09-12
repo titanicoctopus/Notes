@@ -5,9 +5,14 @@
 12-09-2022
 [[==Project UNEXPLORED 2==]]
 
+- [ ] Meeting met joris over chronicles
+- [ ] Definieer succes van chronicles
+
+
 [[Hku 2022-2023]]
 
 [[Hva 2022-2023]]
+- [ ] 
 
 [[== Game Design Toolkit ==]]
 
