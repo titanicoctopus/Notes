@@ -2,7 +2,16 @@
 
 [[==WORK==]]
 
+12-09-2022
+[[==Project UNEXPLORED 2==]]
 
+[[Hku 2022-2023]]
+
+[[Hva 2022-2023]]
+
+[[== Game Design Toolkit ==]]
+
+05-09-2022
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
 - [x] chronicles gesprek
