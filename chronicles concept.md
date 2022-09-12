@@ -5,7 +5,15 @@
 
 Resultaat
 
-5 korte bes
+5 korte beschrijving van een chronicle
+Sterke verwantschap met UE2
+Gameplay - wise
+Zelfde gevoel van avontuur.
+
+Chronicles wereld = zelfde wereld als ue2
+
+
+
 
 
 
