@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "to do.md",
+            "file": "games to play.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
+                "file": "games to play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +98,12 @@
   "active": "4705e49bcb5dbaab",
   "lastOpenFiles": [
     "==WORK==.md",
+    "to do.md",
     "Hva 2022-2023.md",
     "fee.md",
     "Graduation 2022-2023.md",
     "Hku 2022-2023.md",
     "Project Vrij 3 2022-2023.md",
-    "to do.md",
     "games to play.md",
     "marketing things.md",
     "chronicles concept.md"
