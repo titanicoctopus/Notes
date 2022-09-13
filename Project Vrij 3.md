@@ -37,4 +37,23 @@ Stylized with exeggerated features
 Anthropomorpic characters
 
 Sound
-Acoustic / fol
+Acoustic / foley (except ui)
+Layered with synth
+
+Music:
+combi acoustic and electronic
+Romantic & impressionistic
+Characters / areas / setting get specific instruments
+
+Night in the woods = niet wholesome
+
+---------
+
+Concept
+Taking care of the library and its inhabitants
+A city with tiny creatures
+
+Goal = revitalize library
+
+Find book >> solve puzzle >> reward
+
