@@ -22,6 +22,9 @@
 
 
 [[Hku 2022-2023]]
+- [x]  meeting project vrij 3
+- [x] contact met fee
+- [x] contect met casey
 
 [[Hva 2022-2023]]
 - [ ] 
