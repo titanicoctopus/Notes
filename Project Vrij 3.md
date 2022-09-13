@@ -57,3 +57,15 @@ Goal = revitalize library
 
 Find book >> solve puzzle >> reward
 
+Inspiration
+
+CHarles Dalmau, Diavid Sierra Liston, Psychonauts
+
+Genre: Puzzle Adventure
+Product: 5 minute demo
+				Featuring the mechanics
+				introducing the setting + main character
+Platform: laptop / PC (WIN)
+Perspective: 3rd person, topdown
+Art Style: Stylised 3d with 2d look
+
