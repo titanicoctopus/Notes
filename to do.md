@@ -25,6 +25,7 @@
 - [x]  meeting project vrij 3
 - [x] contact met fee
 - [x] contect met casey
+- [x] Gesproken met fee
 
 [[Hva 2022-2023]]
 - [ ] 
