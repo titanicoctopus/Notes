@@ -33,6 +33,10 @@
 [[== Game Design Toolkit ==]]
 - [ ] 
 
+FourceLabs stuff
+- [ ] Bankmutaties holding mailen naar Cees
+- [ ] Credit card mutaties mailen naar Cees
+
 05-09-2022
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
