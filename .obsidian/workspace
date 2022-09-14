@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "games to play.md",
+            "file": "==WORK==.md",
             "mode": "source",
             "source": false
           }
@@ -19,92 +19,77 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c74430e9d17d48aa",
-    "type": "split",
+    "id": "2fc80ef7f9b7d79d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "eca1397559142eae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "61724c899d1b2f29",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "de7da27227087038",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "0529f2cf172fbba9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3bfe3f88bd6fcf49",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "fe5606d5e0962cb1",
-    "type": "split",
+    "id": "0ffec50677eb87cc",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d2edfcbd52d77b83",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e6379d60c0e3e8c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "77ee2b9d625ae5c7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "games to play.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "df23969ff2a824c1",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "74dc0604a2bb3b51",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "==WORK==.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "4705e49bcb5dbaab",
   "lastOpenFiles": [
-    "==WORK==.md",
     "to do.md",
+    "==WORK==.md",
+    "games to play.md",
     "Hva 2022-2023.md",
     "fee.md",
     "Graduation 2022-2023.md",
     "Hku 2022-2023.md",
     "Project Vrij 3 2022-2023.md",
-    "games to play.md",
     "marketing things.md",
     "chronicles concept.md"
   ]

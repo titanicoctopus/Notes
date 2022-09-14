@@ -1,11 +1,11 @@
-																										#Work
+#Work
 
 [[==WORK==]]
 
 12-09-2022
 [[==Project UNEXPLORED 2==]]
 
-- [ ] Meeting met joris over chronicles
+- [x] Meeting met joris over chronicles
 - [ ] Definieer succes van chronicles
 - [ ] Uitwerken chronicles concept
 - [ ] UE2 events content
@@ -28,7 +28,9 @@
 - [x] Gesproken met fee
 
 [[Hva 2022-2023]]
-- [ ] 
+- [ ] les ui 2
+- [ ] pgd
+- [ ] nieuw plan uitschrijve 
 
 [[== Game Design Toolkit ==]]
 - [ ] 
