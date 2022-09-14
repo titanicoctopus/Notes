@@ -72,3 +72,26 @@ Zelda, Tears of the Kingdom
 - [ ] Got it
 - [ ] Played it
 
+Fire Emblem Engage
+- [ ] Got it
+- [ ] Played it
+
+Front Mission 1st
+- [ ] Got it
+- [ ] Played it
+
+Front Mission 2
+- [ ] Got it
+- [ ] Played it
+
+Front Mission 3
+- [ ] Got it
+- [ ] Played it
+
+Front Mission 3
+- [ ] Got it
+- [ ] Played it
+
+Various Daylife
+- [ ] Got it
+- [ ] Played it
