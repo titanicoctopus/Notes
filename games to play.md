@@ -53,3 +53,22 @@ NES
 Over Horizon: Shmup
 - [x] Got it
 - [ ] Played it
+
+Switch
+
+Raincode, visual novel
+- [ ] Got it
+- [ ] Played it
+
+Radiant Silvergun, Shmup
+- [ ] Got it
+- [ ] Played it
+
+Endless Dungeon, roguelike
+- [ ] Got it
+- [ ] Played it
+
+Zelda, Tears of the Kingdom
+- [ ] Got it
+- [ ] Played it
+
