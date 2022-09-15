@@ -19,66 +19,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2fc80ef7f9b7d79d",
-    "type": "mobile-drawer",
+    "id": "184cd5264220d621",
+    "type": "split",
     "children": [
       {
-        "id": "0529f2cf172fbba9",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "3bfe3f88bd6fcf49",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "1186581f86118c4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "436b984ca3c7e979",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7dee2fb45a94295",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "0ffec50677eb87cc",
-    "type": "mobile-drawer",
+    "id": "fe18456ac04c4e2d",
+    "type": "split",
     "children": [
       {
-        "id": "df23969ff2a824c1",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "74dc0604a2bb3b51",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "==WORK==.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "9e76acb30e37d559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4113f934654cdea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f30a2272c4761895",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "==WORK==.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "4705e49bcb5dbaab",
   "lastOpenFiles": [
