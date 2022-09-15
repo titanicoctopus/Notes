@@ -1,6 +1,7 @@
 [[==Project UNEXPLORED 2==]]
 #unexplored 
 
+14-09-2022 Ghtrost
 Having finally complete the game, I feel I can finally give some (kinda lengthy) feedback.  
 I've really enjoyed the many hours I've put into this game already.  
 Even with some parts not always working correctly, or being fully implemented yet, I still felt that the game's promise of going on a journey through strange lands was wonderfully realized.  
