@@ -5,6 +5,8 @@ Notes for designing the game
 [[Game Design]]
 [[bugs]]
 [[to do]]
+[[UE2 Feedback]]
+
 
 xx
 [[plans]]
