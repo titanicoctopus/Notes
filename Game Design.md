@@ -4,5 +4,7 @@
 [[difficulty]]
 [[random thoughts]]
 [[economy]]
+[[traveling merchants]]
+
 
 [[Flame Elemental Content]]
