@@ -24,3 +24,4 @@
 	- [ ] 
 - [ ] Interloper vs trespasser
 - [ ] Travel loading
+- [ ] game tips
