@@ -7,6 +7,7 @@ Notes for designing the game
 [[to do]]
 [[UE2 Feedback]]
 
+[[UE2 Improvement]]
 
 xx
 [[plans]]
