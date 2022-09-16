@@ -20,3 +20,4 @@
 	- [ ] thief
 	- [ ] agressor
 - [ ] Interloper vs trespasser
+- [ ] Travel loading
