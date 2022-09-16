@@ -3,6 +3,20 @@
 - [ ] stuff
 #unexplored 
 
+
+Succesfactoren Chronciles
+
+Omzet en impact
+
+C1 - 3 maanden (break even)
+C2 - 2 maanden
+C3 - 2 maanden
+
+Kosten 10k / maand
+
+
+
+
 Resultaat
 
 5 korte beschrijving van een chronicle
