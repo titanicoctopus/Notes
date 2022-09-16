@@ -19,5 +19,8 @@
 	- [ ] vandal
 	- [ ] thief
 	- [ ] agressor
+	- [ ] honorable (what tests?)
+	- [ ] savage form (what tests?)
+	- [ ] 
 - [ ] Interloper vs trespasser
 - [ ] Travel loading
