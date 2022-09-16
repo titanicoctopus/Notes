@@ -13,4 +13,9 @@
 	- [ ] What do they do?
 	- [ ] What are their goals?
 	- [ ] How are they connected to Kaban?
-- [ ] 
+- [ ] Improve condition texts
+	- [ ] trespasser
+	- [ ] interloper
+	- [ ] vandal
+	- [ ] thief
+	- [ ] agressor
