@@ -14,6 +14,25 @@ C3 - 2 maanden
 
 Kosten 10k / maand
 
+10 x 3 = 30k
+10 x 2 = 20k
+10 x 2 = 20k
+
+3 euro / C = 1.5 euro / C netto
+
+Break even
+
+C1 = 20k units
+C2 = 13,33k units
+C3 = 13,33k units
+
+Gelijk verdeeld
+
+C1 = 
+C2 =
+C3 =
+
+Succes = x2?
 
 
 
