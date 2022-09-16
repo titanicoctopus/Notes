@@ -6,11 +6,15 @@
 [[==Project UNEXPLORED 2==]]
 
 - [x] Meeting met joris over chronicles
-- [ ] Definieer succes van chronicles
+- [x] v0.1 definieer succes van chronicles
 - [x] Uitwerken chronicles concept
 - [ ] UE2 events content
 	- [ ] welke bestaande content zijn geschikt voor events
 		- [ ] wat gebeurt er als scrying stones aan/uit zijn.
+		- [ ] interacties met bandieten
+		- [ ] Interacties met kobolds
+		- [ ] interacties met torens
+		- [ ] Vuur aanlaten?
 		- [ ] Red skeletons
 			- [ ] strife
 			- [ ] maar wat moet je doen om ze als defenders te laten gedragen?
@@ -28,8 +32,8 @@
 - [x] Gesproken met fee
 
 [[Hva 2022-2023]]
-- [ ] les ui 2
-- [ ] pgd
+- [x] les ui 2
+- [x] pgd
 - [ ] nieuw plan uitschrijve 
 
 [[== Game Design Toolkit ==]]
