@@ -7,7 +7,7 @@
 
 - [x] Meeting met joris over chronicles
 - [ ] Definieer succes van chronicles
-- [ ] Uitwerken chronicles concept
+- [x] Uitwerken chronicles concept
 - [ ] UE2 events content
 	- [ ] welke bestaande content zijn geschikt voor events
 		- [ ] wat gebeurt er als scrying stones aan/uit zijn.
