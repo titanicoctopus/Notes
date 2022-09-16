@@ -4,7 +4,7 @@
 #unexplored 
 
 
-Succesfactoren Chronciles
+Succesfactoren Chronicles
 
 Omzet en impact
 
@@ -25,15 +25,31 @@ Break even
 C1 = 20k units
 C2 = 13,33k units
 C3 = 13,33k units
+70k
 
 Gelijk verdeeld
 
-C1 = 
-C2 =
-C3 =
+C1 = 15,5k
+C2 = 15,5k
+C3 = 15,5k
+70k
 
 Succes = x2?
 
+C1 = 40k units
+C2 = 26,66k units
+C3 = 25,55k units
+140k
+
+Gelijk verdeeld
+
+C1 = 31k
+C2 = 31k
+C3 = 31k
+140k
+
+Boost UE2 met 20k > 40k?
+200k > 400k
 
 
 Resultaat
