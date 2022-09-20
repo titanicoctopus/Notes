@@ -5,21 +5,21 @@
 
 20-09-2022
 [[==Project UNEXPLORED 2==]]
-- [ ] Feedback overview
-	- [ ] Copy recent reviews
+- [x] Feedback overview
+	- [x] Copy recent reviews
 	- [ ] Structure reviews
 - [ ] Chronicles docs
 	- [ ] Synopsis
 	- [ ] Moral
 	- [ ] Connection with other chronicles
 	- [ ] Concept of connection
-- [ ] Text entry
-	- [ ] recentRiftshardRaid
-		- [ ] formalaloof
-		- [ ] formalcordial
-		- [ ] informalaloof
-		- [ ] informalcordial
-		- [ ] barbarian
+- [x] Text entry
+	- [x] recentRiftshardRaid
+		- [x] formalaloof
+		- [x] formalcordial
+		- [x] informalaloof
+		- [x] informalcordial
+		- [x] barbarian
 - [ ] meeting plannen voor volgende week
 
 [[Hva 2022-2023]]
