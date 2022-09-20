@@ -2,6 +2,10 @@
 
 [[==WORK==]]
 
+
+20-09-2022
+
+
 12-09-2022
 [[==Project UNEXPLORED 2==]]
 
@@ -21,8 +25,8 @@
 				- [ ] zwaard van bernhilde aan de clans
 					- [ ] NPC - waar je mee kan praten
 					- [ ] Boek ///
-	- [ ] kijken hoe het nu functioneert.
-		- [ ] testen
+	- [x] kijken hoe het nu functioneert.
+		- [x] testen
 
 
 [[Hku 2022-2023]]
