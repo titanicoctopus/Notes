@@ -11,7 +11,8 @@
 - [ ] Chronicles docs
 	- [ ] Synopsis
 	- [ ] Moral
-	- [ ] Connection with other chronic
+	- [ ] Connection with other chronicles
+	- [ ] Concept of connection
 
 
 [[Hku 2022-2023]]
