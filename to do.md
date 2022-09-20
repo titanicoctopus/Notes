@@ -20,13 +20,29 @@
 		- [ ] informalaloof
 		- [ ] informalcordial
 		- [ ] barbarian
-
-
-[[Hku 2022-2023]]
-- [ ] 
-
+- [ ] meeting plannen voor volgende week
 
 [[Hva 2022-2023]]
+
+- [ ] Presentatie lunch (do)
+- [ ] website creds doorsturen naar coline
+- [ ] UI les
+- [ ] PGD
+- [ ] pas regelen
+
+[[Hku 2022-2023]]
+- [ ] Applied GD
+	- [ ] review post brief docs
+- [ ] Class 2
+	- [ ] prep
+	- [ ] do it
+- [ ] coach
+	- [ ] Groep Vrij III
+	- [ ] Fee
+	- [ ] Casey?
+
+
+
 
 [[== Game Design Toolkit ==]]
 
