@@ -8,7 +8,10 @@
 - [ ] Feedback overview
 	- [ ] Copy recent reviews
 	- [ ] Structure reviews
-	- [ ] 
+- [ ] Chronicles docs
+	- [ ] Synopsis
+	- [ ] Moral
+	- [ ] Connection with other chronic
 
 
 [[Hku 2022-2023]]
