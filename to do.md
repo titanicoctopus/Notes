@@ -13,9 +13,18 @@
 	- [ ] Moral
 	- [ ] Connection with other chronicles
 	- [ ] Concept of connection
+- [ ] Text entry
+	- [ ] recentRiftshardRaid
+		- [ ] formalaloof
+		- [ ] formalcordial
+		- [ ] informalaloof
+		- [ ] informalcordial
+		- [ ] barbarian
 
 
 [[Hku 2022-2023]]
+- [ ] 
+
 
 [[Hva 2022-2023]]
 
