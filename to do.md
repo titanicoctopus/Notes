@@ -7,7 +7,7 @@
 [[==Project UNEXPLORED 2==]]
 - [x] Feedback overview
 	- [x] Copy recent reviews
-	- [ ] Structure reviews
+	- [x] Structure reviews
 - [ ] Chronicles docs
 	- [ ] Synopsis
 	- [ ] Moral
