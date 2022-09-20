@@ -5,7 +5,10 @@
 
 20-09-2022
 [[==Project UNEXPLORED 2==]]
-
+- [ ] Feedback overview
+	- [ ] Copy recent reviews
+	- [ ] Structure reviews
+	- [ ] 
 
 
 [[Hku 2022-2023]]
