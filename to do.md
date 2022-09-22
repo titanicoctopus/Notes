@@ -24,10 +24,10 @@
 
 [[Hva 2022-2023]]
 
-- [ ] Presentatie lunch (do)
+- [x] Presentatie lunch (do)
 - [ ] website creds doorsturen naar coline
-- [ ] UI les
-- [ ] PGD
+- [x] UI les
+- [x] PGD
 - [ ] pas regelen
 
 [[Hku 2022-2023]]

@@ -19,93 +19,78 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "184cd5264220d621",
-    "type": "split",
+    "id": "2ca453a89c4bfba8",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "1186581f86118c4c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "436b984ca3c7e979",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a7dee2fb45a94295",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "e5f15b895fa93ba5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "0f7a60e0bee3fcdd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "fe18456ac04c4e2d",
-    "type": "split",
+    "id": "632b4bf55d109c42",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9e76acb30e37d559",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b4113f934654cdea",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f30a2272c4761895",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "to do.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "14413744bbe28ab6",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "0732055ef6bb95a6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "to do.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "4705e49bcb5dbaab",
   "lastOpenFiles": [
     "==WORK==.md",
-    "to do.md",
     "==Project UNEXPLORED 2==.md",
-    "UE2 Improvement.md",
-    "Game Design.md",
-    "chronicles concept.md",
-    "traveling merchants.md",
-    "Flame Elemental Content.md",
-    "UE2 Feedback.md",
-    "Hva 2022-2023.md"
+    "Flame Elemental Legend.md",
+    "Lore.md",
+    "muckmuck.md",
+    "Graduation 2022-2023.md",
+    "fee.md",
+    "Hku 2022-2023.md",
+    "Gdtk Presentation sept 2022.md",
+    "== Game Design Toolkit ==.md"
   ]
 }
