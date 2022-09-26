@@ -10,8 +10,11 @@ Niet moeilijk om te maken.
 Puzzel van de ghosts
 Thema is sterk
 
-Mystery chronicles is anders, maar kunnen
+Mystery chronicles is anders, maar kan goed met het frame work
 
+Sfeer van curse met de gameplay van de mystery.
+
+----
 
 Toevoegen breakdown van nieuwe elementen
 Gameplay
