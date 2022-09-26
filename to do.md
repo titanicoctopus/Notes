@@ -31,10 +31,10 @@
 - [ ] pas regelen
 
 [[Hku 2022-2023]]
-- [ ] Applied GD
-	- [ ] review post brief docs
-- [ ] Class 2
-	- [ ] prep
+- [x] Applied GD
+	- [x] review post brief docs
+- [x] Class 2
+	- [x] prep
 	- [ ] do it
 - [ ] coach
 	- [ ] Groep Vrij III
