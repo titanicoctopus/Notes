@@ -3,14 +3,30 @@
 [[==WORK==]]
 
 
+26-09-2022
+[[==Project UNEXPLORED 2==]]
+- [ ] meeting met rosa
+- [ ] meeting met matthijs
+- [ ] meeting met hendrik
+- [ ] Meeting met joris
+- [ ] levels genereren
+
+[[Hva 2022-2023]]
+
+
+[[Hku 2022-2023]]
+
+
+
+
 20-09-2022
 [[==Project UNEXPLORED 2==]]
 - [x] Feedback overview
 	- [x] Copy recent reviews
 	- [x] Structure reviews
 - [ ] Chronicles docs
-	- [ ] Synopsis
-	- [ ] Moral
+	- [x] Synopsis
+	- [x] Moral
 	- [ ] Connection with other chronicles
 	- [ ] Concept of connection
 - [x] Text entry
@@ -20,7 +36,7 @@
 		- [x] informalaloof
 		- [x] informalcordial
 		- [x] barbarian
-- [ ] meeting plannen voor volgende week
+- [x] meeting plannen voor volgende week
 
 [[Hva 2022-2023]]
 
@@ -35,11 +51,11 @@
 	- [x] review post brief docs
 - [x] Class 2
 	- [x] prep
-	- [ ] do it
-- [ ] coach
-	- [ ] Groep Vrij III
-	- [ ] Fee
-	- [ ] Casey?
+	- [x] do it
+- [x] coach
+	- [x] Groep Vrij III
+	- [x] Fee
+	- [x] Casey?
 
 
 
