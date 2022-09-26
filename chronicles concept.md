@@ -3,6 +3,10 @@
 - [ ] stuff
 #unexplored 
 
+Main theme:
+Challenge the gods
+
+Connection: location, themes, features
 
 Chronicle build
 
