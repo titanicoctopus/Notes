@@ -10,7 +10,7 @@ Chronicle build
 zwart doet niet mee
 rechts klikken krijg je info
 
-Wanneer editen klaar is export data
+Wanneer editen klaar is export data: worlddata.txt >> templates\chronicleData
 
 Alleen op nodes waar je nu niet bent.
 Encounters kunnen toegevoegd worden: encounter templates
