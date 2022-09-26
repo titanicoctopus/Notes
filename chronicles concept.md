@@ -18,6 +18,7 @@ Items kunnen ook aangepast worden
 Change template veranderd de gehele lokatie
 (destination, adventure sites)
 
+Fixed seed: per wereld randomize locatie aan/uit
 
 Succesfactoren Chronicles
 
