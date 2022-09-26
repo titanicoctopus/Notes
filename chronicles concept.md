@@ -10,6 +10,7 @@ Voelt anders
 Kans om een duistere forest te hebben.
 Een nieuw landschap
 Een geturnde servitor (Bir)
+Symbool dat de chronicle anders is
 
 
 Rosa
