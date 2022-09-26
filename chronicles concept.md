@@ -14,6 +14,9 @@ Symbool dat de chronicle anders is
 Bir, the detective >> 
 Elke chronicle speelt rondom hetzelfde conflict // draait om 1 mysterie
 	Bir + bos + mysterie >>connectie met de marang machines.
+Ghost in the shell
+
+
 
 
 Rosa
