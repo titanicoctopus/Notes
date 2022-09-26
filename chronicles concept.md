@@ -4,7 +4,11 @@
 #unexplored 
 
 
-Toevoegen 
+Toevoegen breakdown van nieuwe elementen
+Gameplay
+Assets
+etc.
+
 Main theme:
 Challenge the gods
 
