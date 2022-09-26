@@ -3,6 +3,14 @@
 - [ ] stuff
 #unexplored 
 
+Rosa
+Sfeer van de curse is interessant
+Shooter aspect zal goed werken.
+Niet moeilijk om te maken.
+Puzzel van de ghosts
+Thema is sterk
+
+Mystery chronicles is anders, maar kunnen
 
 
 Toevoegen breakdown van nieuwe elementen
