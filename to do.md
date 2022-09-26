@@ -9,7 +9,9 @@
 - [ ] meeting met matthijs
 - [ ] meeting met hendrik
 - [ ] Meeting met joris
-- [ ] levels genereren
+- [ ] meer levels genereren voor chronicles
+	- [ ] intekenen chronicle scenario in een level
+	- [ ] 
 
 [[Hva 2022-2023]]
 
