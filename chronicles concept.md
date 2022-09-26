@@ -59,6 +59,8 @@ Fixed seed: per wereld randomize locatie aan/uit
 
 Succesfactoren Chronicles
 
+Product gameplay 2 a 3 uur
+
 Omzet en impact
 
 C1 - 3 maanden (break even)
