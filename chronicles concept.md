@@ -4,6 +4,18 @@
 #unexplored 
 
 
+Chronicle build
+
+9 - alle nodes zichtbaar
+zwart doet niet mee
+rechts klikken krijg je info
+
+Wanneer editen klaar is export data
+
+Encounters kunnen toegevoegd worden: encounter templates
+Items kunnen ook aangepast worden
+
+
 Succesfactoren Chronicles
 
 Omzet en impact
