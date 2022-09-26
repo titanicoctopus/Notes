@@ -12,6 +12,7 @@ Een nieuw landschap
 Een geturnde servitor (Bir)
 Symbool dat de chronicle anders is
 Bir, the detective >> 
+Elke chronicle speelt rondom hetzelfde oc
 
 
 Rosa
