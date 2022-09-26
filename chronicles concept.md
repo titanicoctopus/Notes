@@ -3,6 +3,15 @@
 - [ ] stuff
 #unexplored 
 
+Hendrik
+
+Voorkeur ghost in the forest
+Voelt anders
+Kans om een duistere forest te hebben.
+Een nieuw landschap
+Een geturnde servitor (Bir)
+
+
 Rosa
 Sfeer van de curse is interessant
 Shooter aspect zal goed werken.
