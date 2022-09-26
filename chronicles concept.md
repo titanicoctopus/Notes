@@ -12,8 +12,11 @@ rechts klikken krijg je info
 
 Wanneer editen klaar is export data
 
+Alleen op nodes waar je nu niet bent.
 Encounters kunnen toegevoegd worden: encounter templates
 Items kunnen ook aangepast worden
+Change template veranderd de gehele lokatie
+(destination, adventure sites)
 
 
 Succesfactoren Chronicles
