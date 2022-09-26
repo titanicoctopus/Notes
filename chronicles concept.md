@@ -3,6 +3,8 @@
 - [ ] stuff
 #unexplored 
 
+
+Toevoegen 
 Main theme:
 Challenge the gods
 
