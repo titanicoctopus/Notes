@@ -60,6 +60,9 @@
 	- [x] Casey?
 
 
+[[==Project PEEKABOND==]]
+- [ ] review research results
+- [ ] review onboarding
 
 
 [[== Game Design Toolkit ==]]

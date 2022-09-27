@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "to do.md",
+            "file": "peekabond research notes.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
+                "file": "peekabond research notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "de2b1b5e44e03cd2",
   "lastOpenFiles": [
+    "==Project PEEKABOND==.md",
+    "to do.md",
     "==WORK==.md",
     "chronicles concept.md",
     "==Project UNEXPLORED 2==.md",
-    "to do.md",
     "Flame Elemental Legend.md",
     "Lore.md",
     "muckmuck.md",
     "Graduation 2022-2023.md",
-    "fee.md",
-    "Hku 2022-2023.md"
+    "fee.md"
   ]
 }
