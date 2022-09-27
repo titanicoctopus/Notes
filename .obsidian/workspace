@@ -7,8 +7,12 @@
         "id": "de2b1b5e44e03cd2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "to do.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "work",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +98,9 @@
   },
   "active": "de2b1b5e44e03cd2",
   "lastOpenFiles": [
+    "==WORK==.md",
     "chronicles concept.md",
     "==Project UNEXPLORED 2==.md",
-    "==WORK==.md",
     "to do.md",
     "Flame Elemental Legend.md",
     "Lore.md",
