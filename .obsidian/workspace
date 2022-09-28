@@ -7,8 +7,12 @@
         "id": "c3f79bd7262af50c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "to do.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -62,6 +66,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "to do.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -77,9 +82,9 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "==WORK==.md",
     "Gdtk new format.md",
     "== Game Design Toolkit ==.md",
-    "==WORK==.md",
     "peekabond research notes.md",
     "==Project PEEKABOND==.md",
     "to do.md",

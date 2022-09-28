@@ -11,7 +11,11 @@
 - [ ] Meeting met joris
 - [ ] meer levels genereren voor chronicles
 	- [ ] intekenen chronicle scenario in een level
-	- [ ] 
+- [ ] winter wolf content checken
+- [ ] new world. Regio in winter. Cold hearted heal cold sparks cost double. Creatures met cold damage to them is damage to you.
+- [ ] winter wolf boss could be different?
+- [ ] specific encoubnter for spike dungeon: ruinspiked
+- [ ] shadow wolf boss check // dialogue
 
 [[Hva 2022-2023]]
 
