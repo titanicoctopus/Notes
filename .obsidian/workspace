@@ -4,109 +4,88 @@
     "type": "split",
     "children": [
       {
-        "id": "de2b1b5e44e03cd2",
+        "id": "c3f79bd7262af50c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "peekabond research notes.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "23e4fd519cea38fa",
-    "type": "split",
+    "id": "5357321ad36690c3",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "0cbbf1024d67b673",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "10179218ec0ce231",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "9699b6e83c889b1b",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "work",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "350401719ad3318c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a053c949eb8b2320",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "d17a70e23687f9dc",
-    "type": "split",
+    "id": "47902ff6ff098871",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "ab04e6e33241a70b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff06dce888433d38",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4d38e2f3355bdd0b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "peekabond research notes.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "bf11629bd4dd4dfb",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "f8d6776cbafd4903",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "de2b1b5e44e03cd2",
+  "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "Gdtk new format.md",
+    "== Game Design Toolkit ==.md",
+    "==WORK==.md",
+    "peekabond research notes.md",
     "==Project PEEKABOND==.md",
     "to do.md",
-    "==WORK==.md",
     "chronicles concept.md",
     "==Project UNEXPLORED 2==.md",
     "Flame Elemental Legend.md",
-    "Lore.md",
-    "muckmuck.md",
-    "Graduation 2022-2023.md",
-    "fee.md"
+    "Lore.md"
   ]
 }
