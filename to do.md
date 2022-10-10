@@ -1,17 +1,27 @@
 #Work
 
 [[==WORK==]]
-01-10-2022
+10-10-2022
 
-Flabs
+[[==Project UNEXPLORED 2==]]
 
-Jaaroverzichten bv en holding
+- [ ] 
 
 [[Hva 2022-2023]]
 
+- [ ] Coline afspraak maken
+- [ ] aanpassing format afmaken
+- [ ] nakijken indivudele opdrachten
+- [ ] voorbereiden les 5
+- [ ] ui les doen
+- [ ] pgd les doen
 
 [[Hku 2022-2023]]
+- [ ] AGD les voorbereiden
+- [ ] AGD les doen
 
+Flabs
+- [ ] Jaaroverzichten bv en holding
 
 26-09-2022
 [[==Project UNEXPLORED 2==]]
@@ -19,7 +29,7 @@ Jaaroverzichten bv en holding
 - [x] meeting met matthijs
 - [x] meeting met hendrik
 - [x] Meeting met joris
-- [ ] meer levels genereren voor chronicles
+- [x] meer levels genereren voor chronicles
 	- [ ] intekenen chronicle scenario in een level
 - [ ] winter wolf content checken
 - [ ] new world. Regio in winter. Cold hearted heal cold sparks cost double. Creatures met cold damage to them is damage to you.
