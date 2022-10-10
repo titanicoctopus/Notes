@@ -32,7 +32,9 @@
 - [ ] curated world
 	- [ ] 
 - [ ] modding
+	- [ ] keertje uitproberen
 - [ ] nick kletsen
+	- [ ] Afspraak maken om hem te introduceren
 	- [ ] op dit moment: 
 		- [ ] bezig met bug fixen
 		- [ ] beter de game begrijpen
