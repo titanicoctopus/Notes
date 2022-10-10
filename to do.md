@@ -5,6 +5,7 @@
 
 [[==Project UNEXPLORED 2==]]
 
+- [ ] Flame Elemental content
 - [ ] 
 
 [[Hva 2022-2023]]
