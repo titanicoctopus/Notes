@@ -1,6 +1,12 @@
 #unexplored 
 [[==Project UNEXPLORED 2==]]
 
+- [ ] adventure log
+	- [ ] a list of..
+		- [ ] actions: e.g. explored location X
+		- [ ] deeds: defeated monster x
+		- [ ] achievements: 
+
 - What is the financial goal?
 		- 2x total pay
 			- 18k x 5 = 90k
