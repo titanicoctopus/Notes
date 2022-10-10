@@ -5,7 +5,7 @@
 	- [ ] a list of..
 		- [ ] actions: e.g. explored location X
 		- [ ] deeds: defeated monster x
-		- [ ] achievements: 
+		- [ ] achievements: persuaded x 
 
 - What is the financial goal?
 		- 2x total pay
