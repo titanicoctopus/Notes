@@ -18,7 +18,8 @@
 - [ ] curated world
 	- [ ] 
 - [ ] modding
-
+- [ ] nick kletsen
+	- [ ] op dit moment bezig met bug fixen
 [[Hva 2022-2023]]
 
 - [ ] Coline afspraak maken
