@@ -1,24 +1,27 @@
 #unexplored 
+#work 
 Notes for designing the game
 
+**Project Stuff**
 --------------
 [[to do]]
-
 [[meetings]]
-
-[[Lore]]
-[[Game Design]]
+[[UE2 Feedback]]
+[[UE2 Improvement]]
+[[plans]]
 [[bugs]]
 
-[[UE2 Feedback]]
-
-[[UE2 Improvement]]
-
-xx
-[[plans]]
-
-
+**Content**
+-----------------------
+[[UE2 work files]]
+[[Lore]]
+[[Game Design]]
 [[chronicles concept]]
 
-[[UE2 work files]]
+
+
+
+
+
+
 

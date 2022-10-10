@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "==Project UNEXPLORED 2==.md",
+            "file": "games to buy list.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "==Project UNEXPLORED 2==.md",
+                "file": "games to buy list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +97,11 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
-    "UE2 work files.md",
-    "UE2 Text Canvans.md",
-    "==Project UNEXPLORED 2==.md",
     "==WORK==.md",
     "to do.md",
+    "==Project UNEXPLORED 2==.md",
+    "UE2 work files.md",
+    "UE2 Text Canvans.md",
     "== Game Design Toolkit ==.md",
     "plans.md",
     "Gdtk new format.md",

@@ -2,7 +2,7 @@
 
 [[==WORK==]]
 10-10-2022
-
+--
 [[==Project UNEXPLORED 2==]]
 
 - [ ] Flame Elemental content
@@ -53,8 +53,10 @@
 
 Flabs
 - [ ] Jaaroverzichten bv en holding
+- [ ] Q3 2022 BTW
 
 26-09-2022
+--
 [[==Project UNEXPLORED 2==]]
 - [x] meeting met rosa
 - [x] meeting met matthijs
@@ -77,6 +79,7 @@ Flabs
 
 
 20-09-2022
+--
 [[==Project UNEXPLORED 2==]]
 - [x] Feedback overview
 	- [x] Copy recent reviews
@@ -123,6 +126,7 @@ Flabs
 [[== Game Design Toolkit ==]]
 
 12-09-2022
+--
 [[==Project UNEXPLORED 2==]]
 
 - [x] Meeting met joris over chronicles
@@ -164,6 +168,7 @@ FourceLabs stuff
 - [ ] Credit card mutaties mailen naar Cees
 
 05-09-2022
+--
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
 - [x] chronicles gesprek
@@ -220,6 +225,7 @@ FourceLabs stuff
 
 
 29-08-2022
+--
 
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
@@ -259,6 +265,7 @@ FourceLabs stuff
 
 
 23-08-2022
+--
 
 [[==Project UNEXPLORED 2==]]
 di
@@ -301,6 +308,7 @@ vr
 
 
 18-07-2022
+--
 - [x] Researchable book
 	- [x] 1. Sun egg - lore >> location
 	- [x] 2. Everfrost - lore >> location
@@ -313,6 +321,7 @@ vr
 - [x] Lijst van items die effecten hebben als je ze opoffert
 
 06-07-2022
+--
 - [x] Flavor teksten regio's korter
 - [x] Specifieke teksten van kwaliteiten erbij
 - [x] Zoeken naar logische combi's en daar aparte teksten voor schrijven.

@@ -6,7 +6,7 @@ Game to get
 Switch
 - [ ] SD Gundam Battle Alliance 
 - [ ] River city Girls 1&2
-- [ ] River City Saga, Three Kingdoms
+- [x] River City Saga, Three Kingdoms
 - [ ] Ultra Kaijku Monster Rancher
 - [ ] No Place for Bravery
 - [ ] # RPG Time! The Legend of Wright (oct 2022)
@@ -15,6 +15,7 @@ Switch
 - [ ] Harvestella (nov 2022)
 - [ ] The DioField Chronicle (sep 2022)
 - [ ] Shin Megami Tensei 5
+	- [ ] on sale
 - [ ] Shin Chan: Me and the Professor on Summer Vacation
 
 
