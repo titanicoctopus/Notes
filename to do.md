@@ -3,18 +3,24 @@
 [[==WORK==]]
 
 
+[[Hva 2022-2023]]
+
+
+[[Hku 2022-2023]]
+
+
 26-09-2022
 [[==Project UNEXPLORED 2==]]
-- [ ] meeting met rosa
-- [ ] meeting met matthijs
-- [ ] meeting met hendrik
-- [ ] Meeting met joris
+- [x] meeting met rosa
+- [x] meeting met matthijs
+- [x] meeting met hendrik
+- [x] Meeting met joris
 - [ ] meer levels genereren voor chronicles
 	- [ ] intekenen chronicle scenario in een level
 - [ ] winter wolf content checken
 - [ ] new world. Regio in winter. Cold hearted heal cold sparks cost double. Creatures met cold damage to them is damage to you.
 - [ ] winter wolf boss could be different?
-- [ ] specific encoubnter for spike dungeon: ruinspiked
+- [x] specific encoubnter for spike dungeon: ruinspiked
 - [ ] shadow wolf boss check // dialogue
 
 [[Hva 2022-2023]]
