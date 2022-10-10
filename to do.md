@@ -6,7 +6,18 @@
 [[==Project UNEXPLORED 2==]]
 
 - [ ] Flame Elemental content
-- [ ] 
+- [ ] ghost forest scenario
+	- [ ] breakdown
+		- [ ] character
+			- [ ] gear
+			- [ ] skills
+			- [ ] hope
+		- [ ] world map
+			- [ ] specs
+			- [ ] 
+- [ ] curated world
+	- [ ] 
+- [ ] modding
 
 [[Hva 2022-2023]]
 
