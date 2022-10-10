@@ -53,7 +53,7 @@
 - [ ] AGD les doen
 
 Flabs
-- [ ] Jaaroverzichten bv en holding
+- [x] Jaaroverzichten bv en holding
 - [ ] Q3 2022 BTW
 
 26-09-2022
