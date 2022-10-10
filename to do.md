@@ -6,7 +6,11 @@
 [[==Project UNEXPLORED 2==]]
 
 - [ ] Flame Elemental content
-	- [ ] dialogen aanvullen
+	- [ ] dialogen aanvullen, look for here be text // KAREL
+	- [ ] Rumors
+		- [ ] Eternal Winter
+		- [ ] Bir's T
+	- [ ] Trivia
 	- [ ] info flow
 - [ ] ghost forest scenario
 	- [ ] breakdown
