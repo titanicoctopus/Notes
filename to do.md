@@ -9,8 +9,16 @@
 	- [ ] dialogen aanvullen, look for here be text // KAREL
 	- [ ] Rumors
 		- [ ] Eternal Winter
-		- [ ] Bir's T
+		- [ ] Bir's Tomb
+		- [ ] Marang Ruin
+		- [ ] Birnui
 	- [ ] Trivia
+		- [ ] Bir
+		- [ ] Flame Elemental
+		- [ ] Birnui
+	- [ ] Book
+		- [ ] Eternal Winter
+		- [ ] Flame Elemental
 	- [ ] info flow
 - [ ] ghost forest scenario
 	- [ ] breakdown
