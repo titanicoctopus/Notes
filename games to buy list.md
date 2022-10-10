@@ -4,6 +4,7 @@
 Game to get
 
 Switch
+--
 - [ ] SD Gundam Battle Alliance 
 - [ ] River city Girls 1&2
 - [x] River City Saga, Three Kingdoms
@@ -14,12 +15,14 @@ Switch
 - [ ] # Super Robot Wars 30 (English)
 - [ ] Harvestella (nov 2022)
 - [ ] The DioField Chronicle (sep 2022)
+	- [ ] on sale
 - [ ] Shin Megami Tensei 5
 	- [ ] on sale
 - [ ] Shin Chan: Me and the Professor on Summer Vacation
 
 
 PC
+--
 - [ ] Starfield
 - [ ] Elder Scrolls 6
 - [ ] Mass Effect 4
@@ -35,7 +38,9 @@ PC
 - [ ] Star Wars Jedi Survivor
 - [ ] Black Myth: Wukong
 - [ ] Fashion Police Squad
+	- [ ] on sale
 - [ ] Soul Hackers 2
+	- [ ] on sale
 - [ ] Lost in Play
 - [ ] Brok the Investigator
 - [ ] Legioncraft
