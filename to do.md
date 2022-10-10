@@ -6,6 +6,8 @@
 [[==Project UNEXPLORED 2==]]
 
 - [ ] Flame Elemental content
+	- [ ] dialogen aanvullen
+	- [ ] info flow
 - [ ] ghost forest scenario
 	- [ ] breakdown
 		- [ ] character
@@ -19,7 +21,9 @@
 	- [ ] 
 - [ ] modding
 - [ ] nick kletsen
-	- [ ] op dit moment bezig met bug fixen
+	- [ ] op dit moment: 
+		- [ ] bezig met bug fixen
+		- [ ] beter de game begrijpen
 [[Hva 2022-2023]]
 
 - [ ] Coline afspraak maken
