@@ -1,6 +1,10 @@
 #unexplored 
 [[==Project UNEXPLORED 2==]]
 
+- [ ] Loading different
+	- [ ] goal is to 
+	- [ ] More one chunks 
+
 - [ ] adventure log
 	- [ ] a list of..
 		- [ ] actions: e.g. explored location X
