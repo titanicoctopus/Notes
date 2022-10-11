@@ -29,7 +29,11 @@ elementalBoonFlame.line.start	 Embers of the burnt heart fall on their unblemish
 Who?
 "I am who your people call Kuulvak. I am the Elemental of Flame. I was tasked to heat the world until I was interupted by the Marang. One of their machines fought with me and slayed me. What happened after this I do not know."
 
-""
+What happened?
+"You managed to reconstitute my dispersed essence by fusing them here. Unfortunately a lot of my essence has been spent. Now that I'm whole I can slowly regain my strength again."
+
+Aid?
+"With what I have left"
 
 
 elementalBoonFlame.line.restart	Restart: HERE BE TEXT
