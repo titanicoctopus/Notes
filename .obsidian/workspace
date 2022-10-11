@@ -19,66 +19,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6622cb23da35d0ea",
-    "type": "mobile-drawer",
+    "id": "7353b07997553853",
+    "type": "split",
     "children": [
       {
-        "id": "24790459c534ee1a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "b542cf1caa91f78b",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "fd0c515ade8249ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a3349d549e439f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a396e820eea9126",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "4666bd4b66c6e4a9",
-    "type": "mobile-drawer",
+    "id": "0f3a9c5a56b16518",
+    "type": "split",
     "children": [
       {
-        "id": "78066e1d832eb8e0",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "a5f1608bea74605f",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "UE2 Text Canvans.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "5487b6fc347c5333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3baccb4d0a2880d7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "66203a6d957c6471",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UE2 Text Canvans.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [

@@ -5,21 +5,11 @@
 [[UE2 work files]]
 
 ----
-- [ ] Flame Elemental content
-	- [ ] dialogen aanvullen, look for here be text // KAREL
-	- [ ] Rumors
-		- [ ] Eternal Winter
-		- [ ] Bir's Tomb
-		- [ ] Marang Ruin
-		- [ ] Birnui
-	- [ ] Trivia
-		- [ ] Bir
-		- [ ] Flame Elemental
-		- [ ] Birnui
-	- [ ] Book
-		- [ ] Eternal Winter
-		- [ ] Flame Elemental
-	- [ ] info flow
+
+clanstoryteller.flameLegend.intro	"Hail and well met! I see you are a seas?"||The jolly storyteller before you is already preparing their props, before you even said yes.||"HERE BE TEXT (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED."	
+
+clanstoryteller.flameLegend.end	The storyteller takes a big breath to recover from their involved performance.||"And that's a wrap, I hope you enjoyed the show!" (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED.
+
 
 **Rumors**
 
