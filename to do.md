@@ -6,7 +6,7 @@
 [[==Project UNEXPLORED 2==]]
 
 - [ ] Flame Elemental content
-	- [ ] dialogen aanvullen, look for here be text // KAREL
+	- [x] dialogen aanvullen, look for here be text // KAREL
 	- [ ] Rumors
 		- [x] Eternal Winter
 		- [ ] Bir's Tomb
@@ -41,7 +41,7 @@
 
 [[Hva 2022-2023]]
 
-- [ ] Coline afspraak maken
+- [x] Coline afspraak maken
 - [ ] aanpassing format afmaken
 - [ ] nakijken indivudele opdrachten
 - [ ] voorbereiden les 5
