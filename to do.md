@@ -54,7 +54,7 @@
 
 Flabs
 - [x] Jaaroverzichten bv en holding
-- [ ] Q3 2022 BTW
+- [x] Q3 2022 BTW
 
 26-09-2022
 --
