@@ -9,7 +9,9 @@
 The flame elemental dungeon consists of machinery which keeps the dispersed body of Kuulvak suspended to power x.
 The Frozen Flame was built to absorb the essence of Kuulvak and to distribute it to the devices. This process is reversible. 
 
-The heart
+The heart is the actual heart of kuulvak which is used to power the machinery.
+
+The machinery needs
 
 **Missing texts**
 
