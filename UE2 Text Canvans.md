@@ -6,7 +6,7 @@
 
 ----
 
-clanstoryteller.flameLegend.intro	"Hail and well met! I see you are a seas?"||The jolly storyteller before you is already preparing their props, before you even said yes.||"HERE BE TEXT (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED."	
+clanstoryteller.flameLegend.intro	"Hail and well met! Have you ever felt the numbing pain of a winter's breath or the crushing weight of the scorching heat of the desert? "||The jolly storyteller before you is already preparing their props, before you even said yes.||"HERE BE TEXT (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED."	
 
 clanstoryteller.flameLegend.end	The storyteller takes a big breath to recover from their involved performance.||"And that's a wrap, I hope you enjoyed the show!" (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED.
 
