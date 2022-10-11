@@ -25,7 +25,7 @@ elementalBoonFlame.caption	Reborn Flame Elemental
 elementalBoonFlame.line.start	 Embers of the burnt heart fall on their unblemished skin of the new born creature. They sit their for a second and then it's absorbed by the skin. The small creature looks at you with gratitude in their eyes. 
 "Now this IS a suprise.", they say with an unsettling mature voice. "Now let me see where we are at."[NEXT]Their eyes shimmer for moment. They begin to speak in higher pitched voice to someone or something you can't see.||"I have been away for too long. My initial task has become obsolete." They pause for a moment as if the unseen presence is speaking to them. They nod. "I understand. I will wait for your return."[NEXT]Their eyes return to normal and their attention is directed back at you.||"I would like to thank you Wayfarer. You have done us a great service."
 
-Kuulvak igno eyes are closed. Around their frail body you can see small bright motes dancing around. 
+Kuulvak ignores you when you approach them. Their eyes are closed and their breathing is slow. Around their frail body you can see small bright motes dancing around. 
 
 Who?
 "I am who your people call Kuulvak. I am the Elemental of Flame. I was tasked to heat the world until I was interupted by the Marang. One of their machines fought with me and slayed me. What happened after this I do not know."
