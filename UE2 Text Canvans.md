@@ -23,6 +23,8 @@ The storyteller changes pitch, claps their hands and begins to spin their tale."
 
 elementalBoonFlame.caption	Reborn Flame Elemental
 elementalBoonFlame.line.start	 Embers of the burnt heart fall on their unblemished skin of the new born creature. They sit their for a second and then it's absorbed by the skin. The small creature looks at you with gratitude in their eyes. 
+"Now this IS a suprise.", they say with an unsettling mature voice. "Now let me see where we are at." Their eyes shimmer for moment. "I have been away for too long. I can't "
+
 elementalBoonFlame.line.restart	Restart: HERE BE TEXT
 
 **Rumors**
