@@ -6,9 +6,9 @@
 
 ----
 
-clanstoryteller.flameLegend.intro	"Hail and well met! Have you ever felt the numbing pain of a winter's breath or the crushing weight of the scorching heat of the desert? "||The jolly storyteller before you is already preparing their props, before you even said yes.||"HERE BE TEXT (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED."	
+clanstoryteller.flameLegend.intro	"Traveler! Might I have your ear? Have you ever felt the numbing pain of a winter's breath or the crushing weight of the scorching heat of the desert? Let me share a tale that tells us what happens when these extremes collide."||Before you can even react they begin to humm.||"HERE BE TEXT (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED."	
 
-clanstoryteller.flameLegend.end	The storyteller takes a big breath to recover from their involved performance.||"And that's a wrap, I hope you enjoyed the show!" (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED.
+clanstoryteller.flameLegend.end	When the last words left their lips, they begin to humm again. They fall silent, bow and stare into the fire. 
 
 
 **Rumors**
