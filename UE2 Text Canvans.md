@@ -26,7 +26,10 @@ elementalBoonFlame.line.start	 Embers of the burnt heart fall on their unblemish
 "Now this IS a suprise.", they say with an unsettling mature voice. "Now let me see where we are at." Their eyes shimmer for moment. They begin to speak in higher pitched voice to someone or something you can't see. "I have been away for too long. My initial task has become obsolete." They pause for a moment as if the unseen presence is speaking to them. They nod. "I understand. I will wait for your return." Their eyes return to normal and their attention is directed back at you.
 "I would like to thank you Wayfarer. You have done us a great service."
 
-"Long ago "
+Who?
+"I am who your people call Kuulvak. I am the Elemental of Flame. I was tasked to heat the world until I was interupted by the Marang. One of their machines fought with me and slayed me. What happened after this I do not know."
+
+""
 
 
 elementalBoonFlame.line.restart	Restart: HERE BE TEXT
