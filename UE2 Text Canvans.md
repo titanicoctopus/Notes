@@ -33,7 +33,7 @@ What happened?
 "You managed to reconstitute my dispersed essence by fusing them here. Unfortunately a lot of my essence has been spent. Now that I'm whole I can slowly regain my strength again."
 
 Aid?
-"With what I have left"
+"Of course. With the small bit of power I can spent I can offer you: an ember, a tear or a powerbase."
 
 
 elementalBoonFlame.line.restart	Restart: HERE BE TEXT
