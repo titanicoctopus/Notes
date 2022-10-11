@@ -13,7 +13,7 @@ clanstoryteller.flameLegend.end	When the last words left their lips, they begin 
 The storyteller changes pitch, claps their hands and begins to spin their tale."HERE BE TEXT (KAREL)..."
 
 elementalBoonFlame.caption	Reborn Flame Elemental
-elementalBoonFlame.line.start	When the i
+elementalBoonFlame.line.start	
 elementalBoonFlame.line.restart	Restart: HERE BE TEXT
 
 **Rumors**
