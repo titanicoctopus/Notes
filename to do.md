@@ -8,7 +8,7 @@
 - [ ] Flame Elemental content
 	- [ ] dialogen aanvullen, look for here be text // KAREL
 	- [ ] Rumors
-		- [ ] Eternal Winter
+		- [x] Eternal Winter
 		- [ ] Bir's Tomb
 		- [ ] Marang Ruin
 		- [ ] Birnui
