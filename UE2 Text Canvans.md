@@ -6,10 +6,15 @@
 
 ----
 
-clanstoryteller.flameLegend.intro	"Traveler! Might I have your ear? Have you ever felt the numbing pain of a winter's breath or the crushing weight of the scorching heat of the desert? Let me share a tale that tells us what happens when these extremes collide."||Before you can even react they begin to humm.||"HERE BE TEXT (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED."	
+clanstoryteller.flameLegend.intro	"Traveler! Might I have your ear? Have you ever felt the numbing pain of a winter's breath or the intese torrent of a raging inferno? Let me share a tale that tells us what happens when these extremes collide."||Before you can even react they begin to humm."HERE BE TEXT (KAREL) THE WHOLE ENTRY NEEDS TO BE CHANGED."	
 
 clanstoryteller.flameLegend.end	When the last words left their lips, they begin to humm again. They fall silent, bow and stare into the fire. 
 
+The storyteller changes pitch, claps their hands and begins to spin their tale."HERE BE TEXT (KAREL)..."
+
+elementalBoonFlame.caption	Reborn Flame Elemental
+elementalBoonFlame.line.start	When the i
+elementalBoonFlame.line.restart	Restart: HERE BE TEXT
 
 **Rumors**
 
