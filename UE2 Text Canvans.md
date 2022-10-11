@@ -6,7 +6,8 @@
 
 ----
 
-The flame elemental dungeon
+The flame elemental dungeon consists of machinery which keeps the dispersed body of Kuulvak suspended to power x.
+The Frozen Flame is a glaive built to absorb the flame magic and bri
 
 **Missing texts**
 
