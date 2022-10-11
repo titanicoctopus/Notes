@@ -22,7 +22,7 @@ clanstoryteller.flameLegend.end	When the last words left their lips, they begin 
 The storyteller changes pitch, claps their hands and begins to spin their tale."HERE BE TEXT (KAREL)..."
 
 elementalBoonFlame.caption	Reborn Flame Elemental
-elementalBoonFlame.line.start	As the flames from the machine 
+elementalBoonFlame.line.start	 Embers of the burnt heart fall on their unblemished skin of the new born creature. They sit their for a second and then it's absorbed by the skin. The small creature looks at you with gratitude in their eyes. 
 elementalBoonFlame.line.restart	Restart: HERE BE TEXT
 
 **Rumors**
