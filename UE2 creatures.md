@@ -5,15 +5,14 @@
 
 Alzmidda
 
+**Ghost**
+
 Ancestral Apparition
 
-Ancestral Spirit
 
 Ancestral Spirit
 
 Answar Kobold
-
-Apparition
 
 Arcane Spawn
 
@@ -44,8 +43,6 @@ Black Runner
 Black Sprite
 
 Blinking Sprite
-
-Blood Cloaker
 
 Blood Cloaker
 
@@ -100,8 +97,6 @@ Digger Spider
 Dire Rat
 
 Double Dragon
-
-Dracgard Grus
 
 Dracgard Grus
 
@@ -217,8 +212,6 @@ Hunting Sellswords
 
 Immortal
 
-Immortal
-
 Immortal Bloodoath
 
 Immortal Conscript
@@ -238,8 +231,6 @@ Imwee Deer
 Inspirited Thicket
 
 Jabar
-
-Jabberling
 
 Jabberling
 
@@ -335,10 +326,6 @@ Raafi
 
 Rat
 
-Rat
-
-Rat
-
 Raven
 
 Reeker
@@ -375,8 +362,6 @@ Shade
 
 Shadow Wolf
 
-Shadow Wolf
-
 Shadowfade
 
 Shadownbeck
@@ -391,8 +376,6 @@ Skeleotn
 
 Skider
 
-Skider
-
 Sky Jumper
 
 Slayer Arachnid
@@ -401,11 +384,7 @@ Small Fry
 
 Smelt
 
-Smelt
-
 Smelter
-
-Smilga
 
 Smilga
 
@@ -432,10 +411,6 @@ Spirit Blade
 Spirit World Creature
 
 Steam Wyrm
-
-Steam Wyrm
-
-Storm Rider
 
 Storm Rider
 
@@ -483,6 +458,8 @@ Urghul
 
 Valker
 
+Vanish
+
 Vein
 
 Vent
@@ -527,9 +504,5 @@ Wulfmane
 
 Yertle
 
-Yertle
-
 Zwaard Meester
-
-
 
