@@ -19,10 +19,6 @@ Black Runner
 **Warden**
 Arch-Warden
 
-Automaton
-
-Awe Sprite
-
 **Folk**
 Bandit
 Bandits
@@ -30,12 +26,14 @@ Bartok
 Bonded Ur Ma
 Brand Meester
 Brander Acolyte
+Dracgard Grus
 
 **Immortal**
 Bannerless Immortal
 
-Spirited Growths
+**Spirited Growths**
 Barbthrow Fibreroot
+Deaththrow Fibreroot
 
 **Beasts**
 Black Beast
@@ -43,65 +41,46 @@ Blood Cloaker
 Boars
 Black Crawler
 Brown Uniworm
-
-**Sprite**
-Black Sprite
-Blinking Sprite
-
-
-
-
-
-
-
-
-
-
 Cloaked Daggerbeak
-
-Cloaking Sprite
-
 Cloud Eater
-
-Command Root Sprite
-
-Control Wind Sprite
-
-Crawling Flesh
-
-Crested Impala
-
 Crow
-
-Cruip
-
-Cruiper
-
-Cruipy Crawler
-
 Daggerbeak
-
-Dark Wolfling
-
-Deaththrow Fibreroot
-
 Deep Quan
-
 Deep Spider
-
 Deep Spider Elder
-
 Digger Spider
-
 Dire Rat
 
+**Enspirited Beasts**
+Crested Impala
+Dark Wolfling
 Double Dragon
 
-Dracgard Grus
+**Sprite**
+Awe Sprite
+Black Sprite
+Blinking Sprite
+Calm Sprite
+Cloaking Sprite
+Command Root Sprite
+Control Wind Sprite
 
+**Corrupted**
+Crawling Flesh
+Cruip
+Cruiper
+Cruipy Crawler
+
+**Marang Constructions**
+Automaton
+
+**Imperials**
 Dred Hound
 
-Dred Wolf
+
+
+
+
 
 Drybrush Firewood
 
