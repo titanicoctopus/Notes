@@ -27,6 +27,7 @@ Bonded Ur Ma
 Brand Meester
 Brander Acolyte
 Dracgard Grus
+Envoy
 
 **Immortal**
 Bannerless Immortal
@@ -34,6 +35,9 @@ Bannerless Immortal
 **Spirited Growths**
 Barbthrow Fibreroot
 Deaththrow Fibreroot
+Drybrush Firewood
+Fire Spitter
+Flow Pole
 
 **Beasts**
 Black Beast
@@ -50,11 +54,30 @@ Deep Spider
 Deep Spider Elder
 Digger Spider
 Dire Rat
+Dunetail
+Earworm
+Elder Wolf
+Fladder
+Flaeder
+Flashwing
+Fleder
+Fluftail Rabbit
 
 **Enspirited Beasts**
 Crested Impala
 Dark Wolfling
 Double Dragon
+Dust Devil
+Elder Shadow Wolf
+Elebeck
+Electric Spider
+Firescale
+Floater
+Flow Runner
+Flow Strider
+Flowy Poly
+Flowy Poly Matron
+
 
 **Sprite**
 Awe Sprite
@@ -64,6 +87,9 @@ Calm Sprite
 Cloaking Sprite
 Command Root Sprite
 Control Wind Sprite
+Exploding Sprite
+Fast Flow Sprite
+Flame Sprite
 
 **Corrupted**
 Crawling Flesh
@@ -73,68 +99,19 @@ Cruipy Crawler
 
 **Marang Constructions**
 Automaton
+Dummy
 
 **Imperials**
 Dred Hound
+Dred Wolf
+
+
+Spirit
 
 
 
 
 
-
-Drybrush Firewood
-
-Dummy
-
-Dunetail
-
-Dust Devil
-
-Earworm
-
-Elder Shadow Wolf
-
-Elder Wolf
-
-Elebeck
-
-Electric Spider
-
-Envoy
-
-Exploding Sprite
-
-Fast Flow Sprite
-
-Fire Spitter
-
-Firescale
-
-Fladder
-
-Flaeder
-
-Flame Sprite
-
-Flashwing
-
-Fleder
-
-Floater
-
-Flow Pole
-
-Flow Runner
-
-Flow Strider
-
-Flowy Poly
-
-Flowy Poly Matron
-
-Fluftail Rabbit
-
-Folk
 
 Folk Figment
 
