@@ -23,9 +23,14 @@ Ancestral Spirit
 Arcane Spawn
 Black Runner
 Shadowbeck
+Vanish
 
 **Warden**
 Arch-Warden
+Warden
+Warden Eye
+Warden Eyestalk
+Warden Observer
 
 **Folk**
 Bandit
@@ -39,7 +44,6 @@ Hunter
 Hunting Sellswords
 Kabooter Minion
 Kabooter Navigator
-Larnia the Valker
 Lelie of the Oasis
 Lord Grievous
 Lore Master
@@ -50,6 +54,8 @@ Shadowstalker
 Storm Rider
 Tex
 Tracker
+Wilder
+Wilder Master
 
 **Immortal**
 Bannerless Immortal
@@ -61,7 +67,7 @@ Immortal Hearth Keeper
 Immortal Marshal
 Immortal Valker
 
-**Spirited Growths**
+**Inspirited Growths**
 Barbthrow Fibreroot
 Deaththrow Fibreroot
 Drybrush Firewood
@@ -72,6 +78,9 @@ Inspirited Thicket
 Root Mine
 Shroom
 Snap Root Tree
+Vein
+Vent
+Wild Sentinel
 
 **Beasts**
 Black Beast
@@ -111,6 +120,7 @@ Messenger Raaf
 Monstrous Spider
 Mud Fisher
 Mud Jumper
+Orcwart
 Pack Lobbes
 Piglet
 Plagued Rat
@@ -136,6 +146,10 @@ Strider
 Swamp Cloaker
 The Beast
 Trueform Arachnid
+Wart
+Wart Chief
+Wartling
+Wolf
 
 **Inspirited Beasts**
 Crested Impala
@@ -155,7 +169,6 @@ Kamikaas
 Kelkos
 Lesser Fen Wyrm
 Minute Time Weaver
-Orcwart
 Phase Spider
 Poly Form
 Roly Poly
@@ -167,6 +180,8 @@ Sky Jumper
 Spark Crawler
 Steam Wyrm
 Time Weaver
+White Wolfling
+Winter Wolf
 
 **Sprite**
 Awe Sprite
@@ -190,6 +205,8 @@ Shatter Rock Sprite
 Spike Sprite
 Strong Root Sprite
 Sun Sprite
+Wilde Sprite
+Wind Sprite
 
 **Corrupted**
 Crawling Flesh
@@ -201,6 +218,7 @@ Ghul Flesh Stalker
 Ghul Vessel
 Headless
 Quivering Flesh
+Urghul
 
 **Marang Constructions**
 Automaton
@@ -226,6 +244,7 @@ Tindred Slayer
 Tindred Soldier
 Tindred Truthsayer
 Tindred Warrior
+Valker
 
 **Spirits**
 Folk Figment
@@ -244,84 +263,23 @@ Smelter
 Snow Spirit
 Soul Hound
 Spirit Blade
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ur Ma
-
-
-
-Valker
-
-Vanish
-
-Vein
-
-Vent
-
 Vlam Guardian
 
-Warden
 
-Warden Eye
 
-Warden Eyestalk
 
-Warden Observer
 
-Wart
 
-Wart Chief
 
-Wartling
 
-White Wolfling
 
-Wild Sentinel
 
-Wilde Sprite
 
-Wilder
 
-Wilder Master
 
-WInd Sprite
 
-Winter Wolf
 
-Wolf
+
 
 Wolf Master
 
