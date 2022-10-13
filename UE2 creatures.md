@@ -3,11 +3,14 @@
 
 [[==Project UNEXPLORED 2==]]
 
-**Clans**
+**Cultures**
 Alzmidda
 Dracgard Grus
 Bonded Ur Ma
 Answar Kobold
+Jabar
+Jabberling
+Kabooter
 
 **Ghost**
 Ancestral Apparition
@@ -30,6 +33,11 @@ Envoy
 Grey Hermit
 Hunter
 Hunting Sellswords
+Kabooter Minion
+Kabooter Navigator
+Larnia the Valker
+Lelie of the Oasis
+Lord Grievous
 
 **Immortal**
 Bannerless Immortal
@@ -48,6 +56,7 @@ Drybrush Firewood
 Fire Spitter
 Flow Pole
 Haiburst
+Inspirited Thicket
 
 **Beasts**
 Black Beast
@@ -81,8 +90,10 @@ Hillsback Hound
 Hillshine Beetle
 Hog
 Hog Hag
+Imwee Deer
+Leaf Runner
 
-**Enspirited Beasts**
+**Inspirited Beasts**
 Crested Impala
 Dark Wolfling
 Double Dragon
@@ -96,7 +107,9 @@ Flow Strider
 Flowy Poly
 Flowy Poly Matron
 Greater Fen Wyrm
-
+Kamikaas
+Kelkos
+Lesser Fen Wyrm
 
 **Sprite**
 Awe Sprite
@@ -110,6 +123,8 @@ Exploding Sprite
 Fast Flow Sprite
 Flame Sprite
 Fury Spike Sprite
+Lava Ball Sprite
+Lightning Sprite
 
 **Corrupted**
 Crawling Flesh
@@ -160,41 +175,35 @@ Guardian Spirit Spider
 
 
 
-Inspirited Thicket
 
-Jabar
 
-Jabberling
 
-Kabooter
 
-Kabooter Minion
 
-Kabooter Navigator
 
-Kamikaas
 
-Kelkos
 
-Kobold
 
-Large Spider
 
-Larnia the Valker
 
-Lava Ball Sprite
 
-Leaf Runner
 
-Lelie of the Oasis
 
-Lesser Fen Wyrm
 
-Lightning Sprite
 
-Lord Grievous
 
-Lore Master
+
+
+
+
+
+
+
+
+
+
+
+
 
 Machine Sprite
 
