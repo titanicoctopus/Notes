@@ -47,6 +47,9 @@ Master
 Oathmaker
 Outlaw
 Shadowstalker
+Storm Rider
+Tex
+Tracker
 
 **Immortal**
 Bannerless Immortal
@@ -68,6 +71,7 @@ Haiburst
 Inspirited Thicket
 Root Mine
 Shroom
+Snap Root Tree
 
 **Beasts**
 Black Beast
@@ -123,7 +127,15 @@ Savage Spawn
 Skider
 Slayer Arachnid
 Small Fry
-Smelt
+Smilga
+Smilga Pod
+Smilga Podling
+Spawner Queen
+Strekoza
+Strider
+Swamp Cloaker
+The Beast
+Trueform Arachnid
 
 **Inspirited Beasts**
 Crested Impala
@@ -152,6 +164,9 @@ Rooted Tusker
 Rooted Tusker Piglet
 Shadow Wolf
 Sky Jumper
+Spark Crawler
+Steam Wyrm
+Time Weaver
 
 **Sprite**
 Awe Sprite
@@ -172,6 +187,9 @@ Piercing Root Sprite
 Rock Strike Sprite
 Ruinous Sprite
 Shatter Rock Sprite
+Spike Sprite
+Strong Root Sprite
+Sun Sprite
 
 **Corrupted**
 Crawling Flesh
@@ -200,6 +218,14 @@ Dred Wolf
 Fordred Breaker
 Ondred Encircler
 Ondred Sphere
+Tetred
+Tindred Brute
+Tindred Envoy
+Tindred Officer
+Tindred Slayer
+Tindred Soldier
+Tindred Truthsayer
+Tindred Warrior
 
 **Spirits**
 Folk Figment
@@ -213,111 +239,49 @@ Proto Serpent
 Raaf
 Shade
 Shadowfade
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Smelt
 Smelter
-
-Smilga
-
-Smilga Pod
-
-Smilga Podling
-
-Snap Root Tree
-
 Snow Spirit
-
 Soul Hound
-
-Spark Crawler
-
-Spawner Queen
-
-Spider
-
-Spike Sprite
-
 Spirit Blade
 
-Spirit World Creature
 
-Steam Wyrm
 
-Storm Rider
 
-Strekoza
 
-Strider
 
-Strong Root Sprite
 
-Sun Sprite
 
-Swamp Cloaker
 
-Tetred
 
-Tex
 
-The Beast
 
-Time Weaver
 
-Tindred Brute
 
-Tindred Envoy
 
-Tindred Officer
 
-Tindred Slayer
 
-Tindred Soldier
 
-Tindred Truthsayer
 
-Tindred Warrior
 
-Tracker
 
-Trueform Arachnid
 
-Underground Creature
+
+
+
+
+
+
+
+
+
+
+
+
 
 Ur Ma
 
-Urghul
+
 
 Valker
 
