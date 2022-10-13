@@ -76,6 +76,89 @@ Rooted Tusker Piglet
 Black Beast
 Brander Acolyte
 Brand Meester
+Cruipy Crawler
+Cruiper
+Imwee Deer
+Double Dragon
+Dummy
+Dunetail
+Quan
+Deep Quan
+Quanling
+Quanite
+Elebeck
+Shadownbeck
+Dust Devil
+Frost Dancer
+Glass Demon
+Envoy
+Proto Serpent
+Wild Sentinel
+Firescale
+Grey Pike
+Small Fry
+Guppy
+Servitor F
+Haiburst
+Quivering Flesh
+Floater
+Ghul
+Ghul Flesh Stalker
+Crawling Flesh
+Ghul Vessel
+Hog
+High Hog
+Hog Hag
+Piglet
+Hillsback Hound
+Tindred Truthsayer
+Tindred Envoy
+Dred Wolf
+Tindred Brute
+Dred Hound
+Hunting Sellswords
+Jabberling
+Daggerbeak
+Cloaked Daggerbeak
+Guardian Spirit Kaban
+Kabooter Minion
+Kabooter Navigator
+Kelkos
+The Beast
+Answar Kobold
+Greenscale
+Lelie of the Oasis
+Pack Lobbes
+Lord Grievous
+Lore Master
+Shadowstalker
+Wilder
+Wilder Master
+Oathmaker
+Grey Hermit
+Master
+Zwaard Meester
+Mud Fisher
+Brown Uniworm
+Crested Impala
+Folk Figment
+Protter
+Quinta Kolos
+Messenger Raaf
+Raaf
+Fluftail Rabbit
+Tracker
+Rat
+Dire Rat
+Kamikaas
+Plagued Rat
+Rat
+Raven
+Immortal Bloodoath
+Immortal Conscript
+Immortal Custaodian
+Immortal Hearth Keeper
+Immorat
 
 
 
