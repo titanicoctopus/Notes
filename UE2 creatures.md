@@ -3,60 +3,59 @@
 
 [[==Project UNEXPLORED 2==]]
 
+**Clans**
 Alzmidda
 
 **Ghost**
-
 Ancestral Apparition
-
-
 Ancestral Spirit
 
 Answar Kobold
 
+**Voided**
 Arcane Spawn
+Black Runner
 
+**Warden**
 Arch-Warden
 
 Automaton
 
 Awe Sprite
 
+**Folk**
 Bandit
-
 Bandits
-
-Bannerless Immortal
-
-Barbthrow Fibreroot
-
 Bartok
-
-Bats
-
-Black Beast
-
-Black Crawler
-
-Black Runner
-
-Black Sprite
-
-Blinking Sprite
-
-Blood Cloaker
-
-Boars
-
 Bonded Ur Ma
-
 Brand Meester
-
 Brander Acolyte
 
+**Immortal**
+Bannerless Immortal
+
+Spirited Growths
+Barbthrow Fibreroot
+
+**Beasts**
+Black Beast
+Blood Cloaker
+Boars
+Black Crawler
 Brown Uniworm
 
-Calm Sprite
+**Sprite**
+Black Sprite
+Blinking Sprite
+
+
+
+
+
+
+
+
+
 
 Cloaked Daggerbeak
 
