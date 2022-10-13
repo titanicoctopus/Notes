@@ -12,6 +12,8 @@ Jabar
 Jabberling
 Kabooter
 Protter
+Raafi
+Sandreider
 
 **Ghost**
 Ancestral Apparition
@@ -20,6 +22,7 @@ Ancestral Spirit
 **Voided**
 Arcane Spawn
 Black Runner
+Shadowbeck
 
 **Warden**
 Arch-Warden
@@ -43,6 +46,7 @@ Lore Master
 Master
 Oathmaker
 Outlaw
+Shadowstalker
 
 **Immortal**
 Bannerless Immortal
@@ -62,6 +66,8 @@ Fire Spitter
 Flow Pole
 Haiburst
 Inspirited Thicket
+Root Mine
+Shroom
 
 **Beasts**
 Black Beast
@@ -108,6 +114,16 @@ Poison Spider
 Quan
 Quanite
 Quanling
+Rat
+Raven
+Reeker
+Reeker Piglet
+Reeker Sharp Tusk
+Savage Spawn
+Skider
+Slayer Arachnid
+Small Fry
+Smelt
 
 **Inspirited Beasts**
 Crested Impala
@@ -130,6 +146,12 @@ Minute Time Weaver
 Orcwart
 Phase Spider
 Poly Form
+Roly Poly
+Roly Poly Matron
+Rooted Tusker
+Rooted Tusker Piglet
+Shadow Wolf
+Sky Jumper
 
 **Sprite**
 Awe Sprite
@@ -147,6 +169,9 @@ Lava Ball Sprite
 Lightning Sprite
 Machine Sprite
 Piercing Root Sprite
+Rock Strike Sprite
+Ruinous Sprite
+Shatter Rock Sprite
 
 **Corrupted**
 Crawling Flesh
@@ -157,12 +182,17 @@ Ghul
 Ghul Flesh Stalker
 Ghul Vessel
 Headless
+Quivering Flesh
 
 **Marang Constructions**
 Automaton
 Dummy
 Marang Sensor
 Marang Turret
+Quinta Kolos
+Servitor Bolo
+Servitor F
+Servitor R
 
 **Imperials**
 Dred Hound
@@ -180,89 +210,42 @@ Greater Shade
 Guardian Spirit Kaban
 Guardian Spirit Spider
 Proto Serpent
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Quinta Kolos
-
-Quivering Flesh
-
 Raaf
-
-Raafi
-
-Rat
-
-Raven
-
-Reeker
-
-Reeker Piglet
-
-Reeker Sharp Tusk
-
-Rock Strike Sprite
-
-Roly Poly
-
-Roly Poly Matron
-
-Root Mine
-
-Rooted Tusker
-
-Rooted Tusker Piglet
-
-Ruinous Sprite
-
-Sandreider
-
-Savage Spawn
-
-Servitor Bolo
-
-Servitor F
-
-Servitor R
-
 Shade
-
-Shadow Wolf
-
 Shadowfade
 
-Shadownbeck
 
-Shadowstalker
 
-Shatter Rock Sprite
 
-Shroom
 
-Skeleotn
 
-Skider
 
-Sky Jumper
 
-Slayer Arachnid
 
-Small Fry
 
-Smelt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Smelter
 
