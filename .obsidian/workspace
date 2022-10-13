@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UE2 creatures.md",
+            "file": "UE2 Magic Items.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UE2 creatures.md",
+                "file": "UE2 Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
     "==Project UNEXPLORED 2==.md",
+    "UE2 creatures.md",
     "UE2 Text Canvans.md",
     "UE2 work files.md",
     "==WORK==.md",
@@ -105,7 +106,6 @@
     "stuff to read.md",
     "game design strategies.md",
     "games to buy list.md",
-    "== Game Design Toolkit ==.md",
-    "plans.md"
+    "== Game Design Toolkit ==.md"
   ]
 }

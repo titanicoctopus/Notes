@@ -18,6 +18,7 @@ Notes for designing the game
 [[Game Design]]
 [[chronicles concept]]
 [[UE2 creatures]]
+[[UE2 Magic Items]]
 
 
 
