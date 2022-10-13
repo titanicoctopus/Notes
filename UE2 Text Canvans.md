@@ -43,13 +43,13 @@ elementalBoonFlame.line.restart	Restart: HERE BE TEXT
 Eternal Winter
 
 "An unusual cold wind blows from [REGION]. If this persists it will ruin the crops!."
-"This frigid weather will not let up! Hopefully it's just a fluke or we're forced to move away."
+"This frigid weather will not let up! Hopefully it's just a fluke or we're forced to find warmer lands."
 "I've never experienced such cold! It even cuts with winter gear on."
 
 
-
 Bir's Tomb
-"You would never believe it but I've been near Bir's Tomb when I was traveling in [REGION].  I was caught in a storm and when it dissipated I've found this clay fragment [[]]clearly saying BIR. 
+"You would never believe it but I've been near Bir's Tomb when I was traveling in [REGION].  I was caught in a storm and when it dissipated I've found this clay fragment clearly saying BIR. ""
+
 
 Marang Ruin
 "Did you know that there is a ruin nearby left by the Marang? And this is not an ordinary one either! If you look at the walls you can see the decorations are made from bronze!  "
