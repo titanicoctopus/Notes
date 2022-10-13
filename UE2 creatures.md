@@ -11,6 +11,7 @@ Answar Kobold
 Jabar
 Jabberling
 Kabooter
+Protter
 
 **Ghost**
 Ancestral Apparition
@@ -38,6 +39,10 @@ Kabooter Navigator
 Larnia the Valker
 Lelie of the Oasis
 Lord Grievous
+Lore Master
+Master
+Oathmaker
+Outlaw
 
 **Immortal**
 Bannerless Immortal
@@ -92,6 +97,17 @@ Hog
 Hog Hag
 Imwee Deer
 Leaf Runner
+Messenger Raaf
+Monstrous Spider
+Mud Fisher
+Mud Jumper
+Pack Lobbes
+Piglet
+Plagued Rat
+Poison Spider
+Quan
+Quanite
+Quanling
 
 **Inspirited Beasts**
 Crested Impala
@@ -110,6 +126,10 @@ Greater Fen Wyrm
 Kamikaas
 Kelkos
 Lesser Fen Wyrm
+Minute Time Weaver
+Orcwart
+Phase Spider
+Poly Form
 
 **Sprite**
 Awe Sprite
@@ -125,6 +145,8 @@ Flame Sprite
 Fury Spike Sprite
 Lava Ball Sprite
 Lightning Sprite
+Machine Sprite
+Piercing Root Sprite
 
 **Corrupted**
 Crawling Flesh
@@ -139,11 +161,15 @@ Headless
 **Marang Constructions**
 Automaton
 Dummy
+Marang Sensor
+Marang Turret
 
 **Imperials**
 Dred Hound
 Dred Wolf
 Fordred Breaker
+Ondred Encircler
+Ondred Sphere
 
 **Spirits**
 Folk Figment
@@ -153,109 +179,22 @@ Glass Demon
 Greater Shade
 Guardian Spirit Kaban
 Guardian Spirit Spider
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Machine Sprite
-
-Marang Sensor
-
-Marang Turret
-
-Master
-
-Messenger Raaf
-
-Minute Time Weaver
-
-Monstrous Spider
-
-Mud Fisher
-
-Mud Jumper
-
-Oathmaker
-
-Ondred Encircler
-
-Ondred Sphere
-
-Orcwart
-
-Outlaw
-
-Pack Lobbes
-
-Phase SPider
-
-Piercing Root Sprite
-
-Piglet
-
-Plagued Rat
-
-Poison Spider
-
-Poly Form
-
 Proto Serpent
 
-Protter
 
-Quan
 
-Quanite
 
-Quanling
+
+
+
+
+
+
+
+
+
+
+
 
 Quinta Kolos
 
