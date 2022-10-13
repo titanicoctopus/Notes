@@ -3,236 +3,533 @@
 
 [[==Project UNEXPLORED 2==]]
 
-Bandits
-Boars
-Bats
-Blood Cloaker
-Cruip
-Digger Spider
-Earworm
-Electric Spider
-Flow Runner
-Gekkebeck
-Greater Shade
-Imperial
-Jabberling
-Kabooter
-Kobold
-Large Spider
-Monstrous Spider
-Leaf Runner
-Ur Ma
-Mud Jumper
-Phase SPider
-Poison Spider
-Rat
-Immortal
-Shadow Wolf
-Skeleotn
-Skider
-Sky Jumper
-Smelt
-Smilga
-Spider
-Spirit World Creature
-Steam Wyrm
-Storm Rider
-Swamp Cloaker
-Blood Cloaker
-Bonded Ur Ma
-Underground Creature
-Urghul
-Arcane Spawn
-Warden
-Dracgard Grus
-Ancestral Spirit
-Wolf
-Folk
-Sandreider
-Wulfmane
 Alzmidda
-Jabar
-Raafi
-Outlaw
-Yertle
-Headless
-Spirit Blade
-Bandit
-Bartok
-Fleder
-Flaeder
-Fladder
-Flashwing
-Vlam Guardian
-Orcwart
-Wart Chief
-Reeker
-Reeker Sharp Tusk
-Reeker Piglet
-Wart
-Wartling
-Rooted Tusker
-Rooted Tusker Piglet
-Black Beast
-Brander Acolyte
-Brand Meester
-Cruipy Crawler
-Cruiper
-Imwee Deer
-Double Dragon
-Dummy
-Dunetail
-Quan
-Deep Quan
-Quanling
-Quanite
-Elebeck
-Shadownbeck
-Dust Devil
-Frost Dancer
-Glass Demon
-Envoy
-Proto Serpent
-Wild Sentinel
-Firescale
-Grey Pike
-Small Fry
-Guppy
-Servitor F
-Haiburst
-Quivering Flesh
-Floater
-Ghul
-Ghul Flesh Stalker
-Crawling Flesh
-Ghul Vessel
-Hog
-High Hog
-Hog Hag
-Piglet
-Hillsback Hound
-Tindred Truthsayer
-Tindred Envoy
-Dred Wolf
-Tindred Brute
-Dred Hound
-Hunting Sellswords
-Jabberling
-Daggerbeak
-Cloaked Daggerbeak
-Guardian Spirit Kaban
-Kabooter Minion
-Kabooter Navigator
-Kelkos
-The Beast
-Answar Kobold
-Greenscale
-Lelie of the Oasis
-Pack Lobbes
-Lord Grievous
-Lore Master
-Shadowstalker
-Wilder
-Wilder Master
-Oathmaker
-Grey Hermit
-Master
-Zwaard Meester
-Mud Fisher
-Brown Uniworm
-Crested Impala
-Folk Figment
-Protter
-Quinta Kolos
-Messenger Raaf
-Raaf
-Fluftail Rabbit
-Tracker
-Rat
-Dire Rat
-Kamikaas
-Plagued Rat
-Rat
-Raven
-Immortal Bloodoath
-Immortal Conscript
-Immortal Custaodian
-Immortal Hearth Keeper
-Immortal Valker
-Immortal Marshal
-Immortal
-Roly Poly
-Flowy Poly
-Flowy Poly Matron
-Poly Form
-Roly Poly Matron
-Root Mine
-Servitor R
-Servitor Bolo
+
 Ancestral Apparition
-Shade
+
+Ancestral Spirit
+
+Ancestral Spirit
+
+Answar Kobold
+
 Apparition
-Shadowfade
-Shadow Wolf
-Elder Shadow Wolf
-Wolf Master
-Wolfling Spectre
-Bannerless Immortal
-Tex
-Skider
-Cloud Eater
-Smelt
-Smelter
-Smilga
-Smilga Pod
-Smilga Podling
-Snow Spirit
-Soul Hound
-Savage Spawn
-Spawner Queen
-Deep Spider
-Deep Spider Elder
-Spark Crawler
-Guardian Spirit Spider
-Trueform Arachnid
-Time Weaver
-Minute Time Weaver
-Slayer Arachnid
+
+Arcane Spawn
+
+Arch-Warden
+
+Automaton
+
 Awe Sprite
-Blinking Sprite
-Calm Sprite
-Machine Sprite
-Fast Flow Sprite
-Lava Ball Sprite
-Flame Sprite
-Fury Spike Sprite
-Cloaking Sprite
-Lightning Sprite
-Rock Strike Sprite
-Piercing Root Sprite
-Command Root Sprite
-Ruinous Sprite
-Shatter Rock Sprite
-Spike Sprite
-Strong Root Sprite
-Exploding Sprite
-Sun Sprite
-Black Sprite
-Wilde Sprite
-WInd Sprite
-Control Wind Sprite
-Steam Wyrm
-Storm Rider
-Strekoza
-Greater Fen Wyrm
-Lesser Fen Wyrm
-Crow
-Larnia the Valker
-Valker
-Fordred Breaker
+
+Bandit
+
+Bandits
+
+Bannerless Immortal
+
+Barbthrow Fibreroot
+
+Bartok
+
+Bats
+
+Black Beast
+
 Black Crawler
+
+Black Runner
+
+Black Sprite
+
+Blinking Sprite
+
+Blood Cloaker
+
+Blood Cloaker
+
+Boars
+
+Bonded Ur Ma
+
+Brand Meester
+
+Brander Acolyte
+
+Brown Uniworm
+
+Calm Sprite
+
+Cloaked Daggerbeak
+
+Cloaking Sprite
+
+Cloud Eater
+
+Command Root Sprite
+
+Control Wind Sprite
+
+Crawling Flesh
+
+Crested Impala
+
+Crow
+
+Cruip
+
+Cruiper
+
+Cruipy Crawler
+
+Daggerbeak
+
+Dark Wolfling
+
+Deaththrow Fibreroot
+
+Deep Quan
+
+Deep Spider
+
+Deep Spider Elder
+
+Digger Spider
+
+Dire Rat
+
+Double Dragon
+
+Dracgard Grus
+
+Dracgard Grus
+
+Dred Hound
+
+Dred Wolf
+
+Drybrush Firewood
+
+Dummy
+
+Dunetail
+
+Dust Devil
+
+Earworm
+
+Elder Shadow Wolf
+
+Elder Wolf
+
+Elebeck
+
+Electric Spider
+
+Envoy
+
+Exploding Sprite
+
+Fast Flow Sprite
+
+Fire Spitter
+
+Firescale
+
+Fladder
+
+Flaeder
+
+Flame Sprite
+
+Flashwing
+
+Fleder
+
+Floater
+
+Flow Pole
+
+Flow Runner
+
+Flow Strider
+
+Flowy Poly
+
+Flowy Poly Matron
+
+Fluftail Rabbit
+
+Folk
+
+Folk Figment
+
+Fordred Breaker
+
+Frost Dancer
+
+Fury Spike Sprite
+
+Gekkebeck
+
+Ghul
+
+Ghul Flesh Stalker
+
+Ghul Vessel
+
+Glass Demon
+
+Greater Fen Wyrm
+
+Greater Shade
+
+Greenscale
+
+Grey Hermit
+
+Grey Pike
+
+Guardian Spirit Kaban
+
+Guardian Spirit Spider
+
+Guppy
+
+Haiburst
+
+Headless
+
+High Hog
+
+Hillsback Hound
+
+Hillshine Beetle
+
+Hog
+
+Hog Hag
+
+Hunter
+
+Hunting Sellswords
+
+Immortal
+
+Immortal
+
+Immortal Bloodoath
+
+Immortal Conscript
+
+Immortal Custaodian
+
+Immortal Hearth Keeper
+
+Immortal Marshal
+
+Immortal Valker
+
+Imperial
+
+Imwee Deer
+
+Inspirited Thicket
+
+Jabar
+
+Jabberling
+
+Jabberling
+
+Kabooter
+
+Kabooter Minion
+
+Kabooter Navigator
+
+Kamikaas
+
+Kelkos
+
+Kobold
+
+Large Spider
+
+Larnia the Valker
+
+Lava Ball Sprite
+
+Leaf Runner
+
+Lelie of the Oasis
+
+Lesser Fen Wyrm
+
+Lightning Sprite
+
+Lord Grievous
+
+Lore Master
+
+Machine Sprite
+
+Marang Sensor
+
+Marang Turret
+
+Master
+
+Messenger Raaf
+
+Minute Time Weaver
+
+Monstrous Spider
+
+Mud Fisher
+
+Mud Jumper
+
+Oathmaker
+
+Ondred Encircler
+
+Ondred Sphere
+
+Orcwart
+
+Outlaw
+
+Pack Lobbes
+
+Phase SPider
+
+Piercing Root Sprite
+
+Piglet
+
+Plagued Rat
+
+Poison Spider
+
+Poly Form
+
+Proto Serpent
+
+Protter
+
+Quan
+
+Quanite
+
+Quanling
+
+Quinta Kolos
+
+Quivering Flesh
+
+Raaf
+
+Raafi
+
+Rat
+
+Rat
+
+Rat
+
+Raven
+
+Reeker
+
+Reeker Piglet
+
+Reeker Sharp Tusk
+
+Rock Strike Sprite
+
+Roly Poly
+
+Roly Poly Matron
+
+Root Mine
+
+Rooted Tusker
+
+Rooted Tusker Piglet
+
+Ruinous Sprite
+
+Sandreider
+
+Savage Spawn
+
+Servitor Bolo
+
+Servitor F
+
+Servitor R
+
+Shade
+
+Shadow Wolf
+
+Shadow Wolf
+
+Shadowfade
+
+Shadownbeck
+
+Shadowstalker
+
+Shatter Rock Sprite
+
+Shroom
+
+Skeleotn
+
+Skider
+
+Skider
+
+Sky Jumper
+
+Slayer Arachnid
+
+Small Fry
+
+Smelt
+
+Smelt
+
+Smelter
+
+Smilga
+
+Smilga
+
+Smilga Pod
+
+Smilga Podling
+
+Snap Root Tree
+
+Snow Spirit
+
+Soul Hound
+
+Spark Crawler
+
+Spawner Queen
+
+Spider
+
+Spike Sprite
+
+Spirit Blade
+
+Spirit World Creature
+
+Steam Wyrm
+
+Steam Wyrm
+
+Storm Rider
+
+Storm Rider
+
+Strekoza
+
+Strider
+
+Strong Root Sprite
+
+Sun Sprite
+
+Swamp Cloaker
+
+Tetred
+
+Tex
+
+The Beast
+
+Time Weaver
+
+Tindred Brute
+
+Tindred Envoy
+
+Tindred Officer
+
+Tindred Slayer
+
+Tindred Soldier
+
+Tindred Truthsayer
+
 Tindred Warrior
-Tin
+
+Tracker
+
+Trueform Arachnid
+
+Underground Creature
+
+Ur Ma
+
+Urghul
+
+Valker
+
+Vein
+
+Vent
+
+Vlam Guardian
+
+Warden
+
+Warden Eye
+
+Warden Eyestalk
+
+Warden Observer
+
+Wart
+
+Wart Chief
+
+Wartling
+
+White Wolfling
+
+Wild Sentinel
+
+Wilde Sprite
+
+Wilder
+
+Wilder Master
+
+WInd Sprite
+
+Winter Wolf
+
+Wolf
+
+Wolf Master
+
+Wolfling Spectre
+
+Wulfmane
+
+Yertle
+
+Yertle
+
+Zwaard Meester
 
 
 
