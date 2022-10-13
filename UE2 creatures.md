@@ -4,6 +4,7 @@
 [[==Project UNEXPLORED 2==]]
 
 **Beasts**
+--
 Black Beast
 Blood Cloaker
 Boars
@@ -73,6 +74,7 @@ Wartling
 Wolf
 
 **Corrupted**
+--
 Crawling Flesh
 Cruip
 Cruiper
@@ -85,6 +87,7 @@ Quivering Flesh
 Urghul
 
 **Cultures**
+--
 Alzmidda
 Dracgard Grus
 Bonded Ur Ma
@@ -99,6 +102,7 @@ Wulfmane
 Yertle
 
 **Folk**
+--
 Bandit
 Bandits
 Bartok
@@ -126,10 +130,12 @@ Wolf Master
 Zwaard Meester
 
 **Ghost**
+--
 Ancestral Apparition
 Ancestral Spirit
 
 **Immortal**
+--
 Bannerless Immortal
 Immortal
 Immortal Bloodoath
@@ -140,6 +146,7 @@ Immortal Marshal
 Immortal Valker
 
 **Inspirited Beasts**
+--
 Crested Impala
 Dark Wolfling
 Double Dragon
@@ -173,6 +180,7 @@ Winter Wolf
 Wolfling Spectre
 
 **Imperials**
+--
 Dred Hound
 Dred Wolf
 Fordred Breaker
@@ -189,6 +197,7 @@ Tindred Warrior
 Valker
 
 **Inspirited Growths**
+--
 Barbthrow Fibreroot
 Deaththrow Fibreroot
 Drybrush Firewood
@@ -204,6 +213,7 @@ Vent
 Wild Sentinel
 
 **Marang Constructions**
+--
 Automaton
 Dummy
 Marang Sensor
@@ -214,6 +224,7 @@ Servitor F
 Servitor R
 
 **Spirits**
+--
 Folk Figment
 Frost Dancer
 Dust Devil
@@ -234,6 +245,7 @@ Vlam Guardian
 
 
 **Sprite**
+--
 Awe Sprite
 Black Sprite
 Blinking Sprite
@@ -259,12 +271,14 @@ Wilde Sprite
 Wind Sprite
 
 **Voided**
+--
 Arcane Spawn
 Black Runner
 Shadowbeck
 Vanish
 
 **Warden**
+--
 Arch-Warden
 Warden
 Warden Eye

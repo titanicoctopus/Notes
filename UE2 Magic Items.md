@@ -24,9 +24,10 @@ Quintiplicate - shoot 5 arrows
 
 **Root 1**
 Piercing - arrows ignore armor
-Black Briar -
+
 **Root 2**
 Tangling - arrows ignore armor and entangles target
+*Black Briar - arrows ignore armor and poisons target
 
 **Root 3**
 Shackling - arrows ignore armor and entangles target and nearby targets
@@ -35,9 +36,12 @@ Shackling - arrows ignore armor and entangles target and nearby targets
 
 **Sky 1**
 Shocking - arrows fired from this bow deal +1 stunning, electricity damage.
+Cloacking - when held, high chance of remaining hidden after firing it.
 
 **Sky 2*****
 Thunder - +1 stunning, electrical damage. Stuns any nearby creatures.
+Shadowfed Silence - 
+	<emSky>Unerring</em>: while hidden, arrows fired from this bow deal +3 damage.|<emSky>Cloaking</em>: when held, high chance of remaining hidden after firing it.
 
 ---
 
