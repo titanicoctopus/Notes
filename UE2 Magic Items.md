@@ -3,7 +3,7 @@
 
 [[==Project UNEXPLORED 2==]]
 
-Bow
+**Bow**
 
 **Flow 1**
 Force - +1 damage, force
@@ -28,3 +28,17 @@ Quintiplicate - shoot 5 arrows
 
 **Form 5** !!!
 Quintiplicate - shoot 5 arrows
+
+**Root 1**
+Piercing - arrows ignore armor
+
+**Root 2**
+Tangling - arrows ignore armor and entangles target
+
+**Root 3**
+Shackling - arrows ignore armor and entangles target and nearby targets
+
+**Sky 1**
+Shocking - arrows fired from this bow deal +1 stunning, electricity damage.
+**Sky 2****
+Thunder - +1 stunning, electrical damage. Stuns any nearby creatures.
