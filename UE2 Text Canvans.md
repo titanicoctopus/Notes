@@ -44,11 +44,15 @@ Eternal Winter
 
 "An unusual cold wind blows from [REGION]. If this persists it will ruin the crops!."
 "This frigid weather will not let up! Hopefully it's just a fluke or we're forced to move away."
+"I've never experienced such cold! Which reminds me to stock up on winter gear."
+
+
 
 Bir's Tomb
-"I believe I've been near Bir's Tomb when I was traveling in [REGION].  I was caught in a storm and when it dissipated I've found this clay fragment [[]]clearly saying BIR. 
+"You would never believe it but I've been near Bir's Tomb when I was traveling in [REGION].  I was caught in a storm and when it dissipated I've found this clay fragment [[]]clearly saying BIR. 
 
 Marang Ruin
+"Did you know that there is a ruin nearby left by the Marang? And this is not an ordinary one either! If you look carefully in "
 
 Birnui
 

@@ -42,10 +42,10 @@
 [[Hva 2022-2023]]
 
 - [x] Coline afspraak maken
-- [ ] aanpassing format afmaken
+- [x] aanpassing format afmaken
 - [ ] nakijken indivudele opdrachten
-- [ ] voorbereiden les 5
-- [ ] ui les doen
+- [x] voorbereiden les 5
+- [x] ui les doen
 - [ ] pgd les doen
 
 [[Hku 2022-2023]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "to do.md",
+            "file": "UE2 Text Canvans.md",
             "mode": "source",
             "source": false
           }
@@ -19,89 +19,74 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7353b07997553853",
-    "type": "split",
+    "id": "284b337c92344c8b",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "fd0c515ade8249ea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2a3349d549e439f9",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "6a396e820eea9126",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "c22b59bdbefa629f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "24b4037dd1a13948",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "0f3a9c5a56b16518",
-    "type": "split",
+    "id": "6a7b5baa1e663048",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5487b6fc347c5333",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3baccb4d0a2880d7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "66203a6d957c6471",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "to do.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "88c986d818ff15a8",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "fbd8c1d8053b5d9e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "UE2 Text Canvans.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
-    "==WORK==.md",
-    "UE2 Text Canvans.md",
     "UE2 work files.md",
     "==Project UNEXPLORED 2==.md",
+    "==WORK==.md",
     "to do.md",
+    "UE2 Text Canvans.md",
     "stuff to read.md",
     "game design strategies.md",
     "games to buy list.md",
