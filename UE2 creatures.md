@@ -5,12 +5,13 @@
 
 **Clans**
 Alzmidda
+Dracgard Grus
+Bonded Ur Ma
+Answar Kobold
 
 **Ghost**
 Ancestral Apparition
 Ancestral Spirit
-
-Answar Kobold
 
 **Voided**
 Arcane Spawn
@@ -23,14 +24,22 @@ Arch-Warden
 Bandit
 Bandits
 Bartok
-Bonded Ur Ma
 Brand Meester
 Brander Acolyte
-Dracgard Grus
 Envoy
+Grey Hermit
+Hunter
+Hunting Sellswords
 
 **Immortal**
 Bannerless Immortal
+Immortal
+Immortal Bloodoath
+Immortal Conscript
+Immortal Custaodian
+Immortal Hearth Keeper
+Immortal Marshal
+Immortal Valker
 
 **Spirited Growths**
 Barbthrow Fibreroot
@@ -38,6 +47,7 @@ Deaththrow Fibreroot
 Drybrush Firewood
 Fire Spitter
 Flow Pole
+Haiburst
 
 **Beasts**
 Black Beast
@@ -62,12 +72,20 @@ Flaeder
 Flashwing
 Fleder
 Fluftail Rabbit
+Gekkebeck
+Greenscale
+Grey Pike
+Guppy
+High Hog
+Hillsback Hound
+Hillshine Beetle
+Hog
+Hog Hag
 
 **Enspirited Beasts**
 Crested Impala
 Dark Wolfling
 Double Dragon
-Dust Devil
 Elder Shadow Wolf
 Elebeck
 Electric Spider
@@ -77,6 +95,7 @@ Flow Runner
 Flow Strider
 Flowy Poly
 Flowy Poly Matron
+Greater Fen Wyrm
 
 
 **Sprite**
@@ -90,12 +109,17 @@ Control Wind Sprite
 Exploding Sprite
 Fast Flow Sprite
 Flame Sprite
+Fury Spike Sprite
 
 **Corrupted**
 Crawling Flesh
 Cruip
 Cruiper
 Cruipy Crawler
+Ghul
+Ghul Flesh Stalker
+Ghul Vessel
+Headless
 
 **Marang Constructions**
 Automaton
@@ -104,84 +128,37 @@ Dummy
 **Imperials**
 Dred Hound
 Dred Wolf
-
-
-Spirit
-
-
-
-
-
-
-Folk Figment
-
 Fordred Breaker
 
+**Spirits**
+Folk Figment
 Frost Dancer
-
-Fury Spike Sprite
-
-Gekkebeck
-
-Ghul
-
-Ghul Flesh Stalker
-
-Ghul Vessel
-
+Dust Devil
 Glass Demon
-
-Greater Fen Wyrm
-
 Greater Shade
-
-Greenscale
-
-Grey Hermit
-
-Grey Pike
-
 Guardian Spirit Kaban
-
 Guardian Spirit Spider
 
-Guppy
 
-Haiburst
 
-Headless
 
-High Hog
 
-Hillsback Hound
 
-Hillshine Beetle
 
-Hog
 
-Hog Hag
 
-Hunter
 
-Hunting Sellswords
 
-Immortal
 
-Immortal Bloodoath
 
-Immortal Conscript
 
-Immortal Custaodian
 
-Immortal Hearth Keeper
 
-Immortal Marshal
 
-Immortal Valker
 
-Imperial
 
-Imwee Deer
+
+
 
 Inspirited Thicket
 
