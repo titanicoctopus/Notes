@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "655cd04a2d356bcc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +106,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "655cd04a2d356bcc",
+  "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
     "==Project UNEXPLORED 2==.md",
     "UE2 Magic Items.md",
