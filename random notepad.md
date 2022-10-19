@@ -14,6 +14,8 @@ Zij maken een zeilboot in de ruimte (denk spelljammer) boss battle game. Je maak
 
 De verwachting is dat ze een concrete case demonstreren waar alle onderdelen van een boss battle aanwezig is waarbij het overtuigend genoeg is dat de battles interessant kunnen zijn gedurend de gehele game.
 
+Goed om te weten is dat ze voordeel van de twijfel hebben gekregen. Dus het is zaak om kritisch naar hun te kijken of het spel daadwerkelijk goed gaat werken.
+
 Team x
 
 Zij maken een fps met stealth in een horror setting. Ze beweren dat het ten eerste stealth is (met name tav de 'enge' non) en anderzijds ruimtelijke puzzels oplossen is met schiet momenten waarbij je vijanden met de goede soort ammo moet neerschieten. 
@@ -22,4 +24,6 @@ De verwachting is dat er een level is waar de bovestaande elementen op een overt
 
 Team x
 
-Zij maken een tower defense game met combat brawling mechanics. Er komen waves van vijanden in het level die zich een weg banen naar je basis. Jij speelt een karakter die torens kan plaatsen / herplaatsen en ook vijanden direct ka
+Zij maken een tower defense game met combat brawling mechanics. Er komen waves van vijanden in het level die zich een weg banen naar je basis. Jij speelt een karakter die torens kan plaatsen / herplaatsen en ook vijanden direct kan aanvallen.
+
+De verwachting is dat ze een level maken waar ze op een overtuigende manier de 2 verschillende set aan mechanics dusdanig te weten te combineren dat ze redelijkerwijs de hele game mee kunnen vullen.
