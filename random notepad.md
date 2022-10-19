@@ -18,4 +18,8 @@ Team x
 
 Zij maken een fps met stealth in een horror setting. Ze beweren dat het ten eerste stealth is (met name tav de 'enge' non) en anderzijds ruimtelijke puzzels oplossen is met schiet momenten waarbij je vijanden met de goede soort ammo moet neerschieten. 
 
-De verwachting is dat er een level is waar de bovestaande element
+De verwachting is dat er een level is waar de bovestaande elementen op een overtuigende wijze bijelkaar komt en dat er een goede basis ligt voor het horror element.
+
+Team x
+
+Zij maken een
