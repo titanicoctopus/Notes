@@ -22,4 +22,4 @@ De verwachting is dat er een level is waar de bovestaande elementen op een overt
 
 Team x
 
-Zij maken een
+Zij maken een tower defense game met combat brawling mechanics. Er komen waves van vijanden in het level die zich een weg banen naar je basis. Jij speelt een karakter die torens kan plaatsen / herplaatsen en ook vijanden direct ka
