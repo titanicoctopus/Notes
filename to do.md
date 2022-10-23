@@ -1,6 +1,57 @@
 #Work
 
-[[-==WORK==-]]
+[[==WORK==]]
+
+
+[[==Project UNEXPLORED 2==]]
+- [x] meeting joris chronicles
+- [x] Write meanwhile texts
+- [x] Write dialog for town criers, victims etc.
+	- [x] clanrecentraid x5
+	- [x] clantraderline.closed x5
+	- [x] clanfarmerline.raided x5
+	- [x] clanGateKeeper.startSuspicious
+	- [x] clanGateKeeper.friendlyRaided
+	- [x] clanLeaderProxy
+- [ ] Test current implementation for events
+	- [ ] Look for general experience
+	- [ ] Look for interesting event opportunities
+	- [ ] Look out for 'gaps'
+
+	- [ ] concrete concepts for 'playful' elemental magic\
+		- [ ] modeling
+		- [ ] Documenting
+	- [x] testing: no staff character
+		- [x] no backup light
+		- [ ] no use of sprite magic
+		- [ ] no staff based lock / key
+	- [x] Testing flame elemental content (do)
+		- [x] Flame servitor test
+		- [x] new challenge with turrets etc.
+- [ ] 
+
+[[Hku 2022-2023]]
+
+- [ ] s1 applied games content in canvas
+- [x] Project Vrij III, contact gezocht met groep
+- [x] Gesprek met project Vrij III groep
+- [ ] Gesprek met project Vrij III groep 2 (vr)
+- [ ] Les 1 applied games (vr)
+
+
+[[Hva 2022-2023]]
+- [ ] Prep UI
+- [ ] Prep GDP
+- [x] Meeting GDP
+
+[[== Game Design Toolkit ==]]
+
+- [ ] Content in tool
+- [ ] Nieuw idee uitwerken
+	- [ ] De tools herschrijven om doelen te bereiken binnen het ontwerp. Kwaliteit vs. uitbreiden van systeem. Doen van probleem analyses etc.
+
+
+
 
 29-08-2022
 
@@ -14,7 +65,7 @@
 	- [ ] concrete concepts for 'playful' elemental magic\
 		- [ ] modeling
 		- [ ] Documenting
-	- [ ] testing: no staff character
+	- [x] testing: no staff character
 		- [x] no backup light
 		- [ ] no use of sprite magic
 		- [ ] no staff based lock / key
@@ -25,8 +76,8 @@
 
 - [ ] s1 applied games content in canvas
 - [x] Bespreking Nox
-	- [ ] result 5
-	- [ ] contact silver
+	- [x] result 5
+	- [x] contact silver
 - [x] Rooster invoeren in kalender
 - [x] Julius opdracht nakijken (endterm tool)
 	- [x] https://medewerkers.hku.nl/onderwijs-schools/toetsen-en-beoordelen-3.htm
@@ -35,8 +86,8 @@
 
 [[Hva]]
 - [x] Rooster invoeren in kalender
-- [ ] UI kick off meeting (wo)
-- [ ] PGD kick off meeting (do)
+- [x] UI kick off meeting (wo)
+- [x] PGD kick off meeting (do)
 
 
 
