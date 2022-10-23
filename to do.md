@@ -1,10 +1,178 @@
 #Work
 
 [[==WORK==]]
+10-10-2022
+--
+[[==Project UNEXPLORED 2==]]
+
+- [ ] Flame Elemental content
+	- [x] dialogen aanvullen, look for here be text // KAREL
+	- [ ] Rumors
+		- [x] Eternal Winter
+		- [ ] Bir's Tomb
+		- [ ] Marang Ruin
+		- [ ] Birnui
+	- [ ] Trivia
+		- [ ] Bir
+		- [ ] Flame Elemental
+		- [ ] Birnui
+	- [ ] Book
+		- [ ] Eternal Winter
+		- [ ] Flame Elemental
+	- [ ] info flow
+- [ ] ghost forest scenario
+	- [ ] breakdown
+		- [ ] character
+			- [ ] gear
+			- [ ] skills
+			- [ ] hope
+		- [ ] world map
+			- [ ] specs
+			- [ ] 
+- [ ] curated world
+	- [ ] 
+- [ ] modding
+	- [ ] keertje uitproberen
+- [ ] nick kletsen
+	- [ ] Afspraak maken om hem te introduceren
+	- [ ] op dit moment: 
+		- [ ] bezig met bug fixen
+		- [ ] beter de game begrijpen
+
+[[Hva 2022-2023]]
+
+- [x] Coline afspraak maken
+- [x] aanpassing format afmaken
+- [ ] nakijken indivudele opdrachten
+- [x] voorbereiden les 5
+- [x] ui les doen
+- [ ] pgd les doen
+
+[[Hku 2022-2023]]
+- [ ] AGD les voorbereiden
+- [ ] AGD les doen
+
+Flabs
+- [x] Jaaroverzichten bv en holding
+- [x] Q3 2022 BTW
+
+26-09-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [x] meeting met rosa
+- [x] meeting met matthijs
+- [x] meeting met hendrik
+- [x] Meeting met joris
+- [x] meer levels genereren voor chronicles
+	- [ ] intekenen chronicle scenario in een level
+- [ ] winter wolf content checken
+- [ ] new world. Regio in winter. Cold hearted heal cold sparks cost double. Creatures met cold damage to them is damage to you.
+- [ ] winter wolf boss could be different?
+- [x] specific encoubnter for spike dungeon: ruinspiked
+- [ ] shadow wolf boss check // dialogue
+
+[[Hva 2022-2023]]
 
 
+[[Hku 2022-2023]]
+
+
+
+
+20-09-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [x] Feedback overview
+	- [x] Copy recent reviews
+	- [x] Structure reviews
+- [ ] Chronicles docs
+	- [x] Synopsis
+	- [x] Moral
+	- [ ] Connection with other chronicles
+	- [ ] Concept of connection
+- [x] Text entry
+	- [x] recentRiftshardRaid
+		- [x] formalaloof
+		- [x] formalcordial
+		- [x] informalaloof
+		- [x] informalcordial
+		- [x] barbarian
+- [x] meeting plannen voor volgende week
+
+[[Hva 2022-2023]]
+
+- [x] Presentatie lunch (do)
+- [ ] website creds doorsturen naar coline
+- [x] UI les
+- [x] PGD
+- [ ] pas regelen
+
+[[Hku 2022-2023]]
+- [x] Applied GD
+	- [x] review post brief docs
+- [x] Class 2
+	- [x] prep
+	- [x] do it
+- [x] coach
+	- [x] Groep Vrij III
+	- [x] Fee
+	- [x] Casey?
+
+
+[[==Project PEEKABOND==]]
+- [ ] review research results
+- [ ] review onboarding
+
+
+[[== Game Design Toolkit ==]]
+
+12-09-2022
+--
+[[==Project UNEXPLORED 2==]]
+
+- [x] Meeting met joris over chronicles
+- [x] v0.1 definieer succes van chronicles
+- [x] Uitwerken chronicles concept
+- [ ] UE2 events content
+	- [ ] welke bestaande content zijn geschikt voor events
+		- [ ] wat gebeurt er als scrying stones aan/uit zijn.
+		- [ ] interacties met bandieten
+		- [ ] Interacties met kobolds
+		- [ ] interacties met torens
+		- [ ] Vuur aanlaten?
+		- [ ] Red skeletons
+			- [ ] strife
+			- [ ] maar wat moet je doen om ze als defenders te laten gedragen?
+				- [ ] zwaard van bernhilde aan de clans
+					- [ ] NPC - waar je mee kan praten
+					- [ ] Boek ///
+	- [x] kijken hoe het nu functioneert.
+		- [x] testen
+
+
+[[Hku 2022-2023]]
+- [x]  meeting project vrij 3
+- [x] contact met fee
+- [x] contect met casey
+- [x] Gesproken met fee
+
+[[Hva 2022-2023]]
+- [x] les ui 2
+- [x] pgd
+- [ ] nieuw plan uitschrijve 
+
+[[== Game Design Toolkit ==]]
+- [ ] 
+
+FourceLabs stuff
+- [ ] Bankmutaties holding mailen naar Cees
+- [ ] Credit card mutaties mailen naar Cees
+
+05-09-2022
+--
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
+- [x] chronicles gesprek
 - [x] Write meanwhile texts
 - [x] Write dialog for town criers, victims etc.
 	- [x] clanrecentraid x5
@@ -13,18 +181,18 @@
 	- [x] clanGateKeeper.startSuspicious
 	- [x] clanGateKeeper.friendlyRaided
 	- [x] clanLeaderProxy
-- [ ] Test current implementation for events
-	- [ ] Look for general experience
-	- [ ] Look for interesting event opportunities
-	- [ ] Look out for 'gaps'
+- [x] Test current implementation for events
+	- [x] Look for general experience
+	- [x] Look for interesting event opportunities
+	- [x] Look out for 'gaps'
 
-	- [ ] concrete concepts for 'playful' elemental magic\
-		- [ ] modeling
-		- [ ] Documenting
+	- [x] concrete concepts for 'playful' elemental magic\
+		- [x] modeling
+		- [x] Documenting
 	- [x] testing: no staff character
 		- [x] no backup light
-		- [ ] no use of sprite magic
-		- [ ] no staff based lock / key
+		- [x] no use of sprite magic
+		- [x] no staff based lock / key
 	- [x] Testing flame elemental content (do)
 		- [x] Flame servitor test
 		- [x] new challenge with turrets etc.
@@ -35,25 +203,30 @@
 - [ ] s1 applied games content in canvas
 - [x] Project Vrij III, contact gezocht met groep
 - [x] Gesprek met project Vrij III groep
-- [ ] Gesprek met project Vrij III groep 2 (vr)
-- [ ] Les 1 applied games (vr)
+- [x] Gesprek met project Vrij III groep 2 (vr)
+- [x] Les 1 applied games (vr)
+- [x] aan karin dokrgeven dat studenten naar discord moeten
 
 
 [[Hva 2022-2023]]
-- [ ] Prep UI
-- [ ] Prep GDP
+- [x] Prep UI
+- [x] ui les 1
+- [x] Prep GDP
+- [x] gdp (do)
 - [x] Meeting GDP
 
 [[== Game Design Toolkit ==]]
 
 - [ ] Content in tool
-- [ ] Nieuw idee uitwerken
-	- [ ] De tools herschrijven om doelen te bereiken binnen het ontwerp. Kwaliteit vs. uitbreiden van systeem. Doen van probleem analyses etc.
+- [ ] inlog en url toolkit
+- [x] Nieuw idee uitwerken
+	- [x] De tools herschrijven om doelen te bereiken binnen het ontwerp. Kwaliteit vs. uitbreiden van systeem. Doen van probleem analyses etc.
 
 
 
 
 29-08-2022
+--
 
 [[==Project UNEXPLORED 2==]]
 - [x] meeting joris chronicles
@@ -93,6 +266,7 @@
 
 
 23-08-2022
+--
 
 [[==Project UNEXPLORED 2==]]
 di
@@ -135,6 +309,7 @@ vr
 
 
 18-07-2022
+--
 - [x] Researchable book
 	- [x] 1. Sun egg - lore >> location
 	- [x] 2. Everfrost - lore >> location
@@ -147,6 +322,7 @@ vr
 - [x] Lijst van items die effecten hebben als je ze opoffert
 
 06-07-2022
+--
 - [x] Flavor teksten regio's korter
 - [x] Specifieke teksten van kwaliteiten erbij
 - [x] Zoeken naar logische combi's en daar aparte teksten voor schrijven.

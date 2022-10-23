@@ -18,4 +18,4 @@ Misc.
 [[games to buy list]]
 [[games to play]]
 [[stuff to read]]
-
+[[random notepad]]

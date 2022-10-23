@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "9739bbb188e5aa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de6605954841ab76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f79bd7262af50c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "random notepad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "067961d5c2058c98",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1b0de4fc2544c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1677a4e70464dc72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "777e22823796a293",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ca5f895277144fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "216075ff683010b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8988d78a7d78e0b2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a1b2bc37d51d4f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "random notepad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "c3f79bd7262af50c",
+  "lastOpenFiles": [
+    "==WORK==.md",
+    "UE2 creatures.md",
+    "==Project UNEXPLORED 2==.md",
+    "UE2 Magic Items.md",
+    "UE2 Text Canvans.md",
+    "UE2 work files.md",
+    "to do.md",
+    "stuff to read.md",
+    "game design strategies.md",
+    "games to buy list.md"
+  ]
+}
