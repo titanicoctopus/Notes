@@ -1,34 +1,29 @@
 {
   "main": {
-    "id": "32fe03c09d51dc18",
+    "id": "9739bbb188e5aa9f",
     "type": "split",
     "children": [
       {
-        "id": "764a342772266b3f",
+        "id": "c3f79bd7262af50c",
         "type": "leaf",
         "state": {
-<<<<<<< HEAD
-          "type": "graph",
-          "state": {}
-=======
           "type": "markdown",
           "state": {
-            "file": "WORK.md",
+            "file": "to do.md",
             "mode": "source",
             "source": false
           }
->>>>>>> origin/master
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ff7bae6187b43cb4",
+    "id": "4b73853fd6192446",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "26c9666748d26310",
+        "id": "7ce6df3fa8504c82",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -36,7 +31,7 @@
         }
       },
       {
-        "id": "68a75365dedc2fcd",
+        "id": "3ccb1a5fa303d51d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,39 +49,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2f9d5a08be2c7654",
+    "id": "0246654fee283899",
     "type": "mobile-drawer",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "5bd075f7a61ab2dd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e2132f6f6ec837d9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bbbd9e57583d811a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-=======
-        "id": "8c19c1102dd84fe5",
+        "id": "0356c2d6b7ec83eb",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -94,12 +61,12 @@
         }
       },
       {
-        "id": "b0800460f099501e",
+        "id": "5343f9a5e799d149",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WORK.md",
+            "file": "to do.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,30 +74,32 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
->>>>>>> origin/master
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "764a342772266b3f",
+  "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "==WORK==.md",
+    "UE2 creatures.md",
+    "==Project UNEXPLORED 2==.md",
+    "UE2 Magic Items.md",
+    "UE2 Text Canvans.md",
+    "UE2 work files.md",
+    "to do.md",
+    "stuff to read.md",
 <<<<<<< HEAD
-    "==Project UNEXPLORED 2==.md",
-    "chronicles concept.md",
-    "to do.md",
-=======
-    "to do.md",
-    "WORK.md",
-    "==Project UNEXPLORED 2==.md",
-    "Hku 2022-2023.md",
-    "chronicles concept.md",
->>>>>>> origin/master
+    "games to buy list.md",
     "22-08-2022 Flame Elemental.md",
-    "conflict-files-obsidian-git.md",
-    "meetings.md",
-    "plans.md",
-    "22-08-2022.md"
+    "Flame Elemental Content.md",
+    "Flame Elemental Legend.md"
+    "01-09-2022 UE2 Marketing 1.md",
+    "02-09-2022 UE2 Joris.md"
+=======
+    "game design strategies.md",
+    "games to buy list.md"
+>>>>>>> f86054a3fb9bb2e2365841153cf3d8867e06155d
   ]
 }
