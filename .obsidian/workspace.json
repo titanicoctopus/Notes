@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random notepad.md",
+                "file": "to do.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random notepad.md",
+                "file": "to do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,8 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "-==WORK==-.md",
+    "random notepad.md",
     "==WORK==.md",
     "UE2 creatures.md",
     "==Project UNEXPLORED 2==.md",
@@ -115,8 +117,6 @@
     "UE2 Text Canvans.md",
     "UE2 work files.md",
     "to do.md",
-    "stuff to read.md",
-    "game design strategies.md",
-    "games to buy list.md"
+    "stuff to read.md"
   ]
 }
