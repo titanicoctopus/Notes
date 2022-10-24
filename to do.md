@@ -9,7 +9,7 @@
 	- [x] dialogen aanvullen, look for here be text // KAREL
 	- [ ] Rumors
 		- [x] Eternal Winter
-		- [ ] Bir's Tomb
+		- [x] Bir's Tomb
 		- [ ] Marang Ruin
 		- [ ] Birnui
 	- [ ] Trivia
@@ -22,9 +22,9 @@
 	- [ ] info flow
 - [ ] ghost forest scenario
 	- [ ] breakdown
-		- [ ] character
-			- [ ] gear
-			- [ ] skills
+		- [x] character
+			- [x] gear
+			- [x] skills
 			- [ ] hope
 		- [ ] world map
 			- [ ] specs
@@ -34,7 +34,7 @@
 - [ ] modding
 	- [ ] keertje uitproberen
 - [ ] nick kletsen
-	- [ ] Afspraak maken om hem te introduceren
+	- [x] Afspraak maken om hem te introduceren
 	- [ ] op dit moment: 
 		- [ ] bezig met bug fixen
 		- [ ] beter de game begrijpen
@@ -46,11 +46,11 @@
 - [ ] nakijken indivudele opdrachten
 - [x] voorbereiden les 5
 - [x] ui les doen
-- [ ] pgd les doen
+- [x] pgd les doen
 
 [[Hku 2022-2023]]
-- [ ] AGD les voorbereiden
-- [ ] AGD les doen
+- [x] AGD les voorbereiden
+- [x] AGD les doen
 
 Flabs
 - [x] Jaaroverzichten bv en holding
