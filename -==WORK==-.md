@@ -12,10 +12,10 @@ Projects
 [[== Game Design Toolkit ==]]
 [[==Project PEEKABOND==]]
 [[Hku 2022-2023]]
-[[Hva 2022-2023]]
+[[Hva]]
 
 Misc.
 [[games to buy list]]
 [[games to play]]
 [[stuff to read]]
-
+[[random notepad]]

@@ -1,5 +1,5 @@
 #work 
-[[==WORK==]]
+[[-==WORK==-]]
 
 Game to get
 
@@ -19,6 +19,7 @@ Switch
 - [ ] Shin Megami Tensei 5
 	- [ ] on sale
 - [ ] Shin Chan: Me and the Professor on Summer Vacation
+- [ ] 9 shadows?
 
 
 PC
@@ -44,3 +45,4 @@ PC
 - [ ] Lost in Play
 - [ ] Brok the Investigator
 - [ ] Legioncraft
+- [x] River City Saga, Three Kingdoms

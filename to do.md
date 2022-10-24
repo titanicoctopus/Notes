@@ -257,7 +257,7 @@ FourceLabs stuff
 		- [x] Oordeel: V
 		- [x] Niels contacteren
 
-[[Hva 2022-2023]]
+[[Hva]]
 - [x] Rooster invoeren in kalender
 - [x] UI kick off meeting (wo)
 - [x] PGD kick off meeting (do)
