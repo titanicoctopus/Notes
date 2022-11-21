@@ -11,6 +11,10 @@
 
 [[Hva 2022-2023]]
 - [ ] meeting coline en nicky
+- [ ] define work package
+
+[[Hku 2022-2023]]
+- [ ] AGD class
 
 
 10-10-2022
