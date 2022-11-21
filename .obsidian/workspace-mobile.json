@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to do.md",
+                "file": "-==WORK==-.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "to do.md",
+            "file": "-==WORK==-.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -88,20 +88,17 @@
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "to do.md",
     "==WORK==.md",
     "UE2 creatures.md",
     "==Project UNEXPLORED 2==.md",
     "UE2 Magic Items.md",
     "UE2 Text Canvans.md",
     "UE2 work files.md",
-    "to do.md",
     "stuff to read.md",
-    "game design strategies.md",
-    "games to buy list.md"
+    "game design strategies.md"
   ]
 }
