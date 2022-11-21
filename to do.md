@@ -5,7 +5,7 @@
 --
 [[==Project UNEXPLORED 2==]]
 - [ ] reframing chronicles
-	- [ ] read flame elemental doc
+	- [x] read flame elemental doc
 	- [ ] define design goals
 	- [ ] defince story
 

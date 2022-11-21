@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to do.md",
+                "file": "-==WORK==-.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "to do.md",
+                "file": "-==WORK==-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "to do.md",
     "-==WORK==-.md",
     "random notepad.md",
     "==WORK==.md",
@@ -113,7 +114,6 @@
     "UE2 Magic Items.md",
     "UE2 Text Canvans.md",
     "UE2 work files.md",
-    "to do.md",
     "stuff to read.md"
   ]
 }
