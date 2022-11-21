@@ -1,6 +1,18 @@
 #Work
 
 [[==WORK==]]
+21-11-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [ ] reframing chronicles
+	- [ ] read flame elemental doc
+	- [ ] define design goals
+	- [ ] defince story
+
+[[Hva 2022-2023]]
+- [ ] meeting coline en nicky
+
+
 10-10-2022
 --
 [[==Project UNEXPLORED 2==]]
@@ -43,7 +55,7 @@
 
 - [x] Coline afspraak maken
 - [x] aanpassing format afmaken
-- [ ] nakijken indivudele opdrachten
+- [x] nakijken indivudele opdrachten
 - [x] voorbereiden les 5
 - [x] ui les doen
 - [x] pgd les doen
