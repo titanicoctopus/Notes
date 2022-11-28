@@ -11,8 +11,16 @@
 - [ ] Met rosa prefabs maken
 
 [[Hva 2022-2023]]
+- [ ] PGD les
+- [ ] Uitwerken van essential GD tools
+	- [ ] Fases
+	- [ ] Deliverables
+	- [ ] Tools
+- [ ] Maxim mailen voor afspraak
 
 [[Hku 2022-2023]]
+- [ ] Les AGD
+- [ ] Afspraken maken met project vrij een fee
 
 [[FourceLabs]]
 - [ ] loonbelasting betalen 
