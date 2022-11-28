@@ -1,20 +1,38 @@
 #Work
 
 [[==WORK==]]
+
+28-11-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [ ] Met joris meeten
+- [ ] save file uitproberen
+- [ ] Nieuwe dungeon rooms definieren
+- [ ] Met rosa prefabs maken
+
+[[Hva 2022-2023]]
+
+[[Hku 2022-2023]]
+
+[[FourceLabs]]
+- [ ] loonbelasting betalen 
+- [ ] Loon uitkeren
+- [ ] DHL bonnen uitzoeken
+
 21-11-2022
 --
 [[==Project UNEXPLORED 2==]]
-- [ ] reframing chronicles
+- [x] reframing chronicles
 	- [x] read flame elemental doc
-	- [ ] define design goals
-	- [ ] defince story
+	- [x] define design goals
+	- [x] defince story
 
 [[Hva 2022-2023]]
-- [ ] meeting coline en nicky
-- [ ] define work package
+- [x] meeting coline en nicky
+- [x] define work package
 
 [[Hku 2022-2023]]
-- [ ] AGD class
+- [x] AGD class
 
 
 10-10-2022
