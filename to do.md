@@ -28,7 +28,7 @@
 - [ ] Afspraken maken met project vrij een fee
 
 [[FourceLabs]]
-- [ ] loonbelasting betalen 
+- [x] loonbelasting betalen 
 - [ ] Loon uitkeren
 - [ ] DHL bonnen uitzoeken
 
