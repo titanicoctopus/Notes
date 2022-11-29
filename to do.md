@@ -5,9 +5,14 @@
 28-11-2022
 --
 [[==Project UNEXPLORED 2==]]
-- [ ] Met joris meeten
-- [ ] save file uitproberen
+- [x] Met joris meeten
+- [x] save file uitproberen
 - [ ] Nieuwe dungeon rooms definieren
+	- [ ] Concept: 6 kamers
+	- [ ] 6 kamers met assets
+		- [ ] Repurpose specs (Kobold & Jabberlings)
+			- [ ] Room specs
+			- [ ] Assets
 - [ ] Met rosa prefabs maken
 
 [[Hva 2022-2023]]
