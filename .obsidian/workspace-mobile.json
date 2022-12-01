@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-==WORK==-.md",
+                "file": "Hva.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "-==WORK==-.md",
+            "file": "Hva.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "-==WORK==-.md",
     "Untitled.md",
     "to do.md",
     "==WORK==.md",
@@ -98,7 +99,6 @@
     "UE2 Magic Items.md",
     "UE2 Text Canvans.md",
     "UE2 work files.md",
-    "stuff to read.md",
-    "game design strategies.md"
+    "stuff to read.md"
   ]
 }
