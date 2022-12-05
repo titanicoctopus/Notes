@@ -2,6 +2,18 @@
 
 [[==WORK==]]
 
+05-12-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [ ] Meeting team?
+- [ ] 10x new room specs
+- [ ] game review
+	- [ ] play 8 hours
+		- [ ] feedback
+		- [ ] game component analysis
+[[Hva 2022-2023]]
+[[Hku 2022-2023]]
+
 28-11-2022
 --
 [[==Project UNEXPLORED 2==]]
@@ -24,7 +36,7 @@
 - [ ] Maxim mailen voor afspraak
 
 [[Hku 2022-2023]]
-- [ ] Les AGD
+- [x] Les AGD
 - [ ] Afspraken maken met project vrij een fee
 
 [[FourceLabs]]
