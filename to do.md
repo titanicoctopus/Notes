@@ -12,7 +12,12 @@
 		- [ ] feedback
 		- [ ] game component analysis
 [[Hva 2022-2023]]
+- [ ] meeting coline en nicky
+- [ ] overzicht nodige tools 
 [[Hku 2022-2023]]
+- [ ] meeting project vrij
+- [ ] meeting plannen met fee
+- [ ] reply jim
 
 28-11-2022
 --
