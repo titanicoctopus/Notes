@@ -7,21 +7,21 @@
 [[==Project UNEXPLORED 2==]]
 - [x] Met joris meeten
 - [x] save file uitproberen
-- [ ] Nieuwe dungeon rooms definieren
-	- [ ] Concept: 6 kamers
-	- [ ] 6 kamers met assets
-		- [ ] Repurpose specs (Kobold & Jabberlings)
-			- [ ] Room specs
-			- [ ] Assets
-- [ ] Met rosa prefabs maken
+- [x] Nieuwe dungeon rooms definieren
+	- [x] Concept: 6 kamers
+	- [x] 6 kamers met assets
+		- [x] Repurpose specs (Kobold & Jabberlings)
+			- [x] Room specs
+			- [x] Assets
+- [x] Met rosa prefabs maken
 
 [[Hva 2022-2023]]
 - [ ] PGD les
-- [ ] Uitwerken van essential GD tools
-	- [ ] Fases
+- [x] Uitwerken van essential GD tools
+	- [x] Fases
 	- [ ] Deliverables
 	- [ ] Tools
-- [ ] Maxim mailen voor afspraak
+- [x] Maxim mailen voor afspraak
 
 [[Hku 2022-2023]]
 - [ ] Les AGD
