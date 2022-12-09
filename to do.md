@@ -11,7 +11,19 @@
 	- [ ] play 8 hours
 		- [ ] feedback
 		- [ ] game component analysis
-- [ ] 
+- [ ] Test new social status system
+	- [ ] Remove typos
+	- [ ] make icons
+		- [ ] Kin
+		- [ ] Ally
+		- [ ] Friend
+		- [ ] Stranger
+		- [ ] Enemy
+		- [ ] Guest
+		- [ ] Welcome
+		- [ ] Unwanted
+		- [ ] Suspect
+		- [ ] Killer
 [[Hva 2022-2023]]
 - [x] meeting coline en nicky
 - [x] overzicht nodige tools 
