@@ -5,17 +5,18 @@
 05-12-2022
 --
 [[==Project UNEXPLORED 2==]]
-- [ ] Meeting team?
-- [ ] 10x new room specs
-- [ ] game review
+- [x] Meeting team?
+- [x] 10x new room specs
+- [x] game review
 	- [ ] play 8 hours
 		- [ ] feedback
 		- [ ] game component analysis
+- [ ] 
 [[Hva 2022-2023]]
-- [ ] meeting coline en nicky
-- [ ] overzicht nodige tools 
+- [x] meeting coline en nicky
+- [x] overzicht nodige tools 
 [[Hku 2022-2023]]
-- [ ] meeting project vrij
+- [x] meeting project vrij
 - [ ] meeting plannen met fee
 - [ ] reply jim
 
