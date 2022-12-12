@@ -2,6 +2,36 @@
 
 [[==WORK==]]
 
+05-12-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [x] Meeting team?
+- [x] 10x new room specs
+- [x] game review
+	- [ ] play 8 hours
+		- [ ] feedback
+		- [ ] game component analysis
+- [ ] Test new social status system
+	- [ ] Remove typos
+	- [ ] make icons
+		- [ ] Kin
+		- [ ] Ally
+		- [ ] Friend
+		- [ ] Stranger
+		- [ ] Enemy
+		- [ ] Guest
+		- [ ] Welcome
+		- [ ] Unwanted
+		- [ ] Suspect
+		- [ ] Killer
+[[Hva 2022-2023]]
+- [x] meeting coline en nicky
+- [x] overzicht nodige tools 
+[[Hku 2022-2023]]
+- [x] meeting project vrij
+- [ ] meeting plannen met fee
+- [ ] reply jim
+
 28-11-2022
 --
 [[==Project UNEXPLORED 2==]]
@@ -20,11 +50,13 @@
 - [x] Uitwerken van essential GD tools
 	- [x] Fases
 	- [ ] Deliverables
+	- [ ] Fases
+	- [x] Deliverables
 	- [ ] Tools
 - [x] Maxim mailen voor afspraak
 
 [[Hku 2022-2023]]
-- [ ] Les AGD
+- [x] Les AGD
 - [ ] Afspraken maken met project vrij een fee
 
 [[FourceLabs]]
