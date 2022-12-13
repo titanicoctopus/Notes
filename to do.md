@@ -2,28 +2,46 @@
 
 [[==WORK==]]
 
+12-12-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [ ] teksten updaten
+- [ ] 
+
+[[Hva]]
+- [ ] gdtk verder uitbreiden
+	- [ ] phase 1 artikel afschrijven
+	- [ ] phase 2 artikel draft
+- [ ] pgd les
+
+[[Hku 2022-2023]]
+- [ ] agd les
+- [ ] project vrij
+- [ ] fee?
+- [ ] jim bericht beantwoorden
+
 05-12-2022
 --
 [[==Project UNEXPLORED 2==]]
 - [x] Meeting team?
 - [x] 10x new room specs
 - [x] game review
-	- [ ] play 8 hours
-		- [ ] feedback
-		- [ ] game component analysis
-- [ ] Test new social status system
-	- [ ] Remove typos
-	- [ ] make icons
-		- [ ] Kin
-		- [ ] Ally
-		- [ ] Friend
-		- [ ] Stranger
-		- [ ] Enemy
-		- [ ] Guest
-		- [ ] Welcome
-		- [ ] Unwanted
-		- [ ] Suspect
-		- [ ] Killer
+	- [x] play 8 hours
+		- [x] feedback
+		- [x] game component analysis
+- [x] Test new social status system
+	- [x] Remove typos
+	- [x] make icons
+		- [x] Kin
+		- [x] Ally
+		- [x] Friend
+		- [x] Stranger
+		- [x] Enemy
+		- [x] Guest
+		- [x] Welcome
+		- [x] Unwanted
+		- [x] Suspect
+		- [x] Killer
 [[Hva 2022-2023]]
 - [x] meeting coline en nicky
 - [x] overzicht nodige tools 
