@@ -6,7 +6,10 @@
 --
 [[==Project UNEXPLORED 2==]]
 - [ ] teksten updaten
-- [ ] 
+- [ ] Met joris meeten
+- [ ] Furniture groups maken/ proces opzetten
+- [ ] Lijst van creatures maken en analyseren welke minder in gebruik zijn
+
 
 [[Hva]]
 - [ ] gdtk verder uitbreiden
