@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to do.md",
+                "file": "games to buy list.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "to do.md",
+            "file": "games to buy list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,9 +90,9 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
-    "==WORK==.md",
-    "to do.md",
     "-==WORK==-.md",
+    "to do.md",
+    "==WORK==.md",
     "Hva.md",
     "HvA 2022-2023.md",
     "reseach dingen.md",
