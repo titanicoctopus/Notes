@@ -22,7 +22,7 @@ Dire Rat
 Dunetail
 Earworm
 Elder Wolf
-Fladder
+[[Fladder]]
 Flaeder
 Flashwing
 Fleder

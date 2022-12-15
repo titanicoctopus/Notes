@@ -6,22 +6,26 @@
 --
 [[==Project UNEXPLORED 2==]]
 - [ ] teksten updaten
-- [ ] Met joris meeten
+- [x] Met joris meeten
 - [ ] Furniture groups maken/ proces opzetten
 - [ ] Lijst van creatures maken en analyseren welke minder in gebruik zijn
+- [x] dungeon draft getest
+- [x] hidden icon
+- [x] social status icons redesign
 
 
 [[Hva]]
 - [ ] gdtk verder uitbreiden
-	- [ ] phase 1 artikel afschrijven
-	- [ ] phase 2 artikel draft
+	- [x] Playbook draft
+		- [ ] phase 1 artikel afschrijven
+		- [ ] phase 2 artikel draft
 - [ ] pgd les
 
 [[Hku 2022-2023]]
 - [ ] agd les
 - [ ] project vrij
-- [ ] fee?
-- [ ] jim bericht beantwoorden
+- [x] fee?
+- [x] jim bericht beantwoorden
 
 05-12-2022
 --
