@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fladder.md",
+                "file": "UE2 Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#work",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -54,7 +54,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0246654fee283899",
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fladder.md",
+            "file": "UE2 Ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
-    "UE2 creatures.md",
     "==Project UNEXPLORED 2==.md",
-    "Game Design.md",
+    "UE2 Ideas.md",
+    "plans.md",
     "-==WORK==-.md",
+    "Fladder.md",
+    "UE2 creatures.md",
+    "Game Design.md",
     "==WORK==.md",
     "to do.md",
-    "games to buy list.md",
-    "Hva.md",
-    "HvA 2022-2023.md",
-    "reseach dingen.md"
+    "games to buy list.md"
   ]
 }
