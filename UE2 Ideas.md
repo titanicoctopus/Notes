@@ -18,4 +18,4 @@ Items
 - [ ] Song of Calling: read at a special place to summon an ally. 
 	- [ ] Song of the Hearthfriend, when in camp sing at a flame source to summon a friendly Smelt. (exploit?)
 	- [ ] Wail of the Oath: when camping near a tomb, read to summon an ancestral spirit.
-	- [ ] March of the Dead: when camping near skeletal remains, read to summon white skeletons.
+	- [ ] March of the Dead: when camping near skeletal remains, read to summon white skeletons. s
