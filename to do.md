@@ -1,6 +1,14 @@
 #Work
 
 [[==WORK==]]
+19-12-2022
+--
+[[==Project UNEXPLORED 2==]]
+
+
+[[Hva]]
+
+[[Hku 2022-2023]]
 
 12-12-2022
 --
@@ -22,8 +30,8 @@
 - [ ] pgd les
 
 [[Hku 2022-2023]]
-- [ ] agd les
-- [ ] project vrij
+- [x] agd les
+- [x] project vrij
 - [x] fee?
 - [x] jim bericht beantwoorden
 
