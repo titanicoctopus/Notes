@@ -3,7 +3,7 @@
 
 Enemies
 --
-- [ ] Enemy groups have 'special' units with drops. Can be leaders, stronger, or just a variant.  e.g. a bandit leader with a quality weapon or vaulaubles. 
+- [ ] Enemy groups have 'special' units with drops. Can be leaders, stronger, or just a variant.  e.g. a bandit leader with a quality weapon or valaubles. 
 	- [ ] To solve 'unrewarding' difficult combat situations
 - [ ] Clan type enemies
 	- [ ] Clan Insurgents
