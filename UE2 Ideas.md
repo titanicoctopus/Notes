@@ -1,6 +1,20 @@
 #work #unexplored 
 [[==Project UNEXPLORED 2==]]
 
+Combat
+--
+
+- [ ] Riposte is unclear. How can we make it more useful?
+	- [ ] has to do with blocking arcs
+		- [ ] shield vs sword etc.
+	- [ ] Should it be more like a free immediate attack when an attack is blocked regardless by what?
+		- [ ] make it more accessible
+- [ ] Shield blocking
+	- [ ] raising shield vs not
+		- [ ] what is more effective?
+		- [ ] arcs are important = facing
+	- [ ] 
+
 Enemies
 --
 - [ ] Enemy groups have 'special' units with drops. Can be leaders, stronger, or just a variant.  e.g. a bandit leader with a quality weapon or valaubles. 
