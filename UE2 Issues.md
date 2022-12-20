@@ -29,10 +29,24 @@ Tutorial
 		- [ ] Bulk items
 			- [ ] Max 24 items
 			- [ ] Items take up 1 slot
-				- [ ] generate 1 or more bulk
+				- [ ] can generate bulk
 			- [ ] When items are placed into a slot with bulk the wayfarer gains the encumbered status
 				- [ ] being encumbered creates penalties to cooldowns and tests but also makes the wayfarer fatigued at the end of a journey
-			- [ ] Certain skills and items will 
+			- [ ] Certain skills and items will diminish the accumulation of bulk
+				- [ ] weapon grip
+				- [ ] pack rat
+				- [ ] light quality
+	- [ ] Stealth
+		- [ ] When the wayfarer is against a wall and not see they become hidden.
+			- [ ] makes enemy unaware of the wayfarer's presence
+				- [ ] when enemies generate a ? the wayfarer is being noticed and have a short time to move out of the enemy's view
+				- [ ] when enemies generate a ! the wayfarer is seen and no longer hidden.
+			- [ ] Certain skills make use of the hidden status
+				- [ ] backstab
+	- [ ] Travel
+		- [ ] To get to locations a wayfarer under
+			- [ ] A journey goes from location to location
+				
 
 Combat
 --
