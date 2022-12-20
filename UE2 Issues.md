@@ -44,8 +44,22 @@ Tutorial
 			- [ ] Certain skills make use of the hidden status
 				- [ ] backstab
 	- [ ] Travel
-		- [ ] To get to locations a wayfarer under
+		- [ ] To get to locations a wayfarer makes a journey
 			- [ ] A journey goes from location to location
+				- [ ] on a journey the wayfarer is confronted with:
+					- [ ] hardships
+						- [ ] effects which let the wayfarer suffer negative effects
+							- [ ] Hardship and no status gives the wayfarer a status
+							- [ ] Hardship and status gives the wayfarer negative effects
+						- [ ] certain items and skills negate hardships during a journey
+					- [ ] encounters
+						- [ ] confrontation with beasts or folk
+							- [ ] negative
+								- [ ] hostile 
+							- [ ] neutral
+								- [ ] can develop in a friendly or hostile situation
+							- [ ] friendly
+								- [ ] can gain a benefit
 				
 
 Combat
