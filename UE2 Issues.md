@@ -60,6 +60,27 @@ Tutorial
 								- [ ] can develop in a friendly or hostile situation
 							- [ ] friendly
 								- [ ] can gain a benefit
+	- [ ] Travel Gear
+		- [ ] Travel gear needs to be equipped
+			- [ ] Has a certain amount of charges
+				- [ ] can be fully recharged by using a repair kit in camp
+			- [ ] Will be used and charged expended when the appropriate hardship is encountered
+			- [ ] Usually works once per journey
+	- [ ] Camping
+		- [ ] In areas the wayfarer can camp
+			- [ ] if there's enough space
+			- [ ] no hostiles in the vicinity
+		- [ ] In camp the wayfarer can perform actions.
+			- [ ] light a fire
+				- [ ] when 
+			- [ ] wait 
+			- [ ] rest
+			- [ ] eat / cook
+			- [ ] preserve
+			- [ ] craft
+			- [ ] study
+			- [ ] break camp
+		
 				
 
 Combat
