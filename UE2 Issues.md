@@ -99,7 +99,15 @@ Tutorial
 					- [ ] gain a benefit
 			- [ ] break camp
 		- [ ] Encounter threat
-			- [ ] depending on the area there's a chance 
+			- [ ] depending on the area there's a chance the wayfarer is beset by something hostile when they spend time there
+	- [ ] Bartering
+		- [ ] Vendors provide goods and services which they expect to be paid for with equal value or more in goods.
+			- [ ] Certain vendors have a preference for certain goods.
+			- [ ] Giving things with much more value will give the wayfarer the well-liked status
+	- [ ] Fortune tests
+	- [ ] Traps
+	- [ ] Map Events
+	- [ ] Clan relations
 		
 				
 
