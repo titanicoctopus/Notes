@@ -78,12 +78,28 @@ Tutorial
 			- [ ] wait 
 				- [ ] time moves to the next part of the day (morning, afternoon, evening, night)
 			- [ ] rest
-				- [ ] spend part of the day to 
+				- [ ] spend part of the day to remove fatigue status
 			- [ ] eat / cook
+				- [ ] eat: spend part of the day to eat food to gain health
+				- [ ] cook: when fire is lit, spend part of the day to eat food that needs to be cooked.
 			- [ ] preserve
+				- [ ] when fire is lit, spend part of the day to increase the days a certain food will keep
 			- [ ] craft
+				- [ ] repair
+					- [ ] when having a repair kit spend time to 
+						- [ ] recharge item
+						- [ ] repair minor damage to armor and weapons
+				- [ ] craft
+					- [ ] with the appropriate tools and materials, spend time to
+						- [ ] craft torches out of wood
 			- [ ] study
+				- [ ] when a deed has been accomplished, spend time to
+					- [ ] gain a skill
+				- [ ] with the right book, spend time to
+					- [ ] gain a benefit
 			- [ ] break camp
+		- [ ] Encounter threat
+			- [ ] depending on the area there's a chance 
 		
 				
 
