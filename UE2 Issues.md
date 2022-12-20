@@ -24,7 +24,15 @@ Tutorial
 			- [ ] fatigued + enduring fatigue hardship
 		- [ ] rare things may regain hope
 			- [ ] performing deeds
-			- [ ] cooking food with 
+			- [ ] cooking food with Krammas and Tjilpit
+	- [ ] Inventory
+		- [ ] Bulk items
+			- [ ] Max 24 items
+			- [ ] Items take up 1 slot
+				- [ ] generate 1 or more bulk
+			- [ ] When items are placed into a slot with bulk the wayfarer gains the encumbered status
+				- [ ] being encumbered creates penalties to cooldowns and tests but also makes the wayfarer fatigued at the end of a journey
+			- [ ] Certain skills and items will 
 
 Combat
 --
