@@ -1,6 +1,11 @@
 #work #unexplored 
 [[==Project UNEXPLORED 2==]]
 
+Tutorial
+--
+- [ ] too difficult to get into the game
+- [ ] stuff you need
+
 Combat
 --
 

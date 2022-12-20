@@ -11,7 +11,7 @@ Notes for designing the game
 [[UE2 Improvement]]
 [[plans]]
 [[bugs]]
-[[UE2 Ideas]]
+[[UE2 Issues]]
 
 **Content**
 -----------------------
