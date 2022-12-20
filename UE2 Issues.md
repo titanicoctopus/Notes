@@ -4,7 +4,27 @@
 Tutorial
 --
 - [ ] too difficult to get into the game
-- [ ] stuff you need
+- [ ] stuff you need to know
+	- [ ] combat
+		- [ ] hit
+		- [ ] block
+		- [ ] parry
+		- [ ] ranged
+			- [ ] bows
+			- [ ] throwing
+				- [ ] pick up
+		- [ ] magic
+	- [ ] health
+		- [ ] food = health regain
+			- [ ] only in camps or inns
+		- [ ] healing brew & pink varo are quick heal items
+	- [ ] hope
+		- [ ] events and hardships reduces hope
+			- [ ] gloom
+			- [ ] fatigued + enduring fatigue hardship
+		- [ ] rare things may regain hope
+			- [ ] performing deeds
+			- [ ] cooking food with 
 
 Combat
 --
