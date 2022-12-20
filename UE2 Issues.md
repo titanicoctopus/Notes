@@ -72,9 +72,13 @@ Tutorial
 			- [ ] no hostiles in the vicinity
 		- [ ] In camp the wayfarer can perform actions.
 			- [ ] light a fire
-				- [ ] when 
+				- [ ] when wood is available (in inventory or environment)
+					- [ ] warms the wayfarer
+					- [ ] allows for cooking
 			- [ ] wait 
+				- [ ] time moves to the next part of the day (morning, afternoon, evening, night)
 			- [ ] rest
+				- [ ] spend part of the day to 
 			- [ ] eat / cook
 			- [ ] preserve
 			- [ ] craft
