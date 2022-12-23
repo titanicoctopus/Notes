@@ -5,7 +5,24 @@
 --
 [[==Project UNEXPLORED 2==]]
 
-
+- [ ] fortune.tsv
+	- [ ] testcraftitem
+	- [ ] testbrewpotion
+	- [ ] testsignet
+- [ ] HUD.tsv
+	- [ ] .recipe
+		- [ ] check recepten
+		- [ ] info.recipe reference teksten
+- [ ] items.tsv
+	- [ ] .recipe
+		- [ ] recipe items (paper)
+	- [ ] ruby
+	- [ ] amber
+	- [ ] iron ore
+	- [ ] silver nugget
+	- [ ] copper nugget
+	- [ ] cloth
+	- [ ] hide
 [[Hva]]
 
 [[Hku 2022-2023]]
