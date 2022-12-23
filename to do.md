@@ -5,9 +5,9 @@
 --
 [[==Project UNEXPLORED 2==]]
 
-- [ ] fortune.tsv
-	- [ ] testcraftitem
-	- [ ] testbrewpotion
+- [x] fortune.tsv
+	- [x] testcraftitem
+	- [x] testbrewpotion
 	- [ ] testsignet
 - [ ] HUD.tsv
 	- [ ] .recipe
@@ -23,8 +23,8 @@
 	- [ ] copper nugget
 	- [ ] cloth
 	- [ ] hide
-- [ ] combat
-	- [ ] range ring
+- [x] combat
+	- [x] range ring
 
 [[Hva]]
 
