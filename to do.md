@@ -23,6 +23,9 @@
 	- [ ] copper nugget
 	- [ ] cloth
 	- [ ] hide
+- [ ] combat
+	- [ ] range ring
+
 [[Hva]]
 
 [[Hku 2022-2023]]
