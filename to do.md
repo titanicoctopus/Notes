@@ -8,7 +8,7 @@
 - [x] fortune.tsv
 	- [x] testcraftitem
 	- [x] testbrewpotion
-	- [ ] testsignet
+	- [x] testsignet
 - [ ] HUD.tsv
 	- [ ] .recipe
 		- [ ] check recepten
