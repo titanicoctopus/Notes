@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd9c0f5f3be89989",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +135,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e71fe99a8edfe037",
+  "active": "bd9c0f5f3be89989",
   "lastOpenFiles": [
     "==Project UNEXPLORED 2==.md",
     "to do.md",
