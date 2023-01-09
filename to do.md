@@ -10,7 +10,13 @@
 	- [ ] episodes
 		- [ ] garden of yendor
 			- [ ] experimental content
-	- [ ] 
+- [ ] Chronicles
+	- [ ] social dungeon challenge = difficult
+		- [ ] there are kobolds
+			- [ ] you can use services when they are more friendly
+			- [ ] they want you to do something
+				- [ ] fetch a thing
+				- [ ] do a thing
 
 [[Hva]]
 
