@@ -27,11 +27,24 @@
 				- [ ] at the gate
 					- [ ] guard
 						- [ ] generic
+					- [ ] farmer
+						- [ ] what do they offer?
+						- [ ] where do they stand?
+					- [ ] trader
+						- [ ] what do they offer?
+						- [ ] where do they stand?
+					- [ ] inn keeper
+						- [ ] what do they offer?
+						- [ ] where do they stand?
+					- [ ] smith
+						- [ ] what do they offer?
+						- [ ] where do they stand?
+					- [ ] sculptor
+						- [ ] function?
 					- [ ] architect
 						- [ ] function?
-					- [ ] sculptor
-						- [ ] functio
 					- [ ] leader
+				- [ ] room
 				
 			- [ ] structure events
 			- [ ] dialogues
