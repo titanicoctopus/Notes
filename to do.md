@@ -29,7 +29,9 @@
 			- [ ] ruin
 				- [ ] what is the thing?
 					- [ ] why do they want it?
-					- [ ] 
+					- [ ] what does it do?
+						- [ ] health +12
+						- [ ] weapon?
 
 [[Hva]]
 
