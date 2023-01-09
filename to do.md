@@ -23,6 +23,16 @@
 			- [ ] scenes
 				- [ ] introduction at resting place
 					- [ ] herald?
+					- [ ] Raaf?
+				- [ ] at the gate
+					- [ ] guard
+						- [ ] generic
+					- [ ] architect
+						- [ ] function?
+					- [ ] sculptor
+						- [ ] functio
+					- [ ] leader
+				
 			- [ ] structure events
 			- [ ] dialogues
 			- [ ] npc's
