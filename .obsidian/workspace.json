@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bd9c0f5f3be89989",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,17 +125,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd9c0f5f3be89989",
+  "active": "e71fe99a8edfe037",
   "lastOpenFiles": [
-    "==Project UNEXPLORED 2==.md",
+    "Untitled.canvas",
     "to do.md",
+    "==Project UNEXPLORED 2==.md",
     "-==WORK==-.md",
     "random notepad.md",
     "==WORK==.md",
     "UE2 creatures.md",
     "UE2 Magic Items.md",
     "UE2 Text Canvans.md",
-    "UE2 work files.md",
-    "stuff to read.md"
+    "UE2 work files.md"
   ]
 }
