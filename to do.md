@@ -4,7 +4,9 @@
 --
 [[==Project UNEXPLORED 2==]]
 
-- [ ] 
+- [ ] Things to check out
+	- [ ] whispers
+	- [ ] 
 
 [[Hva]]
 
