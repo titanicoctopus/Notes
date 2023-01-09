@@ -44,7 +44,9 @@
 					- [ ] architect
 						- [ ] function?
 					- [ ] leader
-				- [ ] room
+				- [ ] room design
+					- [ ] sketch
+					- [ ] assets 
 				
 			- [ ] structure events
 			- [ ] dialogues
