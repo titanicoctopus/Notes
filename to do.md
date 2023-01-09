@@ -6,7 +6,10 @@
 
 - [ ] Things to check out
 	- [ ] whispers
-	- [ ] 
+	- [ ] hall of records
+	- [ ] episodes
+		- [ ] garden of yendor
+			- [ ] experimental content
 
 [[Hva]]
 
