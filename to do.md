@@ -21,6 +21,8 @@
 		- [ ] Kobold scenes
 			- [ ] forshadowing
 			- [ ] scenes
+				- [ ] introduction at resting place
+					- [ ] herald?
 			- [ ] structure events
 			- [ ] dialogues
 			- [ ] npc's
@@ -32,6 +34,11 @@
 					- [ ] what does it do?
 						- [ ] health +12
 						- [ ] weapon?
+					- [ ] what speaks to you, what guides you?
+						- [ ] your conscious?
+						- [ ] The dungeon?
+						- [ ] Raaf?
+						- [ ] 
 
 [[Hva]]
 
