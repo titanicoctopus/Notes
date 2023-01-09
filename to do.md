@@ -18,7 +18,18 @@
 				- [ ] fetch a thing
 				- [ ] do a thing
 	- [ ] what to do
-		- [ ] 
+		- [ ] Kobold scenes
+			- [ ] forshadowing
+			- [ ] scenes
+			- [ ] structure events
+			- [ ] dialogues
+			- [ ] npc's
+		- [ ] Threat
+			- [ ] caves
+			- [ ] ruin
+				- [ ] what is the thing?
+					- [ ] why do they want it?
+					- [ ] 
 
 [[Hva]]
 
