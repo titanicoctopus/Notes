@@ -21,32 +21,33 @@
 		- [ ] Kobold scenes
 			- [ ] forshadowing
 			- [ ] scenes
-				- [ ] introduction at resting place
+				- [x] introduction at resting place
 					- [ ] herald?
 					- [ ] Raaf?
-				- [ ] at the gate
-					- [ ] guard
+					- [x] Kobold Scavenger
+				- [x] at the gate
+					- [x] guard
 						- [ ] generic
-					- [ ] farmer
+					- [x] farmer
 						- [ ] what do they offer?
-						- [ ] where do they stand?
-					- [ ] trader
+						- [x] where do they stand?
+					- [x] trader
 						- [ ] what do they offer?
-						- [ ] where do they stand?
-					- [ ] inn keeper
+						- [x] where do they stand?
+					- [x] inn keeper
 						- [ ] what do they offer?
-						- [ ] where do they stand?
-					- [ ] smith
+						- [x] where do they stand?
+					- [x] smith
 						- [ ] what do they offer?
-						- [ ] where do they stand?
-					- [ ] sculptor
+						- [x] where do they stand?
+					- [x] sculptor
 						- [ ] function?
-					- [ ] architect
-						- [ ] function?
-					- [ ] leader
-				- [ ] room design
-					- [ ] sketch
-					- [ ] assets 
+					- [x] architect
+						- [x] function?
+					- [x] leader
+				- [x] room design
+					- [x] sketch
+					- [x] assets 
 				
 			- [ ] structure events
 			- [ ] dialogues
