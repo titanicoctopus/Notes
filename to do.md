@@ -4,12 +4,67 @@
 --
 [[==Project UNEXPLORED 2==]]
 
-- [ ] Things to check out
-	- [ ] whispers
-	- [ ] hall of records
-	- [ ] episodes
-		- [ ] garden of yendor
-			- [ ] experimental content
+- [x] Things to check out
+	- [x] whispers
+	- [x] hall of records
+	- [x] episodes
+		- [x] garden of yendor
+			- [x] experimental content
+- [ ] Chronicles
+	- [ ] social dungeon challenge = difficult
+		- [ ] there are kobolds
+			- [ ] you can use services when they are more friendly
+			- [ ] they want you to do something
+				- [ ] fetch a thing
+				- [ ] do a thing
+	- [ ] what to do
+		- [ ] Kobold scenes
+			- [ ] forshadowing
+			- [ ] scenes
+				- [x] introduction at resting place
+					- [ ] herald?
+					- [ ] Raaf?
+					- [x] Kobold Scavenger
+				- [x] at the gate
+					- [x] guard
+						- [ ] generic
+					- [x] farmer
+						- [ ] what do they offer?
+						- [x] where do they stand?
+					- [x] trader
+						- [ ] what do they offer?
+						- [x] where do they stand?
+					- [x] inn keeper
+						- [ ] what do they offer?
+						- [x] where do they stand?
+					- [x] smith
+						- [ ] what do they offer?
+						- [x] where do they stand?
+					- [x] sculptor
+						- [ ] function?
+					- [x] architect
+						- [x] function?
+					- [x] leader
+				- [x] room design
+					- [x] sketch
+					- [x] assets 
+				
+			- [ ] structure events
+			- [ ] dialogues
+			- [ ] npc's
+		- [ ] Threat
+			- [ ] caves
+			- [ ] ruin
+				- [ ] what is the thing?
+					- [ ] why do they want it?
+					- [ ] what does it do?
+						- [ ] health +12
+						- [ ] weapon?
+					- [ ] what speaks to you, what guides you?
+						- [ ] your conscious?
+						- [ ] The dungeon?
+						- [ ] Raaf?
+						- [ ] 
 
 [[Hva]]
 
