@@ -4,12 +4,12 @@
 --
 [[==Project UNEXPLORED 2==]]
 
-- [ ] Things to check out
-	- [ ] whispers
-	- [ ] hall of records
-	- [ ] episodes
-		- [ ] garden of yendor
-			- [ ] experimental content
+- [x] Things to check out
+	- [x] whispers
+	- [x] hall of records
+	- [x] episodes
+		- [x] garden of yendor
+			- [x] experimental content
 - [ ] Chronicles
 	- [ ] social dungeon challenge = difficult
 		- [ ] there are kobolds
