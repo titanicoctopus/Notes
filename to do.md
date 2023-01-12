@@ -52,6 +52,9 @@
 			- [ ] structure events
 			- [ ] dialogues
 			- [ ] npc's
+				- [ ] ideas for random settlement interactions
+					- [ ] ![[UE 2 NPC small encounters]]
+				
 		- [ ] Threat
 			- [ ] caves
 			- [ ] ruin

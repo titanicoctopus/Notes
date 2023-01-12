@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to do.md",
+                "file": "UE 2 NPC small encounters.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "to do.md",
+            "file": "UE 2 NPC small encounters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "to do.md",
     "-==WORK==-.md",
     "==Project UNEXPLORED 2==.md",
     "UE2 Ideas.md",
@@ -98,7 +99,6 @@
     "UE2 creatures.md",
     "Game Design.md",
     "==WORK==.md",
-    "to do.md",
     "games to buy list.md"
   ]
 }
