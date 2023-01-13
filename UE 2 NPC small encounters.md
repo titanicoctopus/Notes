@@ -16,4 +16,5 @@ A respected figure asks the wayfaree to share their deeds. When succesful relati
 An ill person can be cured with herbs or a succesful fortune test. This increases reputation.
 A bigot who threatens the wayfarer when they are a stranger.
 Folk who offer a game of chance. Wayfarer needs to wager something of  equal value.
-
+When the wayfarer is a friend / ally an admirer gives them a carving or a trinket.
+When the wayfarer is a friend / ally a 

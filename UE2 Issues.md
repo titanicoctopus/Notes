@@ -123,7 +123,9 @@ Combat
 	- [ ] raising shield vs not
 		- [ ] what is more effective?
 		- [ ] arcs are important = facing
-	- [ ] 
+- [ ] Side step control?
+	- [ ] on button step right / step left?
+	- [ ] Quicker movement 
 
 Enemies
 --
@@ -133,6 +135,15 @@ Enemies
 	- [ ] Clan Insurgents
 	- [ ] Clan Exiles
 	- [ ] Clan Raiders
+- [ ] Threat assment
+	- [ ] On inspection get a sense of enemy's threat level
+		- [ ] 'faction'+'unit name'+'threat description'
+			- [ ] imperial soldier veteran
+			- [ ] weak imperial Tendred
+			- [ ] dangerous imperial tendred
+			- [ ] strong imperial tendred
+			- [ ] 
+		- [ ] Incorperate this in initial dialogue. 
 
 Items
 --
