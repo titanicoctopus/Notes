@@ -20,31 +20,32 @@
 	- [ ] what to do
 		- [ ] Kobold scenes
 			- [ ] forshadowing
-			- [ ] scenes
+			- [x] scenes
 				- [x] introduction at resting place
 					- [ ] herald?
 					- [ ] Raaf?
 					- [x] Kobold Scavenger
 				- [x] at the gate
 					- [x] guard
-						- [ ] generic
+						- [x] generic
 					- [x] farmer
-						- [ ] what do they offer?
+						- [x] what do they offer?
 						- [x] where do they stand?
 					- [x] trader
-						- [ ] what do they offer?
+						- [x] what do they offer?
 						- [x] where do they stand?
 					- [x] inn keeper
-						- [ ] what do they offer?
+						- [x] what do they offer?
 						- [x] where do they stand?
 					- [x] smith
-						- [ ] what do they offer?
+						- [x] what do they offer?
 						- [x] where do they stand?
 					- [x] sculptor
-						- [ ] function?
+						- [x] function?
 					- [x] architect
 						- [x] function?
-					- [x] leader
+					- [ ] leader
+						- [ ] text
 				- [x] room design
 					- [x] sketch
 					- [x] assets 
