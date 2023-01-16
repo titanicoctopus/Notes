@@ -22,6 +22,8 @@
 	- [ ] icons aanpassen
 		- [ ] welke effecten zijn aanpasbaar hebben bron.
 
+
+
 09-01-2023
 --
 [[==Project UNEXPLORED 2==]]
