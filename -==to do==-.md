@@ -6,8 +6,8 @@
 
 - [ ] Scrying stones
 	- [ ] impact op de kaart
-		- [ ] 
-		- [ ] genereren sparks
+		- [ ] Scrying Stone protection
+			- [ ] Sparks
 - [ ] Hearth
 	- [ ] bescherming
 		- [ ] verdrijven van beesten
@@ -17,7 +17,10 @@
 	- [ ] houden het bos in toom
 		- [ ] voorkomt lost
 		- [ ] voorkomt hazards
-	- [ ] 
+- [ ] Elementals
+- [ ] Machines
+	- [ ] icons aanpassen
+		- [ ] welke effecten zijn aanpasbaar hebben bron.
 
 09-01-2023
 --
