@@ -1,5 +1,24 @@
 #Work
 
+16-01-2023
+--
+[[==Project UNEXPLORED 2==]]
+
+- [ ] Scrying stones
+	- [ ] impact op de kaart
+		- [ ] 
+		- [ ] genereren sparks
+- [ ] Hearth
+	- [ ] bescherming
+		- [ ] verdrijven van beesten
+		- [ ] kou
+		- [ ] 
+- [ ] Rootsinger
+	- [ ] houden het bos in toom
+		- [ ] voorkomt lost
+		- [ ] voorkomt hazards
+	- [ ] 
+
 09-01-2023
 --
 [[==Project UNEXPLORED 2==]]
