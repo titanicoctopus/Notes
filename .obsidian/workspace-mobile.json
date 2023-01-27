@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE2 Issues.md",
+                "file": "-==WORK==-.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "UE2 Issues.md",
+            "file": "-==WORK==-.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "UE2 Issues.md",
     "==Project UNEXPLORED 2==.md",
     "UE 2 NPC small encounters.md",
     "to do.md",
@@ -98,7 +99,6 @@
     "plans.md",
     "Fladder.md",
     "UE2 creatures.md",
-    "Game Design.md",
-    "==WORK==.md"
+    "Game Design.md"
   ]
 }
