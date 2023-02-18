@@ -14,6 +14,11 @@ Projects
 [[Hku 2022-2023]]
 [[Hva]]
 
+Games
+[[Gods of creation]]
+[[World weavers]]
+[[Oracle tricks]]
+
 Misc.
 [[games to buy list]]
 [[games to play]]
