@@ -1,0 +1,156 @@
+#work #unexplored 
+[[==Project UNEXPLORED 2==]]
+
+Tutorial
+--
+- [ ] too difficult to get into the game
+- [ ] stuff you need to know
+	- [ ] combat
+		- [ ] hit
+		- [ ] block
+		- [ ] parry
+		- [ ] ranged
+			- [ ] bows
+			- [ ] throwing
+				- [ ] pick up
+		- [ ] magic
+	- [ ] health
+		- [ ] food = health regain
+			- [ ] only in camps or inns
+		- [ ] healing brew & pink varo are quick heal items
+	- [ ] hope
+		- [ ] events and hardships reduces hope
+			- [ ] gloom
+			- [ ] fatigued + enduring fatigue hardship
+		- [ ] rare things may regain hope
+			- [ ] performing deeds
+			- [ ] cooking food with Krammas and Tjilpit
+	- [ ] Inventory
+		- [ ] Bulk items
+			- [ ] Max 24 items
+			- [ ] Items take up 1 slot
+				- [ ] can generate bulk
+			- [ ] When items are placed into a slot with bulk the wayfarer gains the encumbered status
+				- [ ] being encumbered creates penalties to cooldowns and tests but also makes the wayfarer fatigued at the end of a journey
+			- [ ] Certain skills and items will diminish the accumulation of bulk
+				- [ ] weapon grip
+				- [ ] pack rat
+				- [ ] light quality
+	- [ ] Stealth
+		- [ ] When the wayfarer is against a wall and not see they become hidden.
+			- [ ] makes enemy unaware of the wayfarer's presence
+				- [ ] when enemies generate a ? the wayfarer is being noticed and have a short time to move out of the enemy's view
+				- [ ] when enemies generate a ! the wayfarer is seen and no longer hidden.
+			- [ ] Certain skills make use of the hidden status
+				- [ ] backstab
+	- [ ] Travel
+		- [ ] To get to locations a wayfarer makes a journey
+			- [ ] A journey goes from location to location
+				- [ ] on a journey the wayfarer is confronted with:
+					- [ ] hardships
+						- [ ] effects which let the wayfarer suffer negative effects
+							- [ ] Hardship and no status gives the wayfarer a status
+							- [ ] Hardship and status gives the wayfarer negative effects
+						- [ ] certain items and skills negate hardships during a journey
+					- [ ] encounters
+						- [ ] confrontation with beasts or folk
+							- [ ] negative
+								- [ ] hostile 
+							- [ ] neutral
+								- [ ] can develop in a friendly or hostile situation
+							- [ ] friendly
+								- [ ] can gain a benefit
+	- [ ] Travel Gear
+		- [ ] Travel gear needs to be equipped
+			- [ ] Has a certain amount of charges
+				- [ ] can be fully recharged by using a repair kit in camp
+			- [ ] Will be used and charged expended when the appropriate hardship is encountered
+			- [ ] Usually works once per journey
+	- [ ] Camping
+		- [ ] In areas the wayfarer can camp
+			- [ ] if there's enough space
+			- [ ] no hostiles in the vicinity
+		- [ ] In camp the wayfarer can perform actions.
+			- [ ] light a fire
+				- [ ] when wood is available (in inventory or environment)
+					- [ ] warms the wayfarer
+					- [ ] allows for cooking
+			- [ ] wait 
+				- [ ] time moves to the next part of the day (morning, afternoon, evening, night)
+			- [ ] rest
+				- [ ] spend part of the day to remove fatigue status
+			- [ ] eat / cook
+				- [ ] eat: spend part of the day to eat food to gain health
+				- [ ] cook: when fire is lit, spend part of the day to eat food that needs to be cooked.
+			- [ ] preserve
+				- [ ] when fire is lit, spend part of the day to increase the days a certain food will keep
+			- [ ] craft
+				- [ ] repair
+					- [ ] when having a repair kit spend time to 
+						- [ ] recharge item
+						- [ ] repair minor damage to armor and weapons
+				- [ ] craft
+					- [ ] with the appropriate tools and materials, spend time to
+						- [ ] craft torches out of wood
+			- [ ] study
+				- [ ] when a deed has been accomplished, spend time to
+					- [ ] gain a skill
+				- [ ] with the right book, spend time to
+					- [ ] gain a benefit
+			- [ ] break camp
+		- [ ] Encounter threat
+			- [ ] depending on the area there's a chance the wayfarer is beset by something hostile when they spend time there
+	- [ ] Bartering
+		- [ ] Vendors provide goods and services which they expect to be paid for with equal value or more in goods.
+			- [ ] Certain vendors have a preference for certain goods.
+			- [ ] Giving things with much more value will give the wayfarer the well-liked status
+	- [ ] Fortune tests
+	- [ ] Traps
+	- [ ] Map Events
+	- [ ] Clan relations
+		
+				
+
+Combat
+--
+
+- [ ] Riposte is unclear. How can we make it more useful?
+	- [ ] has to do with blocking arcs
+		- [ ] shield vs sword etc.
+	- [ ] Should it be more like a free immediate attack when an attack is blocked regardless by what?
+		- [ ] make it more accessible
+- [ ] Shield blocking
+	- [ ] raising shield vs not
+		- [ ] what is more effective?
+		- [ ] arcs are important = facing
+- [ ] Side step control?
+	- [ ] on button step right / step left?
+	- [ ] Quicker movement 
+
+Enemies
+--
+- [ ] Enemy groups have 'special' units with drops. Can be leaders, stronger, or just a variant.  e.g. a bandit leader with a quality weapon or valaubles. 
+	- [ ] To solve 'unrewarding' difficult combat situations
+- [ ] Clan type enemies
+	- [ ] Clan Insurgents
+	- [ ] Clan Exiles
+	- [ ] Clan Raiders
+- [ ] Threat assment
+	- [ ] On inspection get a sense of enemy's threat level
+		- [ ] 'faction'+'unit name'+'threat description'
+			- [ ] imperial soldier veteran
+			- [ ] weak imperial Tendred
+			- [ ] dangerous imperial tendred
+			- [ ] strong imperial tendred
+			- [ ] 
+		- [ ] Incorperate this in initial dialogue. 
+
+Items
+--
+- [ ] Skill Manual: read at camp to make progress. When fully read gain skill.
+	- [ ] Elemental Anatomy of the Body, 30 reads to gain Endurance
+	- [ ] Deconstruction of small mechanical contraptions, 50 reads to gain Lockpicking
+- [ ] Song of Calling: read at a special place to summon an ally. 
+	- [ ] Song of the Hearthfriend, when in camp sing at a flame source to summon a friendly Smelt. (exploit?)
+	- [ ] Wail of the Oath: when camping near a tomb, read to summon an ancestral spirit.
+	- [ ] March of the Dead: when camping near skeletal remains, read to summon white skeletons. s

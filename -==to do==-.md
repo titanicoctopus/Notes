@@ -1,6 +1,236 @@
 #Work
 
+16-01-2023
+--
+[[==Project UNEXPLORED 2==]]
+
+- [ ] Scrying stones
+	- [ ] impact op de kaart
+		- [ ] Scrying Stone protection
+			- [ ] Sparks
+- [ ] Hearth
+	- [ ] bescherming
+		- [ ] verdrijven van beesten
+		- [ ] kou
+		- [ ] 
+- [ ] Rootsinger
+	- [ ] houden het bos in toom
+		- [ ] voorkomt lost
+		- [ ] voorkomt hazards
+- [ ] Elementals
+- [ ] Machines
+	- [ ] icons aanpassen
+		- [ ] welke effecten zijn aanpasbaar hebben bron.
+
+
+
+09-01-2023
+--
+[[==Project UNEXPLORED 2==]]
+
+- [x] Things to check out
+	- [x] whispers
+	- [x] hall of records
+	- [x] episodes
+		- [x] garden of yendor
+			- [x] experimental content
+- [ ] Chronicles
+	- [ ] social dungeon challenge = difficult
+		- [ ] there are kobolds
+			- [ ] you can use services when they are more friendly
+			- [ ] they want you to do something
+				- [ ] fetch a thing
+				- [ ] do a thing
+	- [ ] what to do
+		- [ ] Kobold scenes
+			- [ ] forshadowing
+			- [x] scenes
+				- [x] introduction at resting place
+					- [ ] herald?
+					- [ ] Raaf?
+					- [x] Kobold Scavenger
+				- [x] at the gate
+					- [x] guard
+						- [x] generic
+					- [x] farmer
+						- [x] what do they offer?
+						- [x] where do they stand?
+					- [x] trader
+						- [x] what do they offer?
+						- [x] where do they stand?
+					- [x] inn keeper
+						- [x] what do they offer?
+						- [x] where do they stand?
+					- [x] smith
+						- [x] what do they offer?
+						- [x] where do they stand?
+					- [x] sculptor
+						- [x] function?
+					- [x] architect
+						- [x] function?
+					- [ ] leader
+						- [ ] text
+				- [x] room design
+					- [x] sketch
+					- [x] assets 
+				
+			- [ ] structure events
+			- [ ] dialogues
+			- [ ] npc's
+				- [ ] ideas for random settlement interactions
+					- [ ] ![[UE 2 NPC small encounters]]
+				
+		- [ ] Threat
+			- [ ] caves
+			- [ ] ruin
+				- [ ] what is the thing?
+					- [ ] why do they want it?
+					- [ ] what does it do?
+						- [ ] health +12
+						- [ ] weapon?
+					- [ ] what speaks to you, what guides you?
+						- [ ] your conscious?
+						- [ ] The dungeon?
+						- [ ] Raaf?
+						- [ ] 
+
+[[Hva]]
+
+[[Hku 2022-2023]]
+
 [[==WORK==]]
+19-12-2022
+--
+[[==Project UNEXPLORED 2==]]
+
+- [x] fortune.tsv
+	- [x] testcraftitem
+	- [x] testbrewpotion
+	- [x] testsignet
+- [ ] HUD.tsv
+	- [ ] .recipe
+		- [ ] check recepten
+		- [ ] info.recipe reference teksten
+- [ ] items.tsv
+	- [ ] .recipe
+		- [ ] recipe items (paper)
+	- [ ] ruby
+	- [ ] amber
+	- [ ] iron ore
+	- [ ] silver nugget
+	- [ ] copper nugget
+	- [ ] cloth
+	- [ ] hide
+- [x] combat
+	- [x] range ring
+
+[[Hva]]
+
+[[Hku 2022-2023]]
+
+12-12-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [ ] teksten updaten
+- [x] Met joris meeten
+- [ ] Furniture groups maken/ proces opzetten
+- [ ] Lijst van creatures maken en analyseren welke minder in gebruik zijn
+- [x] dungeon draft getest
+- [x] hidden icon
+- [x] social status icons redesign
+
+
+[[Hva]]
+- [ ] gdtk verder uitbreiden
+	- [x] Playbook draft
+		- [ ] phase 1 artikel afschrijven
+		- [ ] phase 2 artikel draft
+- [ ] pgd les
+
+[[Hku 2022-2023]]
+- [x] agd les
+- [x] project vrij
+- [x] fee?
+- [x] jim bericht beantwoorden
+
+05-12-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [x] Meeting team?
+- [x] 10x new room specs
+- [x] game review
+	- [x] play 8 hours
+		- [x] feedback
+		- [x] game component analysis
+- [x] Test new social status system
+	- [x] Remove typos
+	- [x] make icons
+		- [x] Kin
+		- [x] Ally
+		- [x] Friend
+		- [x] Stranger
+		- [x] Enemy
+		- [x] Guest
+		- [x] Welcome
+		- [x] Unwanted
+		- [x] Suspect
+		- [x] Killer
+[[Hva 2022-2023]]
+- [x] meeting coline en nicky
+- [x] overzicht nodige tools 
+[[Hku 2022-2023]]
+- [x] meeting project vrij
+- [ ] meeting plannen met fee
+- [ ] reply jim
+
+28-11-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [x] Met joris meeten
+- [x] save file uitproberen
+- [x] Nieuwe dungeon rooms definieren
+	- [x] Concept: 6 kamers
+	- [x] 6 kamers met assets
+		- [x] Repurpose specs (Kobold & Jabberlings)
+			- [x] Room specs
+			- [x] Assets
+- [x] Met rosa prefabs maken
+
+[[Hva 2022-2023]]
+- [ ] PGD les
+- [x] Uitwerken van essential GD tools
+	- [x] Fases
+	- [ ] Deliverables
+	- [ ] Fases
+	- [x] Deliverables
+	- [ ] Tools
+- [x] Maxim mailen voor afspraak
+
+[[Hku 2022-2023]]
+- [x] Les AGD
+- [ ] Afspraken maken met project vrij een fee
+
+[[FourceLabs]]
+- [x] loonbelasting betalen 
+- [ ] Loon uitkeren
+- [ ] DHL bonnen uitzoeken
+
+21-11-2022
+--
+[[==Project UNEXPLORED 2==]]
+- [x] reframing chronicles
+	- [x] read flame elemental doc
+	- [x] define design goals
+	- [x] defince story
+
+[[Hva 2022-2023]]
+- [x] meeting coline en nicky
+- [x] define work package
+
+[[Hku 2022-2023]]
+- [x] AGD class
+
+
 10-10-2022
 --
 [[==Project UNEXPLORED 2==]]
@@ -9,7 +239,7 @@
 	- [x] dialogen aanvullen, look for here be text // KAREL
 	- [ ] Rumors
 		- [x] Eternal Winter
-		- [ ] Bir's Tomb
+		- [x] Bir's Tomb
 		- [ ] Marang Ruin
 		- [ ] Birnui
 	- [ ] Trivia
@@ -22,9 +252,9 @@
 	- [ ] info flow
 - [ ] ghost forest scenario
 	- [ ] breakdown
-		- [ ] character
-			- [ ] gear
-			- [ ] skills
+		- [x] character
+			- [x] gear
+			- [x] skills
 			- [ ] hope
 		- [ ] world map
 			- [ ] specs
@@ -34,7 +264,7 @@
 - [ ] modding
 	- [ ] keertje uitproberen
 - [ ] nick kletsen
-	- [ ] Afspraak maken om hem te introduceren
+	- [x] Afspraak maken om hem te introduceren
 	- [ ] op dit moment: 
 		- [ ] bezig met bug fixen
 		- [ ] beter de game begrijpen
@@ -43,14 +273,14 @@
 
 - [x] Coline afspraak maken
 - [x] aanpassing format afmaken
-- [ ] nakijken indivudele opdrachten
+- [x] nakijken indivudele opdrachten
 - [x] voorbereiden les 5
 - [x] ui les doen
-- [ ] pgd les doen
+- [x] pgd les doen
 
 [[Hku 2022-2023]]
-- [ ] AGD les voorbereiden
-- [ ] AGD les doen
+- [x] AGD les voorbereiden
+- [x] AGD les doen
 
 Flabs
 - [x] Jaaroverzichten bv en holding

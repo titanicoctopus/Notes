@@ -5,12 +5,13 @@ Notes for designing the game
 
 **Project Stuff**
 --------------
-[[to do]]
+[[-==to do==-]]
 [[meetings UE2]]
 [[UE2 Feedback]]
 [[UE2 Improvement]]
 [[plans]]
 [[bugs]]
+[[UE2 Issues]]
 
 **Content**
 -----------------------

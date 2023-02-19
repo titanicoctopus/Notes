@@ -5,6 +5,9 @@ Game to get
 
 Switch
 --
+- [ ] Dragon Quest Treasures
+	- [ ] on sale?
+	- [ ] at a shop?
 - [ ] SD Gundam Battle Alliance 
 - [ ] River city Girls 1&2
 - [x] River City Saga, Three Kingdoms
@@ -35,6 +38,7 @@ PC
 - [ ] Star Trek Resurgence
 - [ ] Marvel's Spider-Man Remastered
 - [ ] Marvel's Midnight Suns
+	- [ ] On sale
 - [ ] Forspoken
 - [ ] Star Wars Jedi Survivor
 - [ ] Black Myth: Wukong
@@ -46,3 +50,11 @@ PC
 - [ ] Brok the Investigator
 - [ ] Legioncraft
 - [x] River City Saga, Three Kingdoms
+
+Tabletop games
+- [ ] El dorado 
+	- [ ] on sale?
+	- [ ] Expansions?
+		- [ ] 1
+		- [ ] 2
+- [x] DnD Dragonlance Special edition
