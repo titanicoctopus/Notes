@@ -6,4 +6,6 @@ Gameplay
 - multi-gen characters
 	- hope
 	- works
-- changes 
+- actions changes the world
+- travel
+- 
