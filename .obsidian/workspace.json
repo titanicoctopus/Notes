@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design.md",
+                "file": "Unexplored RPG.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Design.md",
+                "file": "Unexplored RPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +127,15 @@
   },
   "active": "e71fe99a8edfe037",
   "lastOpenFiles": [
-    "==Project UNEXPLORED 2==.md",
     "-==WORK==-.md",
     "-==to do==-.md",
+    "Game Design.md",
+    "==Project UNEXPLORED 2==.md",
     "UE 2 NPC small encounters.md",
     "Untitled.canvas",
     "random notepad.md",
     "==WORK==.md",
     "UE2 creatures.md",
-    "UE2 Magic Items.md",
-    "UE2 Text Canvans.md"
+    "UE2 Magic Items.md"
   ]
 }

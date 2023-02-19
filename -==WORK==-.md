@@ -18,6 +18,7 @@ Games
 [[Gods of creation]]
 [[World weavers]]
 [[Oracle tricks]]
+[[Unexplored RPG]]
 
 Misc.
 [[games to buy list]]
