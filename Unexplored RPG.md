@@ -8,4 +8,15 @@ Gameplay
 	- works
 - actions changes the world
 - travel
-- 
+
+Setting
+- Unexplored world
+	- remnant cultures
+		- the clans
+		- marang
+		- dracgard
+		- Ur Ma
+		- 
+	- magic technology
+	- decay
+	- desperation
