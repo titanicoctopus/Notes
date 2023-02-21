@@ -2,6 +2,7 @@
 [[Lore]]
 
 - The first valley is the first place made by raaf with the prime elemental and their forge.
+	- Abstract shapes are carve
 - Raaf appointed the elders to oversee further creation.
 - Folk, spirits and beast emerged in the first valley
 - Some folk chose to live near the forge.
