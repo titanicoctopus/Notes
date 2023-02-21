@@ -2,8 +2,8 @@
 [[Lore]]
 
 - The first valley is the first place made by raaf with the prime elemental and their forge.
-	- Abstract shapes forming dynamic patters are carved into the stone. It's profound age adds an aesthetic dimension that stirs primal emotions. Intuitively you begin to recognize meaning within the patterns. Understanding should not be far away.
-	- The mural has captu
+	- Abstract shapes forming dynamic patters are carved into the stone. It's profound age adds an aesthetic dimension that stirs primal emotions. Intuitively you begin to recognize meaning within the patterns. With a little push understanding should not be far away.
+	- The mural has captured the moment when Raaf and the Prime Elemental smoothed out the last piece of proto material into the First Valley. Raaf was relieved
 - Raaf appointed the elders to oversee further creation.
 - Folk, spirits and beast emerged in the first valley
 - Some folk chose to live near the forge.
