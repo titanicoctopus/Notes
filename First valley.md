@@ -10,8 +10,9 @@
 - Folk, spirits and beast emerged in the first valley
 	- The mural evokes a vision of all the living things that lived in the First Valley. 
 - The colors became the elders and begin to teach things.
-	- A memory of Mercy fills your mind. Creatures big and small sit at your feet basking in your radiant warmth. You speak of sharing the warmth with one another to keep each other safe. You speak of what keeps you together is worth fighting for. In the distance you see some of them shuffle away, unsatisfied with the warmth they were given. 
-	- A memory of Dai-Varo fills your mind. With your appendages you pull out globs of proto matter from the spirit realm. With it you infuse small parts of the valley with ideas and thoughts. Some parts begin to stir, move and live.  Others stir for a moment but then remain still. Those that live begin to roam, eat and kill each other. 
+	- A memory of Mercy fills your mind. Creatures big and small sit at your feet basking in your radiant warmth. You speak of sharing the warmth with one another to keep each other safe. You speak of what keeps you together is worth fighting for. In the distance you see some of them shuffle away, dissatisfied with the warmth they were given. 
+	- A memory of Dai-Varo fills your mind. With your appendages you pull out globs of proto matter from the spirit realm. With it you infuse small parts of the valley with ideas and thoughts. Some parts begin to stir, move and live.  Others stir for a moment but then remain still. Those that live begin to roam, attack and eat. 
+	- A memory of Haibor fills your mind. You roam the valley seeking o
 	- 
 - Some folk chose to live near the forge.
 	- The mural awakens the vision of folk arriving at the prime elemental forge. At first they are fearful. Then from the sky a black and purple bird descends and opens their wings to them. A profound sense of relief washes over the folk as they begin to make their home at the foot of the mountain.
