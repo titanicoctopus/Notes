@@ -14,7 +14,7 @@
 - Raaf expanded the world beyond the valley.
 	- Watching the patterns sway and swirl in front of your eyes, a memory emerges. Raaf is weaving the rest of the world from thin threads pulled from a realm of liquid magenta. They move their hands fervently across the loom. Small mistakes are made, but Raaf doesn't care. It only matters to them that the work needs to be finished at the right time.  
 - Raaf decreed for all to leave and populate the world.
-	- A memory surfaces from deep within your mind. A gate is opened with a loud ringing sound. Beyond the gate a wild landscape stretches out in all directions. 
+	- A memory surfaces from deep within your mind. A gate is opened with a loud ringing noise. Beyond the gate a wild landscape stretches out in all directions. 
 - Some folk left with the elders becoming the cultures of the world
 - Some folk left later to help raaf to prepare becoming the raafi
 - Some folk went their own way and became the marang
