@@ -12,7 +12,7 @@
 - Some folk chose to live near the forge.
 	- The mural awakens the vision of folk arriving at the prime elemental forge. At first they are fearful. Then from the sky a black and purple bird descends and opens their wings to them. A profound sense of relief washes over the folk as they begin to make their home at the foot of the mountain.
 - Raaf expanded the world beyond the valley.
-	- Watching the patterns sway and swirl in front of your eyes, a vision
+	- Watching the patterns sway and swirl in front of your eyes, a memory emerges. Raaf is weaving the rest of the world from thin threads pulled from a realm of liquid magenta. They move their hands fervently across the loom. 
 - Raaf decreed for all to leave and populate the world.
 - Some folk left with the elders becoming the cultures of the world
 - Some folk left later to help raaf to prepare becoming the raafi
