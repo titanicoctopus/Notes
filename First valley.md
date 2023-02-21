@@ -5,7 +5,8 @@
 	- Abstract shapes forming dynamic patterns are carved into the stone. It's profound age adds an aesthetic dimension that stirs primal emotions. Intuitively you begin to recognize meaning within the patterns. With a little push understanding should not be far away.
 	- The mural has captured the moment when Raaf and the Prime Elemental smoothed out the last piece of proto material into the First Valley. Raaf was happy and satisfied. The Prime Elemental seems worried.
 - Raaf appointed the elders to oversee further creation.
-	- Abstract shapes forming recurring patterns are carved in the the stone. The patterns guide the eyes throughout the whole mural evoking vague impressions from a time in the distan
+	- Abstract shapes forming recurring patterns are carved in the the stone. The patterns guide the eyes throughout the whole mural evoking vague impressions from a time in the distant past. 
+	- The patterns unlocks a vivid memory of the moment Raaf told . A red figure embraced all that moved in the valley with deep compassion. A dark figure stepped on the edge keeping watch what could come from beyond the stars. A 
 - Folk, spirits and beast emerged in the first valley
 - Some folk chose to live near the forge.
 - Raaf expanded the world beyond the valley.
