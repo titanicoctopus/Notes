@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unexplored RPG.md",
+                "file": "First valley.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unexplored RPG.md",
+                "file": "First valley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +127,15 @@
   },
   "active": "e71fe99a8edfe037",
   "lastOpenFiles": [
+    "Lore.md",
     "==Project UNEXPLORED 2==.md",
-    "Game Design.md",
     "-==WORK==-.md",
     "-==to do==-.md",
+    "Unexplored RPG.md",
     "Game Design.md",
-    "==Project UNEXPLORED 2==.md",
+    "Game Design.md",
     "UE 2 NPC small encounters.md",
     "Untitled.canvas",
-    "random notepad.md",
-    "==WORK==.md",
-    "UE2 creatures.md",
-    "UE2 Magic Items.md"
+    "random notepad.md"
   ]
 }
