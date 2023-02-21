@@ -9,6 +9,8 @@
 	- The patterns unlocks a vivid memory of the moment Raaf told colors to continue his work.  Celadon and ochre intertwined and began to give shape to things.  Maroon embraced them with deep compassion, infusing them with warmth to make them move. And the rest of the colors but one joined together to make songs to keep the things moving. The deepest and darkest of midnight seperated themselves to watch out for the danger from beyond the stars.
 - Folk, spirits and beast emerged in the first valley
 	- The mural evokes a vision of all the living things that lived in the First Valley. 
+- The colors became the elders and begin to teach things.
+	- 
 - Some folk chose to live near the forge.
 	- The mural awakens the vision of folk arriving at the prime elemental forge. At first they are fearful. Then from the sky a black and purple bird descends and opens their wings to them. A profound sense of relief washes over the folk as they begin to make their home at the foot of the mountain.
 - Raaf expanded the world beyond the valley.
