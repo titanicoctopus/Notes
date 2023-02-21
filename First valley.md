@@ -10,8 +10,9 @@
 - Folk, spirits and beast emerged in the first valley
 	- The mural evokes a vision of all the living things that lived in the First Valley. 
 - Some folk chose to live near the forge.
-	- The mural awakens the vision of folk arriving at the prime elemental forge. At first they are fearful. Then from the sky a black and
+	- The mural awakens the vision of folk arriving at the prime elemental forge. At first they are fearful. Then from the sky a black and purple bird descends and opens their wings to them. A profound sense of relief washes over the folk as they begin to make their home at the foot of the mountain.
 - Raaf expanded the world beyond the valley.
+	- A 
 - Raaf decreed for all to leave and populate the world.
 - Some folk left with the elders becoming the cultures of the world
 - Some folk left later to help raaf to prepare becoming the raafi
