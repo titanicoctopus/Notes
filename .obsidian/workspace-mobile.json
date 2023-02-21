@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle tricks.md",
+                "file": "First valley.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#work",
+            "query": "tag:#Work",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Oracle tricks.md",
+            "file": "First valley.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "Lore.md",
+    "==Project UNEXPLORED 2==.md",
     "-==WORK==-.md",
+    "-==to do==-.md",
+    "Oracle tricks.md",
     "World weavers.md",
     "Gods of creation.md",
     "random notepad.md",
     "==WORK==.md",
-    "==Game Design and Development Tools==.md",
-    "==Project UNEXPLORED 2==.md",
-    "UE2 Issues.md",
-    "UE 2 NPC small encounters.md",
-    "to do.md"
+    "==Game Design and Development Tools==.md"
   ]
 }
