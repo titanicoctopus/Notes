@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First valley.md",
+                "file": "-==to do==-.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First valley.md",
+                "file": "-==to do==-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +127,7 @@
   },
   "active": "e71fe99a8edfe037",
   "lastOpenFiles": [
+    "First valley.md",
     "Lore.md",
     "==Project UNEXPLORED 2==.md",
     "-==WORK==-.md",
@@ -135,7 +136,6 @@
     "Game Design.md",
     "Game Design.md",
     "UE 2 NPC small encounters.md",
-    "Untitled.canvas",
-    "random notepad.md"
+    "Untitled.canvas"
   ]
 }

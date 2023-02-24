@@ -1,5 +1,11 @@
 #Work
+24-02-2023
+--
 
+HKU
+- recommendations schrijven voor
+	- Em
+	- Tatum
 16-01-2023
 --
 [[==Project UNEXPLORED 2==]]
