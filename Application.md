@@ -6,6 +6,7 @@ Ik zou graag in aanmerking komen voor een positie als lid van het kernteam van h
 
 Ik ben nu jaren werkzaam als onderzoeker, docent en ontwerper.
 En hiervoor ook als kunstenaar, ondernemer, vormgever en adviseur.
+
 Deze jaren aan ervaring heeft mij laten ontwikkelen als een 
 
 Nu ik zo lang mijzelf dienstbaar heb gesteld aan anderen, realiseerde ik dat ik het  het volgen van een eigen ideeeen mis. 
