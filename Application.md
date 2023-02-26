@@ -2,14 +2,9 @@
 
 Beste Richard en Niels,
 
-Ik kom graag in aanmerking voor een positie als lid van het kernteam van het logic lab.
-Nu ik ruim 10 jaar werk als onderzoeker, docent en ontwerper me dienstbaar heb gesteld aan anderen 
-(En hiervoor  als kunstenaar, ondernemer, vormgever en adviseur) 
-
-Deze jaren aan ervaring heeft mij laten ontwikkelen als een 
-
-Nu ik zo lang mijzelf dienstbaar heb gesteld aan anderen, 
-
+Ik kom graag in aanmerking voor een positie als lid van het kernteam van LogicLab.
+Nu ik ruim 10 jaar werk als onderzoeker, docent en ontwerper (en hiervoor als kunstenaar, ondernemer, vormgever en adviseur) mij dienstbaar heb gesteld aan anderen realiseer ik mij dat ik het mis om mijn eigen ideeen te volgen.
+Ik werk al aut
 Nav werken aan unexplored 2, wil ik mijzelf verder ontwikkelen als een autonoom game designer. 
 
 In welke maakonderzoeksvraagstuk ben je geinteresseerd?
