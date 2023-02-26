@@ -13,7 +13,7 @@ Welke culturele podia zijn geschikt?
 Hoe kun je dit het beste aanpakken als professionele maker en student? 
 
 Ik hoop dat dit onderzoek mij vrije ruimte biedt om een volledig autonoom project uit te voeren.
-Mijn intentie is om studeten en collega's in het proces te betrekken als klankbord en wellicht als partners. De gedeelde kennis uit het onderzoek kan helpen om hun eigen` artistieke kwaliteiten te ontplooien.
+Mijn intentie is om studeten en collega's in het proces te betrekken als klankbord en wellicht als partners. De gedeelde kennis uit het onderzoek kan helpen om hun eigen artistieke kwaliteiten te ontplooien.
 
 Een belangrijk onderdeel van het onderzoek is gesprekken met studenten, docenten en mensen uit het veld. Die gesprekken kan iedereen bijwonen, studenten, collega's maar ook geinteresseerden van buiten. Die gespreksessies kun je ook opnemen en online delen.
 Met de inzichten ervan kan je workshops voor studenten en makers organiseren. Zo'n workshop kan op de HKU plaatsvinden maar ook in culturele instellingen (bv het nieuwe instituut, centraal museum) en op events (a-maze in berlijn?) Je kan ook de ontwikkelde game tonen. 
