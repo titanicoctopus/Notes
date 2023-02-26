@@ -16,8 +16,8 @@ Hoe kun je dit het beste aanpakken als professionele maker en student?
 *Wat hoop je dat het onderzoek zowel jouw persoonlijk alsmede onze school zal brengen?*
 
 Ik hoop dat dit onderzoek vrije ruimte biedt om een volledig autonoom project uit te voeren, wat een nieuwe richting aan mijn carriere geeft.
-Dit geeft inzicht in hoe je in games artisticiteit/kunstenaarschap bereikt en hoe/wat dit van toepassing is voor mij en de studenten en de school.
- 
+Mijn intentie is om studeten en collega's in het proces te betrekken als klankbord en wellicht als partners. De gedeelde kennis uit het onderzoek kan helpen om hun eigen` artistieke kwaliteiten te ontplooien.
+
 *Hoe en waar denk je de uitkomsten van het onderzoek te dissemineren?*
 
 Een belangrijk onderdeel van het onderzoek is gesprekken met studenten, docenten en mensen uit het veld. Die gesprekken kan iedereen bijwonen, studenten, collega's maar ook geinteresseerden van buiten. Die gespreksessies kun je ook opnemen en online delen.
