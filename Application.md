@@ -32,4 +32,5 @@ Anderzijds zou een ontwikkelde game getoond kunnen worden
 ---
 Beste Karen en Robert-Jan,
 
-Bij deze bied ik mijzelf aan om mee te doen aan curriculum-commissie kandidaat
+Bij deze bied ik mijzelf aan om mee te doen aan de curriculum-commissie.
+
