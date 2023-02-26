@@ -14,7 +14,7 @@ Nav werken aan unexplored 2, wil ik mijzelf verder ontwikkelen als een autonoom 
 
 In welke maakonderzoeksvraagstuk ben je geinteresseerd?
 Games als kunst? Hoe breng je dit het beste in het voetlicht? Op welke wijze kun je dit het beste financieren? Verdienmodel? Promotie?
-Hoe kun je dit het beste aanpakken als professionele maker en student?
+Hoe kun je dit het beste aanpakken als professionele maker en student? 
 
 
 
