@@ -17,7 +17,7 @@ Inzicht in hoe je in games artisticiteit/kunstenaarschap bereikt en hoe/wat dit 
  
 *Hoe en waar denk je de uitkomsten van het onderzoek te dissemineren?*
 
-Een belangrijk onderdeel van het onderzoek is interviews met studenten, docenten en mensen uit het veld. Deze gesprekken kunnen bijgewoond worden door iedereen die we op de HKU hosten.  De interviews zou kunnen worden opgenomen en online gedeeld worden.
+Een belangrijk onderdeel van het onderzoek is interviews met studenten, docenten en mensen uit het veld. Die gesprekken kan iedereen bijwonen, studenten, collega's maar ook geinteresseerden van buiten. De interviews kun je ook opnemen en online delen.
 Met de inzichten van de gesprekken kunnen workshops voor studetenten en makers georganiseerd worden die we op tevens op de hku kunnen houden, maar ook in culturele instellingen (bv het nieuwe instituut, centraal museum) en op events (a-maze in berlijn?)
 Anderzijds zou een ontwikkelde game getoond kunnen worden 
 
