@@ -13,6 +13,7 @@ Mis het volgen van een eigen idee en deze te realiseren.
 Nav werken aan unexplored 2, wil ik mijzelf verder ontwikkelen als een autonoom game designer. 
 
 In welke maakonderzoeksvraagstuk ben je geinteresseerd?
+Games als kunst? Hoe breng je dit het beste in het voetlicht? Op welke wijze
 
 
 What hoop je dat het onderzoek zowel jouw persoonlijk alsmede onze school zal brengen?
