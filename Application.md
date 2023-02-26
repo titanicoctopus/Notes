@@ -21,13 +21,15 @@ Hoe kun je dit het beste aanpakken als professionele maker en student?
 
 What hoop je dat het onderzoek zowel jouw persoonlijk alsmede onze school zal brengen?
 
-Vrije ruimte om een volledig autonoom project te doen die een nieuwe richting aan mijn carriere kan geven. Inzichten in hoe je artisticiteit / kunstenaarschap 
-
-Kennis en inzicht over hoe je op een verantwoorde wijze zo'n project kunt opzetten. 
-Vaardigheden 
-
-
+Vrije ruimte om een volledig autonoom project te doen die een nieuwe richting aan mijn carriere kan geven. 
+Inzichten in hoe je artisticiteit / kunstenaarschap met games kunt bereiken die van toepassing is voor niet alleen mij, maar ook voor studenten en de school.
+ 
 Hoe en waar denk je de uitkomsten van het onderzoek te dissemineren?
 Een belangrijk onderdeel van het onderzoek zal het houden zijn van Interviews met studenten, docenten en mensen uit het veld. Deze gesprekken kunnen bijgewoond worden door iedereen die we op de HKU hosten.  De interviews zou kunnen worden opgenomen en online gedeeld worden.
 Met de inzichten van de gesprekken kunnen workshops voor studetenten en makers georganiseerd worden die we op tevens op de hku kunnen houden, maar ook in culturele instellingen (bv het nieuwe instituut, centraal museum) en op events (a-maze in berlijn?)
 Anderzijds zou een ontwikkelde game getoond kunnen worden 
+
+---
+Beste Karen en Robert-Jan,
+
+Bij deze bied ik mijzelf aan om mee te doen aan curriculum-commissie kandidaat
