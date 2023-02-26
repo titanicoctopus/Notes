@@ -34,3 +34,6 @@ Beste Karen en Robert-Jan,
 
 Bij deze bied ik mijzelf aan om mee te doen aan de curriculum-commissie.
 
+Met de nieuwe richting die we gaan in slaan bij GI denk ik dat mijn meer dan 10 jaar ervaring bij de HKU en de jaren ervaring bij de HvA als onderzoeker en docent een meerwaarde kan bieden bij het vormen van nieuw onderwijs. 
+
+Daarnaast is mijn ervaring als ontwerper in de toepassingsgebieden van serious games, kunst en
