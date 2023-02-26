@@ -27,13 +27,11 @@ Beste Karen en Robert-Jan,
 
 Ik denk graag met jullie mee over het toekomstige GI curriculum.
 
-De nieuwe richting die wij  ingaan bij GI vind ik erg spannend. Als docent bij GI zie ik dit als een manier om onszelf verder te onderscheiden van andere opleidingen en kunnen we een unieke rol  spelende ontwikkelin vakgebied en het medium zich kan ontwikkelen.  
+De nieuwe richting die wij ingaan bij GI vind ik erg spannend. Als docent bij GI zie ik dit als een manier om onszelf verder te onderscheiden van andere opleidingen en kunnen we een unieke rol  spelen in de ontwikkeling van het vakgebied.
 
-Ik denk dat mijn meer dan 10 jaar ervaring bij de HKU en de jaren ervaring bij de HvA als onderzoeker en docent een meerwaarde kan bieden bij het vormen van nieuw onderwijs die studenten een solide . 
+Met ruim 10 jaar ervaring bij de HKU en de HvA als onderzoeker en docent kan ik een meerwaarde bieden bij het vormen van nieuw onderwijs. Met mijn ervaring als ontwerper in de toepassingsgebieden van serious games/gamification, kunst, indie games en onderzoek kan handig zijn bij het afstemmen van onderwijs aan de praktijk.
 
-Daarnaast zal mijn ervaring als ontwerper in de toepassingsgebieden van serious games / gamification, kunst, indie games en onderzoek handig zijn bij het afstemmen van het onderwijs naar de praktijk.
-
-Ik hoop jullie hierover verder te kunnen spreken.
+Ik hoop hier samen met jullie verder o
 
 Met vriendelijke groeten,
 
