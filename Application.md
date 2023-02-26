@@ -5,16 +5,15 @@ Beste Richard en Niels,
 Ik kom graag in aanmerking voor een positie als lid van het kernteam van LogicLab.
 Nu ik ruim 10 jaar werk als onderzoeker, docent en ontwerper (en hiervoor als kunstenaar, ondernemer, vormgever en adviseur) en mij dienstbaar heb gesteld aan anderen realiseer ik mij dat ik het mis om mijn eigen ideeen te volgen. Momenteel werk ik als autonoom game designer aan de game Unexplored 2 en ik wil me daarin verder ontwikkelen. 
 
-In welke maakonderzoeksvraagstuk ben je geinteresseerd?
+*In welke maakonderzoeksvraagstuk ben je geinteresseerd?*
 
-Ik ben geinteresseerd om te onderzoeken hoe je games als kunst kunt gaan maken en hoe je dit verantwoord zou kunnen doen. Verdere vragen die er dieper op in gaan zijn welke onderwerpen en thema's zijn geschikt? Hoe breng je dit het beste in het voetlicht? Op welke wijze kun je dit het beste financieren? Welk cultureel podia zijn geschikt?
+Kun je bijvoorbeeld games als kunst gaan maken en hoe doe je dat verantwoord? Welke onderwerpen en thema's zijn daarvoor geschikt? Hoe breng je dit het beste in het voetlicht? Op welke wijze kun je dit het beste financieren? Welke culturele podia zijn geschikt?
 Hoe kun je dit het beste aanpakken als professionele maker en student? 
 
+*Wat hoop je dat het onderzoek zowel jouw persoonlijk alsmede onze school zal brengen?*
 
-What hoop je dat het onderzoek zowel jouw persoonlijk alsmede onze school zal brengen?
-
-Vrije ruimte om een volledig autonoom project te doen die een nieuwe richting aan mijn carriere kan geven. 
-Inzichten in hoe je artisticiteit / kunstenaarschap met games kunt bereiken die van toepassing is voor niet alleen mij, maar ook voor studenten en de school.
+Vrije ruimte om een volledig autonoom project te doen dat een nieuwe richting aan mijn carriere kan geven. 
+Inzicht in hoe je artisticiteit/kunstenaarschap met games kunt bereiken die van toepassing is voor niet alleen mij, maar ook voor studenten en de school.
  
 Hoe en waar denk je de uitkomsten van het onderzoek te dissemineren?
 Een belangrijk onderdeel van het onderzoek zal het houden zijn van Interviews met studenten, docenten en mensen uit het veld. Deze gesprekken kunnen bijgewoond worden door iedereen die we op de HKU hosten.  De interviews zou kunnen worden opgenomen en online gedeeld worden.
