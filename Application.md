@@ -5,8 +5,8 @@ Beste Richard en Niels,
 Ik kom graag in aanmerking voor een positie als lid van het kernteam van LogicLab.
 Nu ik ruim 10 jaar werk als onderzoeker, docent en ontwerper (en hiervoor als kunstenaar, ondernemer, vormgever en adviseur) en mij dienstbaar heb gesteld aan anderen realiseer ik mij dat ik het mis om mijn eigen ideeen te volgen. Momenteel werk ik als autonoom game designer aan de game Unexplored 2 en ik wil me daarin verder ontwikkelen. 
 
-Vragen die ik zou onderzoeken: 
-Kun je bijvoorbeeld games als kunst gaan maken en hoe doe je dat verantwoord? 
+Mijn onderzoeksvragen kunnen zijn: 
+Kun je games als kunst gaan maken en hoe doe je dat verantwoord? 
 Welke onderwerpen en thema's zijn daarvoor geschikt? 
 Hoe breng je dit het beste in het voetlicht? 
 Op welke wijze kun je dit het beste financieren? 
@@ -15,8 +15,8 @@ Hoe kun je dit het beste aanpakken als professionele maker en student?
 
 *Wat hoop je dat het onderzoek zowel jouw persoonlijk alsmede onze school zal brengen?*
 
-Vrije ruimte om een volledig autonoom project uit te voeren dat een nieuwe richting aan mijn carriere kan geven. 
-Inzicht in hoe je in games artisticiteit/kunstenaarschap bereikt en hoe/wat dit van toepassing is voor mij en de studenten en de school.
+Ik hoop dat dit onderzoek vrije ruimte biedt om een volledig autonoom project uit te voeren, wat een nieuwe richting aan mijn carriere geeft.
+Dit geeft inzicht in hoe je in games artisticiteit/kunstenaarschap bereikt en hoe/wat dit van toepassing is voor mij en de studenten en de school.
  
 *Hoe en waar denk je de uitkomsten van het onderzoek te dissemineren?*
 
