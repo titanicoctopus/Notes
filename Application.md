@@ -15,12 +15,14 @@ Nav werken aan unexplored 2, wil ik mijzelf verder ontwikkelen als een autonoom 
 
 In welke maakonderzoeksvraagstuk ben je geinteresseerd?
 
-Ik ben geinteresseerd om te onderzoeken hoe je games als kunst kunt gaan maken en hoe je dit verantwoord zou kunnen doen. Verdere vragen die er dieper op in gaan zijn welke onderwerpen en thema's zijn geschikt? Hoe breng je dit het beste in het voetlicht? Op welke wijze kun je dit het beste financieren? Hoe 
+Ik ben geinteresseerd om te onderzoeken hoe je games als kunst kunt gaan maken en hoe je dit verantwoord zou kunnen doen. Verdere vragen die er dieper op in gaan zijn welke onderwerpen en thema's zijn geschikt? Hoe breng je dit het beste in het voetlicht? Op welke wijze kun je dit het beste financieren? Welk cultureel podia zijn geschikt?
 Hoe kun je dit het beste aanpakken als professionele maker en student? 
 
 
-
 What hoop je dat het onderzoek zowel jouw persoonlijk alsmede onze school zal brengen?
+
+E
+
 Kennis en inzicht over hoe je op een verantwoorde wijze zo'n project kunt opzetten. 
 Vaardigheden 
 
