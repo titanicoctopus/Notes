@@ -1,6 +1,6 @@
 #hku #work 
 
-Beste comissieleden,
+Beste Richard en Niels,
 
 Ik zou graag in aanmerking komen voor een positie als lid van het kernteam van het logic lab.
 
@@ -34,9 +34,14 @@ Beste Karen en Robert-Jan,
 
 Bij deze bied ik mijzelf aan om mee te doen aan de curriculum-commissie.
 
-De nieuwe richting die wij zullen ingaan bij GI ervaar ik als heel erg spannend. Als docent bij GI zie ik dit niet alleen als een manier om onszelf verder te onderscheiden van bestaande opleidingen, maar ook om een unieke rol te spelen in hoe het vakgebied en het medium zich gaat ontwikkelen.  
+De nieuwe richting die wij zullen ingaan bij GI ervaar ik als heel erg spannend. Als docent bij GI zie ik dit niet alleen als een manier om onszelf verder te onderscheiden van bestaande opleidingen, maar ook om een unieke rol te spelen in hoe het vakgebied en het medium zich kan ontwikkelen.  
 
-Ik denk dat mijn meer dan 10 jaar ervaring bij de HKU en de jaren ervaring bij de HvA als onderzoeker en docent een meerwaarde kan bieden bij het vormen van nieuw onderwijs. 
+Ik denk dat mijn meer dan 10 jaar ervaring bij de HKU en de jaren ervaring bij de HvA als onderzoeker en docent een meerwaarde kan bieden bij het vormen van nieuw onderwijs die studenten een solide . 
 
 Daarnaast zal mijn ervaring als ontwerper in de toepassingsgebieden van serious games / gamification, kunst, indie games en onderzoek handig zijn bij het afstemmen van het onderwijs naar de praktijk.
 
+Ik hoop jullie hierover verder te kunnen spreken.
+
+Met vriendelijke groeten,
+
+Karel
