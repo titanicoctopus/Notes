@@ -2,13 +2,12 @@
 
 Beste comissieleden,
 
-Ik wil deze kans benutten, 
+Ik zou graag in aanmerking komen voor een positie als lid van het kernteam van het logic lab.
 
-Jaren werkzaam als onderzoeker, docent en ontwerper.
-Voorheen ook als kunstenaar, ondernemer, vormgever, adviseur.
-
-Jaren dienstbaar zijn aan anderen. 
-Mis het volgen van een eigen idee en deze te realiseren.
+Ik ben nu jaren werkzaam als onderzoeker, docent en ontwerper.
+En hiervoor ook als kunstenaar, ondernemer, vormgever en adviseur.
+Nu ik zo lang mijzelf dienstbaar heb gesteld aan anderen. 
+Realiseerde ik dat ik het  het volgen van een eigen ideeeen mis. 
 
 Nav werken aan unexplored 2, wil ik mijzelf verder ontwikkelen als een autonoom game designer. 
 
