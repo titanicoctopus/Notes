@@ -25,6 +25,6 @@ Vaardigheden
 
 
 Hoe en waar denk je de uitkomsten van het onderzoek te dissemineren?
-Een belangrijk onderdeel van het onderzoek zal het houden zijn van Interviews met studenten, docenten en mensen uit het veld. Deze gesprekken kunnen bijgewoond worden door iedereen die we op de HKU hosten.  De interviews zou worden opgenomen en online gedeeld worden.
-Workshops voor studetenten en makers die we op de hku kunnen organiseren, maar ook in culturele instellingen (bv het nieuwe instituut, centraal museum) en events (a-maze in berlijn?)
+Een belangrijk onderdeel van het onderzoek zal het houden zijn van Interviews met studenten, docenten en mensen uit het veld. Deze gesprekken kunnen bijgewoond worden door iedereen die we op de HKU hosten.  De interviews zou kunnen worden opgenomen en online gedeeld worden.
+Met de inzichten van de gesprekken kunnen workshops voor studetenten en makers georganiseerd worden die we op tevens op de hku kunnen houden, maar ook in culturele instellingen (bv het nieuwe instituut, centraal museum) en op events (a-maze in berlijn?)
 
