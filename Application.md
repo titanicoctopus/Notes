@@ -20,7 +20,8 @@ Met de inzichten ervan kan je workshops voor studenten en makers organiseren. Zo
 
 Ik kijk er naar uit om hier samen verder over te praten.
 
-
+Met vriendelijke groeten,
+Karel 
 
 ---
 Beste Karen en Robert-Jan,
@@ -31,8 +32,7 @@ De nieuwe richting die wij ingaan bij GI vind ik erg spannend. Als docent bij GI
 
 Met ruim 10 jaar ervaring bij de HKU en de HvA als onderzoeker en docent kan ik een meerwaarde bieden bij het vormen van nieuw onderwijs. Met mijn ervaring als ontwerper in de toepassingsgebieden van serious games/gamification, kunst, indie games en onderzoek kan handig zijn bij het afstemmen van onderwijs aan de praktijk.
 
-Ik hoop hier samen met jullie verder o
+Ik hoop hier samen met jullie verder over te praten.
 
 Met vriendelijke groeten,
-
 Karel
