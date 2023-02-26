@@ -21,7 +21,7 @@ Hoe kun je dit het beste aanpakken als professionele maker en student?
 
 What hoop je dat het onderzoek zowel jouw persoonlijk alsmede onze school zal brengen?
 
-E
+Vrije ruimte om een volledig autonoom project te doen die een nieuwe richting aan mijn carriere kan geven. Inzichten in hoe je artisticiteit / kunstenaarschap 
 
 Kennis en inzicht over hoe je op een verantwoorde wijze zo'n project kunt opzetten. 
 Vaardigheden 
