@@ -1,8 +1,10 @@
 #work #unexplored 
 [[Lore]]
 
+- a Primal Mural
+- Abstract shapes painted with vibrant pigments on the stone form dynamic intricate patterns. Elemental magic permeates the piece adding an aesthetic dimension that stirs primal emotions. Intuitively you begin to recognize meaning within the patterns. With a little push understanding should not be far away.
+
 - The first valley is the first place made by raaf with the prime elemental and their forge.
-	- Abstract shapes forming dynamic patterns are painted with vibrant pigments on the stone. It's profound age adds an aesthetic dimension that stirs primal emotions. Intuitively you begin to recognize meaning within the patterns. With a little push understanding should not be far away.
 	- The mural has captured the moment when Raaf and the Prime Elemental smoothed out the last piece of proto material into the First Valley. Raaf was happy and satisfied that they accomplished such profound work in the amount of time. The Prime Elemental was worried about what was accomplished in the amount of time.
 - Raaf appointed the elders to oversee further creation.
 	- Abstract shapes forming recurring patterns are painted on the stone. The patterns guide the eyes throughout the whole mural evoking vague impressions from a time in the distant past. 
@@ -27,3 +29,38 @@
 - Some folk left later to help raaf to prepare becoming the raafi
 - Some folk went their own way and became the marang
 - One stayed to protect what has been abandoned
+
+- The first raafi lived under the prime elemental forge
+	- they tried to follow the teachings and decrees raaf would give them
+	- the lived very simple and used oral traditions to transfer knowledge
+	- rooms
+		- communion room
+			- a room dedicated to communicate with raaf
+				- a statue of raaf
+				- carpets surrounding the statue to sit on
+		- bath
+			- a room to clean up and meditate
+				- a bath
+				- stone vases
+		- auditorium
+			- A large room with evenly spaced carpets directed towards a podium.
+				- a chest on the podium
+					- Musical instrument
+		- garden
+			- A room with plants in planters.
+				- Planter
+					- Tree
+					- shrub
+					- snaproot
+					- thicket
+		- spellcraft atelier
+			- A large room with random incantations plCed evenly throughout the room. the raafi used this to figure out magic.
+				- Incantations
+				- prototype servitor
+		- sleeping chambers
+			- Large rooms where raafi rested
+				- Sleeping mats
+				- vases against the walls
+				- chests against the walls
+		
+			
