@@ -6,8 +6,9 @@ Ik zou graag in aanmerking komen voor een positie als lid van het kernteam van h
 
 Ik ben nu jaren werkzaam als onderzoeker, docent en ontwerper.
 En hiervoor ook als kunstenaar, ondernemer, vormgever en adviseur.
-Nu ik zo lang mijzelf dienstbaar heb gesteld aan anderen. 
-Realiseerde ik dat ik het  het volgen van een eigen ideeeen mis. 
+Deze jaren aan ervaring heeft mij laten ontwikkelen als een 
+
+Nu ik zo lang mijzelf dienstbaar heb gesteld aan anderen, realiseerde ik dat ik het  het volgen van een eigen ideeeen mis. 
 
 Nav werken aan unexplored 2, wil ik mijzelf verder ontwikkelen als een autonoom game designer. 
 
