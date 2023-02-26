@@ -14,7 +14,8 @@ Nu ik zo lang mijzelf dienstbaar heb gesteld aan anderen, realiseerde ik dat ik 
 Nav werken aan unexplored 2, wil ik mijzelf verder ontwikkelen als een autonoom game designer. 
 
 In welke maakonderzoeksvraagstuk ben je geinteresseerd?
-Games als kunst? Hoe breng je dit het beste in het voetlicht? Op welke wijze kun je dit het beste financieren? Verdienmodel? Promotie?
+
+Ik ben geinteresseerd om te onderzoeken hoe je games als kunst kunt gaan maken en hoe je dit verantwoord zou kunnen doen. Verdere vragen die er dieper op in gaan zijn welke onderwerpen en thema's zijn geschikt? Hoe breng je dit het beste in het voetlicht? Op welke wijze kun je dit het beste financieren? Hoe 
 Hoe kun je dit het beste aanpakken als professionele maker en student? 
 
 
