@@ -35,9 +35,11 @@
             "id": "f09b62b9d633639b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "-==to do==-.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -137,11 +139,11 @@
   },
   "active": "f09b62b9d633639b",
   "lastOpenFiles": [
+    "==Project UNEXPLORED 2==.md",
     "Yertles.md",
     "Application.md",
     "First valley.md",
     "Lore.md",
-    "==Project UNEXPLORED 2==.md",
     "-==WORK==-.md",
     "-==to do==-.md",
     "Unexplored RPG.md",
