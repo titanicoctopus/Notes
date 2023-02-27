@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application.md",
+                "file": "-==to do==-.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application.md",
+                "file": "-==to do==-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,17 @@
   },
   "active": "f09b62b9d633639b",
   "lastOpenFiles": [
-    "Hku 2022-2023.md",
-    "-==WORK==-.md",
-    "Unexplored RPG.md",
-    "-==to do==-.md",
-    "Game Design.md",
+    "Yertles.md",
+    "Application.md",
+    "First valley.md",
+    "Lore.md",
     "==Project UNEXPLORED 2==.md",
+    "-==WORK==-.md",
+    "-==to do==-.md",
+    "Unexplored RPG.md",
+    "Game Design.md",
+    "Game Design.md",
     "UE 2 NPC small encounters.md",
-    "Untitled.canvas",
-    "random notepad.md",
-    "==WORK==.md"
+    "Untitled.canvas"
   ]
 }
