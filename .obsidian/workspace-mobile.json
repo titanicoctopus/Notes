@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First valley.md",
+                "file": "Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "First valley.md",
+            "file": "Application.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -88,12 +88,26 @@
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
-    "Lore.md",
-    "==Project UNEXPLORED 2==.md",
+    "Hku 2022-2023.md",
+    "Application.md",
     "-==WORK==-.md",
     "-==to do==-.md",
+    "First valley.md",
+    "UE2 work files.md",
+    "Yertles.md",
+    "==Project UNEXPLORED 2==.md",
+    "Lore.md",
     "Oracle tricks.md",
     "World weavers.md",
     "Gods of creation.md",
