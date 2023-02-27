@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f09b62b9d633639b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +135,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e71fe99a8edfe037",
+  "active": "f09b62b9d633639b",
   "lastOpenFiles": [
     "First valley.md",
     "Lore.md",
