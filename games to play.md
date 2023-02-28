@@ -118,6 +118,10 @@ Dr Slump (translation), action adventure
 - [ ] Got it
 - [ ] Played it
 
+Ganbare Goemon: Uchuu Kaizoku Akogingu
+- [ ] Got it
+- [ ] Played it
+
 
 
 PS2
