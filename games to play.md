@@ -122,7 +122,13 @@ Ganbare Goemon: Uchuu Kaizoku Akogingu
 - [ ] Got it
 - [ ] Played it
 
+iS: Internal Section
 
+Medarot R
+
+Mizzurna Falls
+
+Langrisser IV
 
 PS2
 --
