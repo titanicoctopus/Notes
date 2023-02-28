@@ -3,6 +3,26 @@
 27-02-2023
 --
 
+- [ ] Magic detected icon
+- [ ] Key detected icon
+kleur? vorm?
+
+- [ ] Yertle actor
+- [ ] Yertle actortable
+
+- [ ] Room definitions
+		wat er in staat
+		assets
+
+- [ ] Mosaic plekken toewijzen
+		4 kamers 
+			entrance level: 1 en 2e courtyard
+			living quarters: 1e grote kamer - 2e grote kamer (boss room) // gallery
+- [ ] Mosaic prefabs maken
+- [x] Mosaic fortune teksten schrijven
+- [x] Mosaic fortune teksten in de game zetten
+- [ ] courtyard mural text 
+
 
 24-02-2023
 --
@@ -11,6 +31,7 @@ HKU
 - recommendations schrijven voor
 	- Em
 	- Tatum
+
 16-01-2023
 --
 [[==Project UNEXPLORED 2==]]
