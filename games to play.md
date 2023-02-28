@@ -3,7 +3,7 @@
 
 
 Arcade
-
+--
 Riot: Dynamic Run'n gun shooter
 - [x] Got it
 - [ ] Played it
@@ -21,7 +21,7 @@ Guardian Force: shmup runngun
 - [ ] Played it                                                                                                                                                                                                                                                                                                                                                                                                                           
 
 PC
-
+--
 Sideline: PC Dos-shooter
 - [x] Got it
 - [ ] Played it
@@ -43,19 +43,19 @@ Jackmove, western sci fi jrpg
 - [ ] Played it
 
 MSX
-
+--
 Space Manbow: Gradius Style Shmup
 - [x] Got it
 - [ ] Played it
 
 NES
-
+--
 Over Horizon: Shmup
 - [x] Got it
 - [ ] Played it
 
 Switch
-
+--
 Raincode, visual novel
 - [ ] Got it
 - [ ] Played it
@@ -73,7 +73,7 @@ Zelda, Tears of the Kingdom
 - [ ] Played it
 
 Fire Emblem Engage
-- [ ] Got it
+- [x] Got it
 - [ ] Played it
 
 Front Mission 1st
@@ -93,5 +93,11 @@ Front Mission 3
 - [ ] Played it
 
 Various Daylife
+- [ ] Got it
+- [ ] Played it
+
+PSX
+--
+Race de Go, Rc race game
 - [ ] Got it
 - [ ] Played it
