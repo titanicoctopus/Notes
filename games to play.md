@@ -122,13 +122,37 @@ Ganbare Goemon: Uchuu Kaizoku Akogingu
 - [ ] Got it
 - [ ] Played it
 
-iS: Internal Section
+iS: Internal Section, abstract tunnel shooter
+- [ ] Got it
+- [ ] Played it
 
-Medarot R
+Medarot R, pokemon rpg
+- [ ] Got it
+- [ ] Played it
 
-Mizzurna Falls
+Mizzurna Falls, mystery adventure
+- [ ] Got it
+- [ ] Played it
 
-Langrisser IV
+Langrisser IV, turnbased tactics
+- [ ] Got it
+- [ ] Played it
+
+Policenauts, visual novel
+- [ ] Got it
+- [ ] Played it
+
+Racing Lagoon (Prologue), carPG
+- [ ] Got it
+- [ ] Played it
+
+Remote Control Dandy, big robot control
+- [ ] Got it
+- [ ] Played it
+
+TearRing Saga, turn-based tactics
+- [ ] Got it
+- [ ] Played it
 
 PS2
 --
