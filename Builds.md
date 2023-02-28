@@ -10,3 +10,8 @@ shield.well-sigFlow-sigForm
 Shield, Flowing, Shell x6
 clubThrowing.well-sigFlow-sigForm
 Throwing Club, returning, shattering
+
+rod.well-sigFlame-sigFlame-sigFlame
+Rod, Inferno Burst x 100
+
+
