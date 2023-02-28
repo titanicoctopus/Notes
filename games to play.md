@@ -101,3 +101,24 @@ PSX
 Race de Go, Rc race game
 - [ ] Got it
 - [ ] Played it
+
+ChoroQ 3 (translation), racing game 
+- [ ] Got it
+- [ ] Played it
+
+Asuncia (translation), procgen rpg
+- [ ] Got it
+- [ ] Played it
+
+Brave Prove (translation), action rpg
+- [ ] Got it
+- [ ] Played it
+
+Dr Slump (translation), action adventure
+- [ ] Got it
+- [ ] Played it
+
+
+
+PS2
+--
