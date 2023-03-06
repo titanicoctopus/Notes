@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a222be984e85409",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +147,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f09b62b9d633639b",
+  "active": "5a222be984e85409",
   "lastOpenFiles": [
     "Game Design.md",
     "==Project UNEXPLORED 2==.md",
