@@ -42,11 +42,17 @@ Gameplay
 						
 			- going around them generate things
 				- treasure
-					- 
+					-   Stuff you can collect
+						- knowledge
+						- discovery
+						- stuff
+						- key
 				- challenges
 					- exam
 						- timed challenge
 							- picking up target items 
+				- other challenges
+				- other spaces
 		- a treasure
 	- some have restricted access
 		- they are walled

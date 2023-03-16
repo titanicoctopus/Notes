@@ -19,7 +19,7 @@ Games
 [[World weavers]]
 [[Oracle tricks]]
 [[Unexplored RPG]]
-[[Lifeline]]
+[[Lifeline.io]]
 
 Misc.
 [[games to buy list]]

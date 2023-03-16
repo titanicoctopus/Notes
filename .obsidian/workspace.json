@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lifeline.md",
+                "file": "Lifeline.io.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lifeline.md",
+                "file": "Lifeline.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
