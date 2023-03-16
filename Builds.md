@@ -7,15 +7,18 @@
 Melee
 
 armorChain.well-sigRoot-sigRoot-sigSky
-chain armor (armor 3), Piercing Ward x24, Root Res -2, Magic Res -2
+*chain armor (armor 3), Piercing Ward x24, Root Res -2, Magic Res -2*
+
 armorMetalLamellar.well-sigForm-sigForm-sigForm
-crusader armor  (65% armor 9), Protection (armor 1). unbreakable, ruin, form res -2
+*crusader armor  (65% armor 9), Protection (armor 1). unbreakable, ruin, form res -2
+
 shield.well-sigFlow-sigForm
-Shield, Flowing, Shell x6
+*Shield, Flowing, Shell x6
+
 clubThrowing.well-sigFlow-sigForm
-Throwing Club, returning, shattering
+*Throwing Club, returning, shattering
 
 rod.well-sigFlame-sigFlame-sigFlame
-Rod, Inferno Burst x 100
+*Rod, Inferno Burst x 100
 
 
