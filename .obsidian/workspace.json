@@ -11,8 +11,12 @@
             "id": "15800bf2d9047e19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lifeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lifeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,5 +113,7 @@
     }
   },
   "active": "15800bf2d9047e19",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "-==WORK==-.md"
+  ]
 }
