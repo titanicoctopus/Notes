@@ -27,9 +27,25 @@ Gameplay
 			- They represent key activities in life
 				- work
 				- education
-				- 
+				- hobbies
+				- activities
 			- they have diffent shapes
-			- they attract 
+			- they attract lines
+				- Other lines circle around them too
+					- Some can be moved by others
+						- same age or younger
+					- Others are immovable
+						- mature lines
+							- teachers
+							- parents 
+							- 
+						
+			- going around them generate things
+				- treasure
+				- challenges
+					- exam
+						- timed challenge
+							- picking up target items 
 		- a treasure
 	- some have restricted access
 		- they are walled
