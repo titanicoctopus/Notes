@@ -38,10 +38,11 @@ Gameplay
 						- mature lines
 							- teachers
 							- parents 
-							- 
+							
 						
 			- going around them generate things
 				- treasure
+					- 
 				- challenges
 					- exam
 						- timed challenge
