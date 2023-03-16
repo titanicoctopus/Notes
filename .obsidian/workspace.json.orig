@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "9739bbb188e5aa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de6605954841ab76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f79bd7262af50c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UE2 Issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e71fe99a8edfe037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-==to do==-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f09b62b9d633639b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Builds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+<<<<<<< HEAD
+            "id": "33fd9632b17a0246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "==WORK==.md",
+                "mode": "source",
+                "source": false
+=======
+            "id": "5a222be984e85409",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+>>>>>>> ee59d8beea35894d4e79f25934f14ecfbad881bb
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "067961d5c2058c98",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1b0de4fc2544c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1677a4e70464dc72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "777e22823796a293",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ca5f895277144fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "216075ff683010b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8988d78a7d78e0b2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a1b2bc37d51d4f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Builds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "5a222be984e85409",
+  "lastOpenFiles": [
+    "Game Design.md",
+    "==Project UNEXPLORED 2==.md",
+    "Builds.md",
+    "-==WORK==-.md",
+    "==WORK==.md",
+    "S2 B3 applied games.md",
+    "Hku 2022-2023.md",
+    "==Game Design and Development Tools==.md",
+    "games to play.md",
+    "-==to do==-.md",
+    "Yertles.md",
+    "Application.md",
+    "First valley.md",
+    "Lore.md",
+    "Unexplored RPG.md",
+    "UE 2 NPC small encounters.md",
+    "Untitled.canvas"
+    "Untitled.canvas",
+    "random notepad.md",
+    "==WORK==.md"
+  ]
+}
