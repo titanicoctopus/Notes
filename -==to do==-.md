@@ -1,4 +1,33 @@
 #Work
+20-03-2023
+--
+[[==Project UNEXPLORED 2==]]
+
+- [ ] fill in weapon text
+
+[[Hva]]
+
+- [ ] pgd
+	- [ ] meeting met martijn
+		- [ ] dss
+			- [ ] sla
+			- [ ] coeci
+		- [ ] hbo ict
+			- [ ] .4 fte
+			- [ ] knowledge base team 
+	- [ ] mail vervolg afspraak met judith
+		- [ ] vervolg CoEci 10k of 40k thema
+		- [ ] SLA -> lectoraat?
+	- [ ] inhoud toevoegen
+		- [ ] analyseer malebo doc
+		- [ ] inventariseer wat toegevoegs moet worden
+- [ ] dme: les 5
+	- [ ] voorbereiden
+	- [ ] uitvoeren
+[[Hku 2022-2023]]
+
+- [ ] les 5
+
 
 27-02-2023
 --
