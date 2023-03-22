@@ -1,39 +1,74 @@
 {
   "main": {
-    "id": "5be89e20846a6691",
+    "id": "9739bbb188e5aa9f",
     "type": "split",
     "children": [
       {
-        "id": "a077442ac81290cb",
+        "id": "de6605954841ab76",
         "type": "tabs",
         "children": [
           {
-            "id": "15800bf2d9047e19",
+            "id": "c3f79bd7262af50c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lifeline.io.md",
+                "file": "UE2 Issues.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e71fe99a8edfe037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-==to do==-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f09b62b9d633639b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Builds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a222be984e85409",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "db3ab0fd7e3bf7dd",
+    "id": "067961d5c2058c98",
     "type": "split",
     "children": [
       {
-        "id": "caac1094d6ab3314",
+        "id": "9f1b0de4fc2544c2",
         "type": "tabs",
         "children": [
           {
-            "id": "b9e6b8b8cb6a69e4",
+            "id": "1677a4e70464dc72",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +78,7 @@
             }
           },
           {
-            "id": "41834ea4a52f7e6f",
+            "id": "777e22823796a293",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,15 +99,15 @@
     "width": 300
   },
   "right": {
-    "id": "3c06009dc5217274",
+    "id": "7ca5f895277144fb",
     "type": "split",
     "children": [
       {
-        "id": "f42b33b40f8cd68b",
+        "id": "216075ff683010b8",
         "type": "tabs",
         "children": [
           {
-            "id": "9485b4d077043e32",
+            "id": "8988d78a7d78e0b2",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +115,12 @@
             }
           },
           {
-            "id": "9d81a168005f9dd7",
+            "id": "8a1b2bc37d51d4f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lifeline.io.md",
+                "file": "Builds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,8 +147,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "15800bf2d9047e19",
+  "active": "5a222be984e85409",
   "lastOpenFiles": [
-    "-==WORK==-.md"
+    "Lifeline.io.md",
+    "Game Design.md",
+    "==Project UNEXPLORED 2==.md",
+    "Builds.md",
+    "-==WORK==-.md",
+    "==WORK==.md",
+    "S2 B3 applied games.md",
+    "Hku 2022-2023.md",
+    "==Game Design and Development Tools==.md",
+    "games to play.md",
+    "-==to do==-.md",
+    "Yertles.md",
+    "Application.md",
+    "First valley.md",
+    "Lore.md",
+    "Unexplored RPG.md",
+    "UE 2 NPC small encounters.md",
+    "Untitled.canvas"
   ]
 }
