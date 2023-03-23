@@ -20,11 +20,11 @@
 		- [x] hbo ict
 			- [x] .4 fte
 			- [x] knowledge base team 
-	- [ ] mail vervolg afspraak met judith
+	- [x] mail vervolg afspraak met judith
 		- [ ] vervolg CoEci 10k of 40k thema
 		- [ ] SLA -> lectoraat?
 		- [ ] more icons
-	- [ ] afspraak met walther over hoe de toolkit de 
+	- [x] afspraak met walter over hoe de toolkit de 
 	- [ ] inhoud toevoegen
 		- [ ] analyseer malebo doc
 		- [ ] inventariseer wat toegevoegs moet worden
