@@ -12,23 +12,24 @@
 
 [[Hva]]
 
-- [ ] pgd
-	- [ ] meeting met martijn
-		- [ ] dss
-			- [ ] sla
-			- [ ] coeci
-		- [ ] hbo ict
-			- [ ] .4 fte
-			- [ ] knowledge base team 
+- [x] pgd
+	- [x] meeting met martijn
+		- [x] dss
+			- [x] sla
+			- [x] coeci
+		- [x] hbo ict
+			- [x] .4 fte
+			- [x] knowledge base team 
 	- [ ] mail vervolg afspraak met judith
 		- [ ] vervolg CoEci 10k of 40k thema
 		- [ ] SLA -> lectoraat?
+	- [ ] afspraak met walther over hoe de toolkit de 
 	- [ ] inhoud toevoegen
 		- [ ] analyseer malebo doc
 		- [ ] inventariseer wat toegevoegs moet worden
-- [ ] dme: les 5
-	- [ ] voorbereiden
-	- [ ] uitvoeren
+- [x] dme: les 5
+	- [x] voorbereiden
+	- [x] uitvoeren
 [[Hku 2022-2023]]
 
 - [ ] les 5
