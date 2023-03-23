@@ -23,6 +23,7 @@
 	- [ ] mail vervolg afspraak met judith
 		- [ ] vervolg CoEci 10k of 40k thema
 		- [ ] SLA -> lectoraat?
+		- [ ] more icons
 	- [ ] afspraak met walther over hoe de toolkit de 
 	- [ ] inhoud toevoegen
 		- [ ] analyseer malebo doc
