@@ -2,7 +2,11 @@
 
 27-03-2023
 --
+[[Hva]]
 
+- [ ] afspraak maken met andre over financiele regeling met cmd
+- [ ] simpel plan maken voor cmd studenten voor april
+- [ ] plan bedenken om nicky integraal te betrekken bij project
 
 20-03-2023
 --
