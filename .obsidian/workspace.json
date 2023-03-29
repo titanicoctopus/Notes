@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lifeline.io.md",
+                "file": "-==to do==-.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lifeline.io.md",
+                "file": "-==to do==-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,12 +96,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -114,8 +114,11 @@
   },
   "active": "15800bf2d9047e19",
   "lastOpenFiles": [
+    "-==WORK==-.md",
+    "-==to do==-.md",
+    "==WORK==.md",
+    "Lifeline.io.md",
     "UE2 Notes.md",
-    "23-03-2023 hvA lectoraat meeting.md",
-    "-==WORK==-.md"
+    "23-03-2023 hvA lectoraat meeting.md"
   ]
 }
