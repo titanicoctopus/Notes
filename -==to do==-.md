@@ -5,11 +5,11 @@
 27-03-2023
 --
 [[==Project UNEXPLORED 2==]]
-- [ ] Proposal for game flow & clan hostilities
-- [ ] Magic weapon testing
-- [ ] Weapon testing
-- [ ] 
-
+- [x] Proposal for game flow & clan hostilities
+- [x] Magic weapon testing
+- [x] Weapon testing
+- [x] glaive animations
+- [x] falx update
 
 [[Hva]]
 
@@ -24,6 +24,13 @@
 - [ ] DME les draaien
 - [ ] DME afspraak maken voor volgende week
 
+[[Hku 2022-2023]]
+
+- [ ] solicitatie logic lab
+	- [ ] opstellen talking points
+- [ ] meeting met Tatum
+- [ ] meeting met Malebo
+- [ ] Applied game design les
 
 
 20-03-2023
