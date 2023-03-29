@@ -13,6 +13,10 @@
 - [ ] contact zoeken met martijn hierover
 - [ ] afspraak maken met andre over financiele regeling met cmd
 - [ ] simpel plan maken voor cmd studenten voor april
+- [ ] DME les voorbereiden
+- [ ] DME les draaien
+- [ ] DME afspraak maken voor volgende week
+
 
 
 20-03-2023
@@ -177,7 +181,6 @@ HKU
 
 [[Hku 2022-2023]]
 
-[[==WORK==]]
 19-12-2022
 --
 [[==Project UNEXPLORED 2==]]

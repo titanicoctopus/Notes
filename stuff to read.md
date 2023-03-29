@@ -1,5 +1,5 @@
 #work 
-[[==WORK==]]
+[[-==WORK==-]]
 
 - [ ] Read Simarillion: lore , myth etc.
 	- [ ] buy on sale?
