@@ -1,12 +1,19 @@
 #Work
 
+[[-==WORK==-]]
+
 27-03-2023
 --
 [[Hva]]
 
+- [x] call met walter
+- [ ] call met coline
+- [ ] call met Judith
+- [ ] plan bedenken om nicky integraal te betrekken bij project
+- [ ] contact zoeken met martijn hierover
 - [ ] afspraak maken met andre over financiele regeling met cmd
 - [ ] simpel plan maken voor cmd studenten voor april
-- [ ] plan bedenken om nicky integraal te betrekken bij project
+
 
 20-03-2023
 --
