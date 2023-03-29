@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hours.md",
+                "file": "UE2 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hours.md",
+                "file": "UE2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -114,9 +115,11 @@
   },
   "active": "15800bf2d9047e19",
   "lastOpenFiles": [
+    "==Project UNEXPLORED 2==.md",
+    "UE2 Magic Items.md",
+    "Hours.md",
     "==Project PEEKABOND==.md",
     "-==WORK==-.md",
-    "==Project UNEXPLORED 2==.md",
     "-==to do==-.md",
     "==WORK==.md",
     "stuff to read.md",
