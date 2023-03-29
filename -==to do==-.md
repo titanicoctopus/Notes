@@ -4,6 +4,13 @@
 
 27-03-2023
 --
+[[==Project UNEXPLORED 2==]]
+- [ ] Proposal for game flow & clan hostilities
+- [ ] Magic weapon testing
+- [ ] Weapon testing
+- [ ] 
+
+
 [[Hva]]
 
 - [x] call met walter
@@ -13,7 +20,7 @@
 - [ ] contact zoeken met martijn hierover
 - [ ] afspraak maken met andre over financiele regeling met cmd
 - [ ] simpel plan maken voor cmd studenten voor april
-- [ ] DME les voorbereiden
+- [x] DME les voorbereiden
 - [ ] DME les draaien
 - [ ] DME afspraak maken voor volgende week
 
