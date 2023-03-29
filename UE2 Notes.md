@@ -14,7 +14,9 @@
 			- [ ] Form 2: armor / weapon damage on crit?
 			- [ ] Form 3: disintegrate: destroy weapon / armor
 			- [ ] Root 1: entangle strike
-			- [ ] Root 2: draw spore: gain +1 damage per entangled enemy for x time
+			- [ ] Root 2: draw spore: when power attack kills entangled enemy  with +10 health)gain excellence
+			- [ ] Root 3: Blood sap: on power attack: drain health from entangled opponent
+				- [ ] 
 
 
 17-03-2023
