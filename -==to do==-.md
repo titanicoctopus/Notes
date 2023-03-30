@@ -21,8 +21,8 @@
 - [ ] afspraak maken met andre over financiele regeling met cmd
 - [ ] simpel plan maken voor cmd studenten voor april
 - [x] DME les voorbereiden
-- [ ] DME les draaien
-- [ ] DME afspraak maken voor volgende week
+- [x] DME les draaien
+- [x] DME afspraak maken voor volgende week
 
 [[Hku 2022-2023]]
 
