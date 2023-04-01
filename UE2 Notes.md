@@ -1,5 +1,10 @@
 #work #unexplored 
 
+24-03-2023
+--
+
+
+
 17-03-2023
 --
 Combat
@@ -8,4 +13,4 @@ Combat
 	- [ ] shallow
 		- [ ] tactical inputs are missing
 			- [ ] disruption of status quo
-				- [ ] 
+

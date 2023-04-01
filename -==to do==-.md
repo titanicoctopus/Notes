@@ -1,7 +1,23 @@
 #Work
 
+<<<<<<< HEAD
 27-03-2023
 --
+=======
+[[-==WORK==-]]
+
+27-03-2023
+--
+[[==Project UNEXPLORED 2==]]
+
+- [ ] review weapons
+- [ ] review magic weapon effects
+- [ ] 
+
+[[Hva]]
+
+- [ ] di call met walter over gdtk
+>>>>>>> ef03cfa (synced with android on Sat Mar 25 09:44:07 CET 2023)
 
 
 20-03-2023
