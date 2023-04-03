@@ -9,7 +9,14 @@
 - [ ] Flow return is a very important to have as it off sets a magic weapon's big draw back.
 	- [ ] exchange for another ability: throws hit another target
 	- [ ] ability reserved for a special weapon
-- [ ] Bow
+- [ ] Bows strength is that they can shoot far and quickly, limited use and useless when in melee. 
+	- [ ] quiver could be magical? making the bow more versatile
+		- [ ] equip quiver in other hand
+	- [ ] normal shots and charged shots
+		- [ ] normal shot quick fire
+		- [ ] charged special effect
+			- [ ] cause effects
+				- [ ] 
 
  
 
