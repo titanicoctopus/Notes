@@ -3,7 +3,15 @@
 \
 03-04-2023
 --
-- [ ] magic thrown weapons, due to limited use, should be weapons as tactical openers /  aoe effects which can be used in combo with melee weapons. Cause vulnerable for an extended period of time to hit 2 - 3 
+- [ ] magic thrown weapons, due to limited use, should be weapons as tactical openers /  aoe effects which can be used in combo with melee weapons. 
+	- [ ] Cause vulnerable for an extended period of time to hit 2 - 3 enemies to kill them.
+	- [ ] Incapcitate enemies for an extended period of time to pick off others.
+- [ ] Flow return is a very important to have as it off sets a magic weapon's big draw back.
+	- [ ] exchange for another ability: throws hit another target
+	- [ ] ability reserved for a special weapon
+- [ ] Bow
+
+ 
 
 24-03-2023
 --
