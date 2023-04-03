@@ -12,11 +12,12 @@
 - [ ] Bows strength is that they can shoot far and quickly, limited use and useless when in melee. 
 	- [ ] quiver could be magical? making the bow more versatile
 		- [ ] equip quiver in other hand
-	- [ ] normal shots and charged shots
+	- [ ] normal shots and charged shots combo
 		- [ ] normal shot quick fire
+			- [ ] shots tag enemies
 		- [ ] charged special effect
-			- [ ] cause effects
-				- [ ] 
+			- [ ] cause effect
+				- [ ] aoe
 
  
 
