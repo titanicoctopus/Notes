@@ -43,10 +43,6 @@ Gameplay
 			- going around them generate things
 				- treasure
 					-   Stuff you can collect
-						- knowledge
-						- discovery
-						- stuff
-						- key
 				- challenges
 					- exam
 						- timed challenge
@@ -54,6 +50,12 @@ Gameplay
 				- other challenges
 				- other spaces
 		- a treasure
+			- treasure makes a line move
+			- Treasure represent things we can achieve in the world
+				- knowledge
+				- discovery
+				- stuff
+				- key
 	- some have restricted access
 		- they are walled
 		- they need a key to open it
@@ -64,6 +66,10 @@ UX
 
 UI
 ==
+Controls
+--
+- The player can move in all directions
+	- use joystick
 
 Visuals
 ==

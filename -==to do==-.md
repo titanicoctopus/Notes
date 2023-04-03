@@ -1,14 +1,18 @@
 #Work
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 27-03-2023
 --
 =======
+=======
+>>>>>>> 854cbd32bfcd2125de1e1b3614f4656d6c94c1f1
 [[-==WORK==-]]
 
 27-03-2023
 --
 [[==Project UNEXPLORED 2==]]
+<<<<<<< HEAD
 
 - [ ] review weapons
 - [ ] review magic weapon effects
@@ -18,6 +22,34 @@
 
 - [ ] di call met walter over gdtk
 >>>>>>> ef03cfa (synced with android on Sat Mar 25 09:44:07 CET 2023)
+=======
+- [x] Proposal for game flow & clan hostilities
+- [x] Magic weapon testing
+- [x] Weapon testing
+- [x] glaive animations
+- [x] falx update
+
+[[Hva]]
+
+- [x] call met walter
+- [ ] call met coline
+- [ ] call met Judith
+- [ ] plan bedenken om nicky integraal te betrekken bij project
+- [ ] contact zoeken met martijn hierover
+- [ ] afspraak maken met andre over financiele regeling met cmd
+- [ ] simpel plan maken voor cmd studenten voor april
+- [x] DME les voorbereiden
+- [x] DME les draaien
+- [x] DME afspraak maken voor volgende week
+
+[[Hku 2022-2023]]
+
+- [ ] solicitatie logic lab
+	- [ ] opstellen talking points
+- [ ] meeting met Tatum
+- [ ] meeting met Malebo
+- [ ] Applied game design les
+>>>>>>> 854cbd32bfcd2125de1e1b3614f4656d6c94c1f1
 
 
 20-03-2023
@@ -182,7 +214,6 @@ HKU
 
 [[Hku 2022-2023]]
 
-[[==WORK==]]
 19-12-2022
 --
 [[==Project UNEXPLORED 2==]]

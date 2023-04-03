@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "9739bbb188e5aa9f",
+    "id": "5be89e20846a6691",
     "type": "split",
     "children": [
       {
-        "id": "de6605954841ab76",
+        "id": "a077442ac81290cb",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f79bd7262af50c",
+            "id": "15800bf2d9047e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE2 Issues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e71fe99a8edfe037",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-==to do==-.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f09b62b9d633639b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Builds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a222be984e85409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-==to do==-.md",
+                "file": "UE2 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "067961d5c2058c98",
+    "id": "db3ab0fd7e3bf7dd",
     "type": "split",
     "children": [
       {
-        "id": "9f1b0de4fc2544c2",
+        "id": "caac1094d6ab3314",
         "type": "tabs",
         "children": [
           {
-            "id": "1677a4e70464dc72",
+            "id": "b9e6b8b8cb6a69e4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "777e22823796a293",
+            "id": "41834ea4a52f7e6f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -101,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "7ca5f895277144fb",
+    "id": "3c06009dc5217274",
     "type": "split",
     "children": [
       {
-        "id": "216075ff683010b8",
+        "id": "f42b33b40f8cd68b",
         "type": "tabs",
         "children": [
           {
-            "id": "8988d78a7d78e0b2",
+            "id": "9485b4d077043e32",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -117,12 +80,12 @@
             }
           },
           {
-            "id": "8a1b2bc37d51d4f1",
+            "id": "9d81a168005f9dd7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-==to do==-.md",
+                "file": "UE2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,11 +96,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,27 +113,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5a222be984e85409",
+  "active": "15800bf2d9047e19",
   "lastOpenFiles": [
-    "-==WORK==-.md",
-    "UE2 Notes.md",
-    "23-03-2023 hvA lectoraat meeting.md",
-    "Lifeline.io.md",
-    "Game Design.md",
     "==Project UNEXPLORED 2==.md",
-    "Builds.md",
-    "==WORK==.md",
-    "S2 B3 applied games.md",
-    "Hku 2022-2023.md",
-    "==Game Design and Development Tools==.md",
-    "games to play.md",
+    "UE2 Magic Items.md",
+    "Hours.md",
+    "==Project PEEKABOND==.md",
+    "-==WORK==-.md",
     "-==to do==-.md",
-    "Yertles.md",
-    "Application.md",
-    "First valley.md",
-    "Lore.md",
-    "Unexplored RPG.md",
-    "UE 2 NPC small encounters.md",
-    "Untitled.canvas"
+    "==WORK==.md",
+    "stuff to read.md",
+    "random notepad.md",
+    "Hku 2022-2023.md",
+    "games to play.md",
+    "Lifeline.io.md",
+    "UE2 Notes.md",
+    "23-03-2023 hvA lectoraat meeting.md"
   ]
 }

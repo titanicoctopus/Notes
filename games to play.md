@@ -1,5 +1,5 @@
 #Notwork
-[[==WORK==]]
+[[-==WORK==-]]
 
 
 Arcade
