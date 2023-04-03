@@ -1,6 +1,10 @@
 #work #unexplored 
 
-<<<<<<< HEAD
+\
+03-04-2023
+--
+- [ ] magic thrown weapons, due to limited use, should be weapons as tactical openers /  aoe effects which can be used in combo with melee weapons. Cause vulnerable for an extended period of time to hit 2 - 3 
+
 24-03-2023
 --
 
