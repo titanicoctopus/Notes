@@ -1,21 +1,25 @@
 #Work
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-27-03-2023
---
-=======
-=======
->>>>>>> 854cbd32bfcd2125de1e1b3614f4656d6c94c1f1
+
 [[-==WORK==-]]
+
+03-04-2023
+--
+
+[[==Project UNEXPLORED 2==]]
+- [ ] backgrounds design
+	- [ ] skills
+	- [ ] traits
+- [ ] weapon and magic item testing
+
 
 27-03-2023
 --
 [[==Project UNEXPLORED 2==]]
 <<<<<<< HEAD
 
-- [ ] review weapons
-- [ ] review magic weapon effects
+- [x] review weapons
+- [x] review magic weapon effects
 - [ ] 
 
 [[Hva]]
@@ -32,8 +36,8 @@
 [[Hva]]
 
 - [x] call met walter
-- [ ] call met coline
-- [ ] call met Judith
+- [x] call met coline
+- [x] call met Judith
 - [ ] plan bedenken om nicky integraal te betrekken bij project
 - [ ] contact zoeken met martijn hierover
 - [ ] afspraak maken met andre over financiele regeling met cmd
@@ -70,7 +74,7 @@
 			- [x] knowledge base team 
 	- [x] mail vervolg afspraak met judith
 		- [ ] vervolg CoEci 10k of 40k thema
-		- [ ] SLA -> lectoraat?
+		- [x] SLA -> lectoraat?
 		- [ ] more icons
 	- [x] afspraak met walter over hoe de toolkit de 
 	- [ ] inhoud toevoegen
@@ -81,7 +85,7 @@
 	- [x] uitvoeren
 [[Hku 2022-2023]]
 
-- [ ] les 5
+- [x] les 5
 
 
 27-02-2023
