@@ -5,4 +5,5 @@ It's a magical world where everybody feels home and where they feel a connection
 
 Key qualities
 - Community
+- Magical
 - 
