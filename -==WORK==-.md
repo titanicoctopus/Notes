@@ -21,6 +21,7 @@ Games
 [[Oracle tricks]]
 [[Unexplored RPG]]
 [[Lifeline.io]]
+[[Brabond]]
 
 Misc.
 [[games to buy list]]
