@@ -6,4 +6,16 @@ It's a magical world where everybody feels home and where they feel a connection
 Key qualities
 - Community
 - Magical
+- Sharing
+
+
+Fishing
+==
+
+Summary
+--
+A game about fishing for the right set of fish. Use the right bait to 
+
+Gameplay
+--
 - 
