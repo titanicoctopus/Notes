@@ -14,7 +14,7 @@ Fishing
 
 Summary
 --
-A game about fishing for the right set of fish. Use the right bait to 
+A game about fishing for the right set of fish. Use the right bait to catch fish that you want. 
 
 Gameplay
 --
