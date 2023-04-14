@@ -1,6 +1,10 @@
 #work #unexplored 
 
-\
+14-04-2023
+--
+
+- [ ] Ter herinnering: balanced quality upgrade beschrijft 20% kortere cooldown. Tekst aanpassen
+- [ ] storyteller vertelt niet meer de verhalen van mercy en labyrinth
 03-04-2023
 --
 - [ ] magic thrown weapons, due to limited use, should be weapons as tactical openers /  aoe effects which can be used in combo with melee weapons. 
