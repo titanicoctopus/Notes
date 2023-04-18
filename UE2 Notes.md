@@ -5,6 +5,12 @@
 
 - [ ] Ter herinnering: balanced quality upgrade beschrijft 20% kortere cooldown. Tekst aanpassen
 - [ ] storyteller vertelt niet meer de verhalen van mercy en labyrinth
+- [ ] Integratie 'pray for help'
+	- [ ] idol / amulet?
+		- [ ] teleport to exit
+		- [ ] open doors
+- [ ] 
+
 03-04-2023
 --
 - [ ] magic thrown weapons, due to limited use, should be weapons as tactical openers /  aoe effects which can be used in combo with melee weapons. 
