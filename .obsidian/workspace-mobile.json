@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UE2 Notes.md",
+                "file": "Logiclab 2023-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Work",
+            "query": "tag:#hku",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "UE2 Notes.md",
+            "file": "Logiclab 2023-2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,13 +99,14 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "Hku 2022-2023.md",
+    "Logiclab 2023-2024.md",
+    "-==WORK==-.md",
+    "UE2 Notes.md",
     "==Project UNEXPLORED 2==.md",
     "-==to do==-.md",
-    "-==WORK==-.md",
     "S2 B3 applied games.md",
-    "Hku 2022-2023.md",
     "S2 B4 level design.md",
-    "UE2 Notes.md",
     "23-03-2023 hvA lectoraat meeting.md",
     "Hva meetings 2022-2023.md",
     "Hva 2022-2023.md",
