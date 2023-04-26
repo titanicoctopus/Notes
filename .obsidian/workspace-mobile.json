@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logiclab 2023-2024.md",
+                "file": "Unexplored RPG.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
           "type": "search",
           "state": {
             "query": "tag:#hku",
-            "matchingCase": true,
+            "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Logiclab 2023-2024.md",
+            "file": "Unexplored RPG.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,9 +99,9 @@
   },
   "active": "c3f79bd7262af50c",
   "lastOpenFiles": [
+    "-==WORK==-.md",
     "Hku 2022-2023.md",
     "Logiclab 2023-2024.md",
-    "-==WORK==-.md",
     "UE2 Notes.md",
     "==Project UNEXPLORED 2==.md",
     "-==to do==-.md",
