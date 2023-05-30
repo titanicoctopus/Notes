@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b65a6a0242b9f25",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,6 +66,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "09e014f69bdb4abb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -113,7 +132,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "15800bf2d9047e19",
+  "active": "2b65a6a0242b9f25",
   "lastOpenFiles": [
     "Logiclab 2023-2024.md",
     "-==to do==-.md",
