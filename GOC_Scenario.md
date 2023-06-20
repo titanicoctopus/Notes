@@ -9,12 +9,10 @@ When it first rung it created the elements:
 Brilliance, Darkness, Form, Heat, Cold, Fluid, 
 
 When it rung for the second time it created us and the others:
-The shadow crawlers who inhabit inbetween
-The immovable Gon who ponder what cannot be understoond
-The Diamond stars which 
+The shadow crawlers who inhabit the in-between
+The immovable Gon who ponder what cannot be understood
+The Diamond stars that eternally sing the songs of the Bell
 The Darklight Rings which connects us to one another
-The Star Dukes
+The Star Dukes who move forward never backwards.
 
-
-
-I am the god of 
+I am the Star Duke  
