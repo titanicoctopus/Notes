@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "1634cacbe71191ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +128,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7bcf98c947663a5a",
+  "active": "1634cacbe71191ac",
   "lastOpenFiles": [
     "-==to do==-.md",
     "Logiclab 2023-2024.md",
