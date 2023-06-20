@@ -2,6 +2,9 @@
 
 #rpg
 [[-==WORK==-]]
+
+[[GOC_Scenario]]
+
 Gods of Creation RPG.
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![misteroctopus@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F7609261390135e241a1c228d8288c3d8%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fmi.png&w=64&q=75)
