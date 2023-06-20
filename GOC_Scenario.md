@@ -15,4 +15,11 @@ The Diamond stars that eternally sing the songs of the Bell
 The Darklight Rings which connects us to one another
 The Star Dukes who move forward never backwards.
 
-I am the Star Duke  
+I am the Star Duke Alabaster
+I possess the Eye of Beyond, a relic of Brilliance
+
+I am the Star Duke Kreatur
+I possess the Shroud of Flame, a relic of Heat
+
+I am the Star Duke Zezak
+I possess the 
